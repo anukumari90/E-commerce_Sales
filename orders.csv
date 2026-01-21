@@ -1,0 +1,1001 @@
+order_id,customer_id,order_date,order_status,payment_mode,shipping_city,shipping_state,shipping_cost,total_amount
+1,380,2024-02-25,Cancelled,UPI,Amandastad,Arkansas,276.02,35884.39
+2,110,2025-12-02,Cancelled,Net Banking,Austinburgh,Connecticut,348.54,79204.91
+3,944,2024-03-31,Delivered,UPI,Cunninghamborough,Nebraska,429.78,51266.19
+4,545,2025-01-02,Pending,Credit Card,Billyville,California,44.39,13221.05
+5,354,2024-04-22,Delivered,Net Banking,West Robert,Maryland,225.33,74029.71
+6,743,2025-04-12,Pending,COD,Darylmouth,Wyoming,457.33,39990.35
+7,317,2025-02-26,Cancelled,Net Banking,Glennville,Virginia,380.54,26660.96
+8,266,2025-09-21,Pending,Net Banking,Michaelfort,Illinois,289.71,37862.11
+9,694,2024-03-31,Delivered,COD,Henrymouth,New Jersey,283.64,50026.78
+10,852,2025-09-14,Delivered,COD,West Christopher,Maryland,199.97,34639.99
+11,65,2025-07-22,Delivered,Credit Card,West Karenshire,West Virginia,279.44,24569.62
+12,333,2024-06-18,Pending,COD,Contrerasland,Wyoming,341.48,40150.95
+13,513,2025-10-28,Pending,Debit Card,Castroside,Kansas,232.45,2407.7
+14,133,2024-12-09,Pending,Debit Card,Burchshire,Connecticut,368.51,77363.54
+15,592,2024-12-27,Cancelled,Credit Card,South Krystal,Nevada,436.17,17509.02
+16,783,2024-05-26,Returned,UPI,Lambertland,Louisiana,111.16,4868.51
+17,753,2025-02-11,Returned,UPI,Rodriguezport,Arkansas,247.71,65543.02
+18,540,2024-12-25,Delivered,Debit Card,Hallchester,New Hampshire,227.69,77506.64
+19,735,2025-04-05,Cancelled,COD,Webstertown,Kansas,356.23,81476.0
+20,535,2024-02-10,Pending,Credit Card,Michelleville,Oregon,154.94,49604.16
+21,496,2024-03-11,Delivered,UPI,East Tony,Connecticut,334.52,20934.13
+22,621,2023-12-24,Cancelled,UPI,South Laurenbury,Montana,443.65,73854.15
+23,619,2025-08-20,Delivered,Net Banking,Jonesshire,Arkansas,232.34,70121.45
+24,657,2025-05-17,Cancelled,Debit Card,Jessicafort,Montana,459.07,25003.94
+25,369,2025-08-20,Cancelled,COD,North Kevinburgh,Texas,496.86,90389.07
+26,866,2025-04-30,Returned,Credit Card,South Jeremy,Michigan,88.8,10884.96
+27,909,2025-08-20,Delivered,UPI,Cherylchester,Missouri,147.2,98277.48
+28,910,2024-12-30,Pending,Net Banking,Mariahshire,North Dakota,477.17,86094.66
+29,651,2025-10-21,Returned,Debit Card,Peterstad,Wisconsin,480.83,68945.92
+30,796,2024-10-17,Returned,Debit Card,South Connie,Wisconsin,84.95,93905.61
+31,810,2025-03-27,Pending,Credit Card,South Douglasberg,Georgia,46.9,72369.96
+32,992,2024-04-28,Cancelled,UPI,Brianstad,Rhode Island,114.11,19450.47
+33,99,2024-04-15,Pending,Credit Card,East Jamie,Pennsylvania,498.17,44494.54
+34,317,2025-03-02,Delivered,Credit Card,Valenciashire,Utah,122.8,7614.55
+35,123,2025-04-14,Pending,Net Banking,Owensmouth,Virginia,271.17,39270.91
+36,320,2024-11-16,Cancelled,Debit Card,New Andrea,New Mexico,430.27,74289.5
+37,799,2025-04-13,Pending,COD,South Barbara,Vermont,49.38,38951.11
+38,593,2025-03-19,Cancelled,Debit Card,South Gregorychester,Georgia,318.06,33364.27
+39,495,2024-09-27,Cancelled,Debit Card,Port Cynthiaville,Hawaii,167.43,59737.89
+40,457,2024-09-20,Delivered,Net Banking,Myersside,Maryland,436.67,87284.35
+41,522,2025-05-20,Pending,COD,Sullivantown,West Virginia,170.39,5234.53
+42,520,2024-12-19,Pending,UPI,Davischester,Minnesota,355.91,38854.31
+43,917,2024-10-01,Delivered,COD,Daveland,Massachusetts,350.14,16244.95
+44,717,2025-02-18,Cancelled,UPI,Shaunmouth,Colorado,141.89,69687.75
+45,315,2025-05-26,Pending,COD,East Julie,Iowa,56.01,11019.59
+46,946,2024-08-02,Delivered,Credit Card,West Sethville,Idaho,228.25,66648.37
+47,709,2025-04-15,Cancelled,COD,Port Brent,Connecticut,173.03,28975.0
+48,710,2025-11-16,Delivered,Net Banking,Kellerland,Tennessee,412.13,20292.22
+49,542,2024-05-14,Pending,UPI,East Janicehaven,Colorado,408.17,93667.08
+50,479,2025-01-03,Delivered,Debit Card,Steventon,West Virginia,250.23,2343.2
+51,913,2024-12-29,Returned,Net Banking,Williamstown,Iowa,319.0,44058.84
+52,971,2024-01-08,Cancelled,UPI,Hancockport,Massachusetts,317.96,2651.89
+53,20,2024-01-24,Returned,UPI,Howellport,Utah,420.49,48617.51
+54,560,2025-06-29,Returned,Debit Card,Nicolechester,Delaware,235.5,50354.21
+55,969,2025-09-11,Cancelled,Credit Card,Juarezhaven,Mississippi,166.71,32505.42
+56,130,2024-12-08,Cancelled,Net Banking,Lake Susan,Iowa,161.92,13650.1
+57,293,2024-08-22,Delivered,Debit Card,Port Michael,Minnesota,286.65,37950.56
+58,897,2024-12-09,Cancelled,Debit Card,East Brandyberg,Maine,246.61,67390.16
+59,132,2024-11-19,Returned,Credit Card,Danielleshire,North Carolina,242.46,78348.38
+60,356,2024-12-06,Returned,Net Banking,Joyville,Rhode Island,81.92,53309.68
+61,54,2024-04-23,Pending,Debit Card,Jamesburgh,Florida,370.56,59188.52
+62,890,2025-11-03,Cancelled,Credit Card,Meltonberg,Oregon,138.32,20461.33
+63,793,2025-09-11,Returned,Net Banking,New Brittanystad,Rhode Island,130.6,29089.37
+64,387,2025-03-26,Pending,COD,Holmeshaven,Massachusetts,229.87,16608.61
+65,265,2024-07-18,Pending,UPI,Hamiltonfort,Mississippi,144.78,25304.89
+66,982,2025-01-16,Delivered,Credit Card,Hernandezmouth,Montana,308.57,22876.23
+67,215,2025-12-19,Returned,UPI,East Ashley,Nevada,210.87,52185.15
+68,460,2024-03-06,Delivered,COD,New Denisestad,Illinois,246.5,56487.53
+69,458,2025-07-31,Returned,Debit Card,New Alex,Washington,287.1,94522.27
+70,802,2025-03-02,Delivered,Debit Card,Jacobsburgh,Indiana,133.63,19959.28
+71,43,2025-03-21,Delivered,Net Banking,East Connietown,Oregon,111.65,64346.73
+72,586,2024-04-23,Cancelled,Credit Card,South Jimmyhaven,Montana,444.99,81817.3
+73,862,2024-04-03,Delivered,Credit Card,Zacharyfurt,Louisiana,239.51,56244.03
+74,278,2024-04-20,Cancelled,Net Banking,Isabellaburgh,Delaware,229.56,25872.86
+75,838,2025-03-12,Pending,UPI,North James,Mississippi,56.38,26623.75
+76,754,2024-06-30,Returned,Debit Card,West Cherylchester,Kentucky,269.07,4405.68
+77,130,2024-08-13,Pending,Debit Card,Peckberg,California,294.92,30891.7
+78,350,2025-06-10,Returned,Credit Card,Brandonfurt,Massachusetts,297.07,74588.07
+79,706,2025-02-15,Pending,Credit Card,Lake Karen,Washington,365.23,5228.02
+80,544,2025-12-18,Returned,Net Banking,East Nancy,Wyoming,121.64,22319.88
+81,106,2025-08-18,Delivered,COD,West Toni,Kansas,156.02,70770.13
+82,912,2024-03-01,Returned,UPI,Andersonburgh,Missouri,412.94,78373.83
+83,716,2024-10-20,Returned,COD,New Melindamouth,Wisconsin,475.7,45804.18
+84,1,2024-03-30,Pending,COD,East Russellshire,New York,102.53,69958.4
+85,757,2024-10-14,Pending,Credit Card,South Timothy,Connecticut,268.92,39101.24
+86,584,2024-04-23,Pending,Credit Card,New Michaelfort,Iowa,138.52,16411.37
+87,432,2025-01-31,Cancelled,Credit Card,New Lauren,Kentucky,67.63,40115.87
+88,306,2024-12-14,Cancelled,COD,New Pennyberg,Ohio,189.73,58206.8
+89,909,2025-01-24,Returned,UPI,Mataton,Colorado,106.1,94831.3
+90,527,2025-01-22,Returned,Credit Card,Powellborough,Michigan,366.57,7340.72
+91,53,2024-05-22,Delivered,Debit Card,Lake Joseph,New York,285.51,50985.71
+92,940,2024-08-16,Delivered,UPI,Port Hannahton,Idaho,106.16,33227.52
+93,520,2025-11-08,Returned,Debit Card,New Heatherport,Alaska,44.25,51077.01
+94,330,2024-12-27,Cancelled,UPI,Jenniferside,Nebraska,411.75,2885.56
+95,558,2025-12-16,Returned,Credit Card,Cartermouth,Mississippi,121.05,31646.02
+96,325,2025-11-15,Delivered,Net Banking,East Melanie,Louisiana,318.86,82076.88
+97,114,2025-11-06,Cancelled,Credit Card,Elizabethshire,Tennessee,194.98,55617.2
+98,147,2024-04-27,Cancelled,COD,Port Saraburgh,Indiana,309.32,45332.96
+99,166,2025-09-22,Delivered,COD,Jessicastad,Alaska,185.2,28909.74
+100,379,2024-01-24,Returned,UPI,Ewingberg,Alabama,79.99,30155.23
+101,139,2025-11-17,Pending,COD,Melanieville,Louisiana,142.56,38618.59
+102,629,2025-02-05,Returned,Credit Card,Gabrielville,Montana,126.51,83639.29
+103,299,2025-12-01,Returned,Debit Card,Colemanville,Ohio,236.89,96737.71
+104,276,2025-12-19,Delivered,Credit Card,Georgeside,Maryland,342.81,44146.21
+105,916,2024-05-22,Cancelled,UPI,Jessicashire,Indiana,161.35,39638.61
+106,789,2024-06-15,Delivered,COD,New Travis,South Carolina,45.55,84731.8
+107,850,2024-07-27,Returned,Debit Card,East Davidshire,New York,278.71,42977.08
+108,825,2024-06-10,Pending,Net Banking,Frankfort,Pennsylvania,318.65,55425.81
+109,178,2024-04-24,Pending,Debit Card,North Terrifurt,Illinois,482.92,23478.7
+110,842,2025-10-20,Pending,Debit Card,Mclaughlinmouth,North Dakota,311.16,74478.5
+111,354,2024-07-22,Delivered,Credit Card,Port Thomas,New Hampshire,256.74,53432.84
+112,154,2025-04-17,Cancelled,Net Banking,Millerburgh,Wisconsin,303.76,80998.94
+113,926,2024-07-18,Delivered,UPI,East Ashley,Montana,466.83,78182.91
+114,201,2024-04-13,Pending,UPI,North Michael,Minnesota,421.05,21892.97
+115,878,2024-12-21,Returned,Debit Card,Erikaside,Arkansas,188.57,71705.74
+116,115,2025-05-27,Cancelled,Debit Card,Port Ruthview,Arizona,149.14,80105.41
+117,671,2025-10-16,Delivered,COD,Lindaview,Massachusetts,160.81,34937.67
+118,554,2025-11-07,Delivered,Net Banking,Lancefurt,North Dakota,272.03,17674.61
+119,759,2024-01-26,Cancelled,Debit Card,North Anthonyberg,Oregon,382.26,761.9
+120,68,2024-11-30,Cancelled,COD,Lake Heatherburgh,New Jersey,271.48,45364.91
+121,445,2024-11-05,Returned,Net Banking,Port Vickiland,Utah,71.19,35567.06
+122,445,2024-05-10,Cancelled,UPI,Port Madeline,North Carolina,372.85,55713.53
+123,326,2025-11-19,Returned,COD,West Kathymouth,South Dakota,410.75,19210.09
+124,846,2025-04-12,Pending,Net Banking,New Carl,Vermont,173.17,86036.72
+125,708,2025-04-25,Pending,COD,North Donna,Wyoming,345.5,26146.64
+126,602,2025-08-12,Delivered,Debit Card,Josemouth,Colorado,236.23,23029.75
+127,623,2024-06-06,Pending,Credit Card,Ruizmouth,New Hampshire,448.99,48331.05
+128,880,2025-02-12,Pending,UPI,Brittanymouth,Utah,428.8,50135.68
+129,359,2024-09-25,Returned,Debit Card,North Willieburgh,Montana,281.7,21900.98
+130,145,2025-07-24,Delivered,Debit Card,Gonzalezberg,Hawaii,358.09,27550.14
+131,275,2024-06-08,Cancelled,Net Banking,New Zacharyburgh,New Hampshire,446.34,17385.67
+132,509,2024-01-10,Delivered,COD,East Jacqueline,Maryland,268.03,71986.79
+133,179,2024-01-28,Pending,UPI,East Hollychester,Kansas,184.1,77123.86
+134,753,2024-03-28,Cancelled,Debit Card,Kramerhaven,Missouri,386.69,46501.69
+135,838,2024-09-03,Delivered,Net Banking,New Sherryshire,Mississippi,141.23,71551.66
+136,831,2025-02-02,Delivered,UPI,Port Erika,Louisiana,218.72,73725.57
+137,477,2024-02-11,Delivered,COD,Lake Kyleport,Ohio,438.23,14258.42
+138,843,2024-03-13,Delivered,Debit Card,Patrickburgh,Maine,373.23,96634.71
+139,976,2024-09-19,Returned,Debit Card,South Wendyberg,Arizona,225.75,82192.68
+140,414,2025-09-30,Delivered,Debit Card,Fishertown,Vermont,138.78,20846.1
+141,153,2025-12-12,Pending,UPI,Jamesshire,Massachusetts,203.75,19023.42
+142,104,2025-11-07,Pending,UPI,East Michaelmouth,Missouri,170.69,13003.28
+143,75,2024-12-06,Returned,UPI,Armstrongmouth,Ohio,121.0,14268.67
+144,128,2025-08-30,Cancelled,UPI,Charlestown,Washington,381.93,74942.1
+145,711,2024-04-03,Cancelled,Net Banking,Rachelville,Mississippi,155.95,47230.6
+146,666,2024-10-06,Pending,Credit Card,Lake Manuel,Tennessee,248.92,78401.95
+147,568,2025-01-02,Pending,Net Banking,North Lisaton,Delaware,217.5,74752.36
+148,790,2025-03-09,Returned,Debit Card,Port Charlene,Maine,491.76,60658.96
+149,345,2025-11-15,Cancelled,Net Banking,South Amy,Kentucky,219.9,68793.48
+150,531,2025-03-18,Cancelled,COD,East Shawntown,New Mexico,76.79,2326.39
+151,159,2024-04-18,Delivered,UPI,Lake Corey,Michigan,81.32,31521.88
+152,538,2025-02-20,Delivered,COD,Kennethfort,Maine,311.75,63963.31
+153,426,2024-06-15,Delivered,COD,Saraberg,New Jersey,315.71,1429.82
+154,681,2024-09-10,Returned,Debit Card,Haletown,Vermont,232.63,3781.21
+155,996,2024-05-02,Pending,UPI,New Kennethmouth,Vermont,238.65,85262.85
+156,23,2024-03-06,Returned,COD,Port Ethan,Montana,64.81,68560.47
+157,47,2025-04-20,Cancelled,Debit Card,New Joshua,Arizona,277.61,26904.29
+158,525,2024-08-12,Pending,UPI,Port John,Illinois,272.18,68952.3
+159,729,2025-06-13,Delivered,Credit Card,West Patricia,Pennsylvania,108.79,79349.44
+160,834,2025-03-02,Returned,Debit Card,New Brett,Idaho,87.77,31026.03
+161,706,2025-02-16,Returned,Net Banking,New Gerald,Oklahoma,96.84,4085.72
+162,144,2024-02-13,Delivered,UPI,South Brian,Wisconsin,86.47,93311.52
+163,585,2025-04-09,Returned,COD,Lake Kristine,Rhode Island,320.47,34845.39
+164,668,2025-01-19,Delivered,COD,Ginafurt,Indiana,130.38,11094.94
+165,589,2024-12-15,Cancelled,Net Banking,West Michael,New Mexico,155.66,49439.76
+166,419,2025-03-23,Pending,Net Banking,West Danhaven,Texas,119.84,76962.55
+167,681,2024-12-29,Cancelled,COD,New Joseph,Pennsylvania,480.6,22553.91
+168,973,2024-09-07,Cancelled,UPI,New Barbaraville,Pennsylvania,433.12,27314.26
+169,799,2024-12-01,Delivered,Debit Card,West Lauratown,North Carolina,146.03,24650.14
+170,85,2025-02-11,Returned,Net Banking,New Victoria,Utah,190.68,99171.47
+171,416,2025-01-07,Cancelled,Net Banking,Port Hannah,Oklahoma,136.55,20141.67
+172,694,2024-07-27,Cancelled,Net Banking,New Lori,Arizona,266.26,57764.26
+173,482,2025-02-04,Cancelled,Credit Card,Earlborough,California,49.02,92563.83
+174,456,2024-10-11,Returned,UPI,East Jessica,Connecticut,348.83,15116.21
+175,827,2024-07-22,Returned,UPI,Thomasmouth,Arkansas,280.65,97099.99
+176,297,2025-04-25,Delivered,UPI,Greenfurt,Oklahoma,453.37,94773.98
+177,112,2024-08-06,Cancelled,UPI,Kelseyfurt,Texas,115.62,88514.91
+178,962,2024-07-05,Pending,UPI,East Brandon,Alaska,409.89,21848.37
+179,230,2025-03-05,Returned,COD,West Todd,New Hampshire,404.3,63588.48
+180,96,2024-03-04,Delivered,Net Banking,Davidberg,Mississippi,98.5,76208.7
+181,950,2025-02-05,Cancelled,COD,Marthaside,North Dakota,223.34,98609.78
+182,680,2025-09-12,Pending,Credit Card,Munozside,Colorado,118.27,18452.17
+183,378,2024-12-20,Returned,Debit Card,Thompsonland,Kansas,157.17,76719.58
+184,156,2024-08-13,Pending,Net Banking,Brittanymouth,South Dakota,161.09,34210.72
+185,421,2025-10-19,Returned,Credit Card,New Ashleyville,Mississippi,295.87,17974.83
+186,105,2024-04-15,Delivered,COD,North Bianca,Tennessee,229.25,42427.01
+187,705,2025-03-16,Pending,Debit Card,Sandrahaven,South Dakota,475.96,79486.67
+188,330,2024-08-17,Cancelled,Credit Card,Williamton,Kansas,98.13,46752.56
+189,439,2024-05-25,Cancelled,Debit Card,East Michaelafurt,Missouri,487.9,53983.55
+190,132,2025-05-05,Returned,Credit Card,South Kevinton,Louisiana,146.09,99518.36
+191,867,2024-12-25,Cancelled,COD,Jonesburgh,Montana,395.52,40211.38
+192,382,2024-02-04,Pending,Debit Card,Martinton,Wisconsin,195.93,61732.38
+193,138,2025-09-01,Delivered,Credit Card,Lake Jeffreymouth,Alabama,105.82,36841.8
+194,943,2025-08-10,Returned,COD,Rodriguezfurt,California,434.63,39582.17
+195,843,2025-06-06,Pending,Net Banking,West Ericshire,West Virginia,182.08,69716.25
+196,270,2025-08-10,Returned,COD,Port Williamland,New York,343.07,93819.75
+197,550,2024-10-14,Delivered,COD,West Roberto,Kansas,300.56,54464.72
+198,396,2024-03-19,Returned,Net Banking,Lake Amber,Idaho,257.01,76955.79
+199,557,2025-08-23,Cancelled,COD,Briantown,Wyoming,268.08,9376.05
+200,913,2024-05-23,Cancelled,Net Banking,North Jason,Alaska,376.83,21510.22
+201,464,2024-08-04,Returned,Net Banking,Williamsport,Georgia,80.38,50462.1
+202,675,2025-11-10,Delivered,Net Banking,West Eric,North Carolina,347.36,2491.17
+203,450,2024-12-22,Delivered,Credit Card,West Alvinburgh,Kentucky,452.07,25659.07
+204,331,2024-01-01,Cancelled,Debit Card,Lake Dennis,Maryland,66.58,51981.43
+205,253,2025-12-14,Delivered,Credit Card,Hernandezton,Florida,104.7,1988.64
+206,681,2025-08-18,Returned,Net Banking,Robertport,Maryland,369.65,26822.36
+207,963,2025-08-30,Pending,Debit Card,Matthewtown,Utah,241.15,51646.07
+208,285,2025-08-02,Returned,Debit Card,Lisafurt,Delaware,225.63,57528.35
+209,274,2025-01-01,Cancelled,Net Banking,West Davidbury,Washington,103.0,92612.29
+210,20,2025-01-21,Cancelled,Debit Card,Arthurport,Arkansas,273.11,64711.89
+211,239,2024-11-23,Cancelled,Debit Card,Lake Yolanda,Oregon,98.21,41766.21
+212,270,2025-06-20,Delivered,Credit Card,New Biancaville,South Dakota,259.25,93069.94
+213,418,2024-06-15,Returned,Debit Card,New Alicia,New York,391.26,78595.86
+214,945,2025-02-12,Pending,Net Banking,Port Julie,Maryland,158.8,20400.89
+215,310,2025-06-16,Returned,UPI,South Kylie,Connecticut,261.16,13518.81
+216,31,2025-05-12,Pending,UPI,Cynthiaville,Michigan,496.33,67743.26
+217,826,2025-01-08,Returned,UPI,East Justin,Arizona,355.86,56208.37
+218,104,2025-01-31,Cancelled,Net Banking,Russellchester,Alaska,427.02,79072.52
+219,682,2025-11-23,Pending,UPI,Nealfurt,Nevada,230.83,74011.1
+220,186,2025-08-14,Returned,Credit Card,West Larryview,Nevada,393.22,62708.55
+221,128,2025-03-07,Delivered,Net Banking,Ryanburgh,Utah,58.63,98645.03
+222,210,2024-03-04,Delivered,Net Banking,Sandersfort,Arizona,96.54,53592.18
+223,414,2025-09-05,Returned,Net Banking,East Tina,North Carolina,133.41,11754.02
+224,281,2024-01-29,Cancelled,Debit Card,West Joe,Maryland,224.9,82913.22
+225,959,2024-10-22,Pending,Debit Card,New Shawn,Missouri,429.04,25559.41
+226,253,2025-11-04,Returned,Debit Card,North Brandonberg,Indiana,199.28,77841.56
+227,19,2024-06-28,Delivered,COD,Terrimouth,Idaho,341.13,95732.16
+228,712,2024-10-18,Pending,Credit Card,Debraberg,Delaware,366.28,69831.15
+229,732,2024-05-17,Delivered,Net Banking,Port Hannahland,Arizona,309.64,59805.0
+230,136,2024-07-29,Delivered,Net Banking,Donovanland,Delaware,204.33,46308.42
+231,223,2024-10-13,Returned,Debit Card,South Katieburgh,North Carolina,305.44,36758.78
+232,3,2025-10-16,Delivered,Net Banking,North Anthonymouth,Missouri,197.44,35623.97
+233,963,2025-10-25,Pending,Net Banking,Lake Vanessa,Montana,78.58,63819.08
+234,236,2025-09-15,Cancelled,UPI,Hollowaytown,Wyoming,496.69,75251.68
+235,854,2024-09-12,Returned,Net Banking,South Maureenville,Florida,98.5,68012.45
+236,465,2025-05-04,Pending,COD,South Wendyport,Missouri,73.28,20241.81
+237,228,2025-01-22,Returned,Debit Card,Andersonton,Georgia,444.12,49651.72
+238,913,2024-04-19,Delivered,Credit Card,Byrdtown,Idaho,178.84,79268.19
+239,654,2024-05-31,Delivered,Credit Card,West Jasonberg,Utah,339.14,47832.56
+240,499,2025-10-20,Pending,UPI,Rodriguezview,New York,191.34,53894.02
+241,521,2025-12-19,Pending,Credit Card,South Craig,New Jersey,220.07,77228.04
+242,702,2025-05-03,Cancelled,Credit Card,Jonathanbury,New Jersey,160.57,66295.9
+243,862,2025-04-07,Pending,Debit Card,Richardsonview,Virginia,197.8,41229.82
+244,917,2025-07-30,Pending,Debit Card,Mooretown,New Hampshire,228.92,89593.56
+245,972,2024-09-07,Returned,COD,West Georgeland,New Mexico,371.39,16675.42
+246,677,2025-03-09,Delivered,UPI,East Tammyhaven,Georgia,275.31,99553.89
+247,992,2024-03-30,Pending,Credit Card,Darrellchester,Virginia,474.04,12325.83
+248,139,2024-09-11,Cancelled,COD,Jessicaberg,Minnesota,59.26,1987.52
+249,276,2024-09-03,Pending,UPI,Port Frederick,Illinois,271.41,89056.88
+250,291,2024-09-10,Delivered,Credit Card,West Cindyville,Michigan,308.74,24872.87
+251,53,2025-05-31,Pending,Credit Card,Traceystad,Mississippi,463.29,73105.11
+252,687,2024-06-03,Returned,Debit Card,New Amandashire,Hawaii,62.61,81196.03
+253,110,2025-12-17,Delivered,Net Banking,Lake Davidside,Texas,303.81,85969.15
+254,715,2025-09-23,Pending,UPI,Jackchester,Louisiana,432.67,99163.63
+255,948,2024-10-20,Returned,Credit Card,Pottshaven,Florida,151.29,29756.95
+256,648,2025-05-01,Delivered,UPI,North Robin,Idaho,443.09,71169.21
+257,4,2024-07-01,Pending,COD,New Marvin,Wisconsin,48.76,11982.29
+258,667,2024-11-15,Returned,COD,Port Shane,New Mexico,376.93,40977.52
+259,684,2025-10-26,Cancelled,Net Banking,Michaelburgh,Nevada,469.23,84873.18
+260,936,2025-02-01,Returned,Credit Card,New Shelby,Utah,342.31,37081.98
+261,870,2024-01-24,Cancelled,Debit Card,Stonemouth,Indiana,241.95,59313.99
+262,47,2025-08-27,Pending,Credit Card,North Amandamouth,Michigan,60.65,50625.46
+263,94,2024-12-11,Returned,UPI,Garciaborough,Alabama,463.25,64772.18
+264,940,2024-10-22,Cancelled,COD,North Judithmouth,Montana,256.34,97302.99
+265,560,2024-11-07,Delivered,UPI,Heatherberg,Nevada,53.34,6045.68
+266,752,2025-07-06,Returned,Net Banking,North Timothytown,Montana,357.32,57609.17
+267,859,2024-12-07,Pending,COD,New Jesusland,Montana,261.65,86371.36
+268,213,2024-11-09,Delivered,Debit Card,West Christinamouth,Rhode Island,97.2,48397.58
+269,436,2024-07-26,Cancelled,COD,Port Brady,South Carolina,138.57,8313.46
+270,852,2024-02-11,Returned,Credit Card,Shannonmouth,North Dakota,69.67,56273.67
+271,508,2024-04-04,Returned,Credit Card,Davidborough,Nebraska,304.18,33541.35
+272,836,2025-05-11,Pending,COD,North Patriciaberg,Connecticut,326.13,15916.71
+273,651,2025-08-13,Delivered,Net Banking,Dodsonburgh,North Dakota,272.64,84978.93
+274,205,2024-09-04,Returned,Credit Card,South Daniel,Louisiana,415.87,52399.15
+275,381,2024-04-13,Returned,Credit Card,Laurenville,Utah,436.06,93361.0
+276,73,2024-11-05,Delivered,Debit Card,Travisberg,New Jersey,323.19,80698.64
+277,516,2025-11-05,Returned,COD,Riosmouth,Illinois,45.87,69450.69
+278,76,2025-12-19,Delivered,Credit Card,Williamfort,Michigan,359.81,1000.04
+279,841,2025-03-21,Delivered,Net Banking,South Tracey,California,232.28,43068.43
+280,77,2023-12-23,Delivered,UPI,Oliviaville,West Virginia,300.16,20149.89
+281,816,2025-08-31,Pending,COD,Maryberg,Georgia,338.58,91124.39
+282,768,2024-06-14,Delivered,Debit Card,Lake Heatherfurt,Wisconsin,201.11,17871.11
+283,410,2024-01-22,Delivered,Credit Card,Kellyhaven,Iowa,461.87,28962.98
+284,614,2024-10-16,Cancelled,Net Banking,West Jamesfort,Minnesota,101.63,51925.26
+285,106,2024-12-06,Cancelled,COD,Barbarabury,Nevada,348.9,26704.68
+286,845,2024-02-01,Pending,Net Banking,Amberville,Delaware,42.01,21381.54
+287,551,2024-10-11,Delivered,Net Banking,Timothyville,Pennsylvania,465.34,60110.38
+288,476,2024-12-24,Cancelled,Debit Card,New Bobby,Washington,91.75,9348.49
+289,826,2024-05-24,Cancelled,COD,Davidport,Massachusetts,83.65,6287.69
+290,275,2025-01-04,Returned,Credit Card,Watsonshire,Wisconsin,193.18,37538.41
+291,88,2025-09-13,Delivered,Debit Card,West Danielle,New York,211.84,72206.11
+292,723,2025-07-24,Cancelled,Credit Card,Sierrashire,Connecticut,138.58,55703.27
+293,881,2024-05-10,Pending,UPI,Murphyberg,Alabama,309.16,42576.21
+294,77,2025-03-13,Returned,Net Banking,Rachelmouth,Texas,243.74,56792.28
+295,77,2025-10-20,Returned,UPI,Travisside,Iowa,55.72,36862.42
+296,442,2024-07-07,Delivered,Net Banking,Fleminghaven,Wisconsin,187.04,93646.56
+297,540,2025-01-04,Delivered,Debit Card,West Teresa,Kansas,412.8,5963.04
+298,245,2024-05-06,Returned,Credit Card,South Curtishaven,Kentucky,357.26,67502.45
+299,578,2024-08-09,Pending,Credit Card,Jenningsshire,New Mexico,373.44,89182.63
+300,778,2025-04-26,Delivered,Debit Card,Maddenhaven,Georgia,361.13,80486.53
+301,382,2025-08-19,Delivered,COD,Lisatown,Texas,183.05,18812.08
+302,982,2024-03-22,Returned,UPI,Andersonton,Alabama,85.85,29944.67
+303,717,2025-01-14,Returned,UPI,Christineview,Maryland,165.33,71846.27
+304,570,2025-02-28,Delivered,Credit Card,Port Monica,Oregon,422.62,8884.92
+305,713,2025-10-18,Cancelled,Credit Card,Mariaborough,New Jersey,491.02,81280.24
+306,737,2024-05-08,Delivered,Credit Card,Blackside,Rhode Island,267.17,72031.24
+307,142,2025-11-18,Cancelled,Debit Card,Edwardhaven,Idaho,44.46,73095.86
+308,893,2025-08-30,Returned,COD,Annaport,Tennessee,104.42,10474.02
+309,368,2025-12-16,Cancelled,UPI,Brownchester,Florida,188.16,71917.17
+310,84,2025-02-21,Pending,Net Banking,Grantport,Colorado,306.15,68141.9
+311,143,2025-04-12,Returned,Debit Card,North Michaelport,Massachusetts,74.54,83176.79
+312,352,2024-12-21,Delivered,UPI,South Heather,Arkansas,473.94,4638.8
+313,545,2025-07-27,Delivered,COD,Barberton,Virginia,207.94,2799.51
+314,913,2025-07-09,Returned,Debit Card,East Haley,Ohio,459.79,37614.21
+315,152,2024-03-27,Returned,UPI,South David,Rhode Island,399.04,15304.43
+316,158,2025-12-15,Pending,Debit Card,Port Lynnfort,West Virginia,387.5,56059.26
+317,446,2024-06-10,Returned,UPI,Chavezhaven,New Jersey,319.09,91776.22
+318,653,2025-03-24,Delivered,UPI,Schultzfort,Minnesota,328.32,39452.23
+319,958,2025-06-05,Pending,COD,Port Jeffrey,Hawaii,333.48,84572.56
+320,763,2024-07-31,Delivered,Net Banking,Munozport,New Hampshire,329.21,523.97
+321,303,2024-10-19,Cancelled,COD,West Thomaschester,Indiana,294.71,17267.21
+322,624,2024-02-29,Returned,UPI,Bellbury,New Mexico,493.75,3527.14
+323,656,2025-06-16,Cancelled,Debit Card,Port Victoria,Nebraska,376.85,33150.64
+324,450,2025-05-08,Delivered,COD,Yoderton,Oklahoma,397.4,90864.86
+325,721,2025-06-19,Cancelled,Net Banking,Jenniferstad,Illinois,441.33,10146.74
+326,224,2024-06-17,Cancelled,UPI,New Brittany,Michigan,139.19,60837.77
+327,43,2025-10-20,Delivered,COD,Youngburgh,Indiana,78.55,45423.85
+328,264,2025-06-12,Delivered,COD,Trevinoland,Arkansas,262.13,93877.59
+329,756,2025-08-03,Returned,COD,Esparzaport,Nebraska,276.48,12690.65
+330,3,2025-05-07,Cancelled,COD,Mariastad,Mississippi,421.42,21596.77
+331,637,2024-01-07,Pending,Debit Card,North Bianca,North Dakota,244.14,3439.43
+332,268,2025-03-08,Pending,Net Banking,West Heatherstad,Kansas,302.59,43676.56
+333,596,2025-08-18,Delivered,Net Banking,Paulchester,New York,282.45,28144.37
+334,16,2024-12-10,Delivered,UPI,North Jane,Wisconsin,57.57,87055.64
+335,334,2024-10-06,Cancelled,Credit Card,Butlerstad,Massachusetts,323.0,60691.61
+336,464,2025-12-12,Delivered,Debit Card,South Reneeton,South Carolina,420.9,61602.03
+337,59,2024-05-18,Pending,UPI,Port Donnafort,Massachusetts,112.45,53425.11
+338,177,2025-06-14,Returned,UPI,Wagnershire,Maine,313.39,9639.11
+339,63,2024-01-24,Returned,COD,Kempshire,New Mexico,313.06,44779.36
+340,958,2024-05-07,Cancelled,Credit Card,East Seth,North Dakota,115.53,99950.77
+341,561,2024-08-13,Returned,Credit Card,Brandiborough,Idaho,96.79,83605.31
+342,307,2024-12-06,Delivered,Debit Card,Michaeltown,Massachusetts,490.82,89399.18
+343,246,2025-07-31,Delivered,Credit Card,Dickersontown,Montana,221.11,82411.02
+344,289,2024-05-08,Delivered,UPI,Meltonfort,West Virginia,144.61,10752.65
+345,798,2024-10-09,Delivered,Credit Card,North Patrickport,New York,118.81,23131.1
+346,955,2024-09-13,Cancelled,Credit Card,Randallmouth,Mississippi,347.1,810.6
+347,332,2025-08-12,Returned,Net Banking,East Natalieburgh,West Virginia,320.34,30699.26
+348,527,2024-03-10,Pending,UPI,South Stephaniefort,Illinois,336.03,11306.44
+349,850,2024-09-04,Returned,Credit Card,West Desireeview,Idaho,80.48,47542.94
+350,255,2025-07-12,Delivered,Credit Card,Nicholsberg,Iowa,451.03,67874.19
+351,604,2024-05-05,Pending,COD,South Jennifer,North Dakota,219.06,87513.28
+352,510,2024-11-10,Cancelled,Credit Card,Meganton,Maine,184.15,75047.11
+353,791,2024-05-25,Delivered,Credit Card,New Mandyfort,Georgia,252.69,93889.27
+354,718,2025-10-25,Delivered,Net Banking,Lake Rachel,Oklahoma,219.43,5862.88
+355,606,2024-08-19,Pending,UPI,Mendezburgh,Hawaii,437.25,1711.89
+356,737,2024-10-20,Cancelled,Debit Card,West Samuel,New York,467.46,66303.14
+357,813,2025-10-05,Pending,UPI,Dennisburgh,New York,179.59,29290.56
+358,830,2025-10-23,Cancelled,COD,New Christineburgh,Kentucky,437.41,25723.35
+359,463,2024-04-26,Delivered,UPI,Lake Michaelland,South Dakota,399.5,33423.27
+360,199,2025-04-26,Returned,Credit Card,Allisonview,Indiana,468.17,27344.71
+361,271,2024-08-15,Delivered,COD,Robertsport,Rhode Island,153.05,51387.92
+362,746,2025-01-13,Returned,UPI,East Nancy,Pennsylvania,305.4,44294.77
+363,558,2024-10-12,Returned,COD,Denisemouth,Montana,166.29,51486.64
+364,64,2025-08-26,Cancelled,Debit Card,Ruizland,Iowa,419.08,67435.0
+365,230,2025-05-22,Pending,UPI,Port Greg,Pennsylvania,42.45,39019.49
+366,942,2025-05-18,Cancelled,Credit Card,North Ashley,Hawaii,299.82,25505.11
+367,952,2025-09-10,Delivered,COD,Owenshaven,Connecticut,196.03,17036.95
+368,249,2025-03-06,Pending,Net Banking,Troystad,Louisiana,188.43,35272.67
+369,246,2024-04-28,Returned,COD,Bensonton,West Virginia,336.66,74309.74
+370,940,2024-03-31,Returned,Net Banking,New Danielle,Florida,431.68,75792.14
+371,587,2025-04-10,Delivered,Credit Card,North Tonya,Georgia,320.23,66857.09
+372,157,2025-10-11,Pending,Debit Card,North Jerryport,Idaho,432.46,23785.8
+373,735,2025-05-21,Delivered,Net Banking,Grahammouth,Maryland,161.71,59014.58
+374,702,2024-03-12,Delivered,Debit Card,Michelletown,Michigan,278.97,57283.62
+375,985,2025-06-26,Cancelled,COD,East Alexis,Florida,247.25,48684.49
+376,564,2024-12-04,Delivered,Credit Card,New Veronicaville,Alaska,45.36,55222.91
+377,950,2024-08-12,Pending,Net Banking,West Calvin,Kentucky,296.13,49433.17
+378,88,2025-07-28,Delivered,COD,Tateville,Nebraska,344.3,56762.91
+379,313,2025-07-11,Pending,UPI,Hammondstad,New Jersey,312.28,71692.84
+380,851,2024-06-02,Returned,COD,Cardenasborough,Pennsylvania,378.69,11408.01
+381,66,2024-02-02,Delivered,Debit Card,Lauratown,West Virginia,302.82,75087.76
+382,662,2024-11-19,Pending,Credit Card,West Sarah,Kansas,70.71,14020.67
+383,20,2024-05-04,Returned,Credit Card,Carlabury,Illinois,93.56,7129.49
+384,33,2024-11-29,Pending,COD,Hughesburgh,Maine,314.38,97619.93
+385,840,2025-03-20,Returned,UPI,Scottberg,New York,166.49,95720.68
+386,793,2024-01-04,Cancelled,Debit Card,Gardnerbury,Washington,76.64,6513.44
+387,558,2025-05-08,Delivered,COD,Lake Jessicaberg,Arkansas,237.62,44603.72
+388,73,2024-10-07,Delivered,COD,Port Nathanview,Washington,294.99,19031.37
+389,866,2024-07-11,Returned,Credit Card,East Jenniferborough,North Carolina,191.22,48791.82
+390,825,2025-01-25,Cancelled,Debit Card,Lake Emilytown,California,371.4,83102.64
+391,343,2024-04-19,Pending,UPI,Kathleenmouth,Florida,336.13,95085.87
+392,133,2025-11-02,Cancelled,Credit Card,North Joseph,Indiana,193.1,63608.14
+393,55,2025-08-05,Pending,COD,South Mario,Arkansas,387.24,35713.61
+394,61,2025-08-20,Pending,Credit Card,Port Michael,Florida,338.4,60530.89
+395,857,2025-04-25,Delivered,Credit Card,North Jesse,Connecticut,333.22,31544.13
+396,520,2025-05-10,Returned,Net Banking,Brandonport,Massachusetts,294.58,91027.45
+397,272,2024-10-18,Delivered,Credit Card,South Michael,West Virginia,45.24,87104.85
+398,246,2024-06-10,Delivered,Credit Card,North Stevenville,Michigan,360.39,56044.06
+399,176,2024-09-08,Delivered,Debit Card,North Sandraview,North Dakota,212.98,32817.49
+400,628,2025-01-11,Pending,Credit Card,Port Dennis,Massachusetts,473.6,29692.27
+401,317,2025-07-30,Delivered,UPI,East Mitchell,Illinois,416.27,3825.09
+402,783,2024-03-26,Pending,COD,Gonzalezstad,West Virginia,310.34,81674.17
+403,705,2024-08-05,Returned,Debit Card,Waynehaven,Maine,156.0,45313.13
+404,662,2025-10-22,Pending,Credit Card,New Heatherview,Maine,133.71,32850.73
+405,131,2025-07-12,Pending,UPI,East Felicia,Ohio,196.58,47375.48
+406,102,2024-07-24,Cancelled,COD,New Derekborough,Indiana,259.22,81964.43
+407,310,2024-11-08,Delivered,Debit Card,East Julieberg,Colorado,176.19,12899.11
+408,782,2025-10-04,Delivered,UPI,Fitzgeraldshire,North Carolina,276.87,85836.77
+409,292,2024-11-21,Delivered,Credit Card,Tinaville,Kentucky,116.07,89802.13
+410,722,2024-03-23,Delivered,Net Banking,Wilsonbury,North Dakota,489.75,94697.44
+411,495,2025-06-23,Cancelled,Net Banking,West Richardbury,Idaho,89.65,40050.06
+412,361,2024-10-04,Cancelled,Debit Card,Priceview,Florida,468.69,22105.47
+413,338,2025-07-31,Cancelled,UPI,Lake Richardland,New Hampshire,460.25,37677.26
+414,579,2024-11-01,Cancelled,COD,Melanieport,Oklahoma,281.67,33624.75
+415,10,2025-06-18,Delivered,UPI,New Ricky,Kentucky,373.46,18027.31
+416,49,2025-11-15,Pending,Net Banking,Anthonyberg,Colorado,240.58,60923.03
+417,487,2024-05-05,Returned,Debit Card,Taylorbury,West Virginia,329.82,47924.1
+418,623,2024-11-09,Cancelled,Credit Card,Robertland,Maryland,196.66,86637.25
+419,321,2025-11-20,Pending,UPI,East Nicole,Rhode Island,178.53,3694.9
+420,731,2024-08-22,Cancelled,Net Banking,North Annetteport,Mississippi,305.99,64564.86
+421,569,2025-08-11,Delivered,COD,Lake Carolyn,South Carolina,269.14,76413.41
+422,795,2025-11-25,Delivered,Debit Card,West Laura,Arkansas,306.59,76068.91
+423,971,2024-04-18,Pending,Credit Card,Lake Alvin,Vermont,171.86,88664.36
+424,625,2025-02-15,Pending,UPI,Port Richard,Rhode Island,208.8,73038.86
+425,133,2025-10-02,Pending,COD,North Melissafurt,Tennessee,78.59,92817.1
+426,583,2025-05-07,Delivered,Credit Card,Port Laura,Nebraska,64.05,33599.33
+427,83,2024-06-26,Delivered,Net Banking,East Madelineberg,Oklahoma,156.59,50569.34
+428,57,2025-11-19,Returned,Net Banking,Lake Colton,Colorado,74.15,1900.93
+429,376,2025-05-01,Pending,COD,Davisland,South Dakota,87.74,1192.28
+430,349,2024-07-01,Returned,Net Banking,Port Mario,Delaware,413.95,24392.6
+431,271,2024-06-03,Cancelled,Debit Card,South Chris,Nebraska,57.88,10530.32
+432,483,2025-03-04,Returned,COD,Chloefort,Nevada,343.11,26391.03
+433,111,2023-12-24,Cancelled,Net Banking,Rossfurt,Kentucky,165.38,18115.81
+434,869,2025-01-03,Cancelled,UPI,Port Ashleyberg,Wyoming,440.91,3337.74
+435,887,2025-01-19,Returned,Net Banking,Samanthaville,Montana,263.1,90975.76
+436,76,2024-07-26,Pending,Debit Card,Ortizstad,Ohio,180.57,1318.2
+437,158,2024-11-17,Cancelled,Credit Card,Alisontown,Maine,278.11,73740.17
+438,532,2025-09-02,Pending,Credit Card,Schneiderport,Colorado,215.7,15638.71
+439,933,2025-10-18,Delivered,Net Banking,Kellymouth,California,299.58,91266.85
+440,643,2024-10-13,Cancelled,Credit Card,New Patrickport,Pennsylvania,92.69,89333.2
+441,329,2025-10-23,Delivered,Net Banking,Websterfurt,Michigan,498.62,65563.16
+442,122,2025-06-10,Returned,Debit Card,Samuelland,South Dakota,235.76,67387.3
+443,41,2024-05-26,Pending,Credit Card,Hernandezside,Oklahoma,200.19,1031.24
+444,167,2025-07-29,Returned,UPI,New Cameronborough,Maryland,366.7,98494.72
+445,922,2025-01-26,Cancelled,Net Banking,Audreytown,North Carolina,207.39,87844.34
+446,642,2025-08-31,Delivered,Credit Card,Chrismouth,Hawaii,423.31,89563.07
+447,23,2025-04-28,Cancelled,Debit Card,Lake Brandon,Delaware,248.96,66094.83
+448,279,2025-09-11,Returned,Debit Card,New Tonya,Arkansas,371.0,34806.3
+449,763,2024-10-14,Pending,UPI,West Patriciaberg,Pennsylvania,89.43,89418.04
+450,469,2025-01-24,Pending,Debit Card,New Nicholas,Maryland,429.21,29505.93
+451,400,2024-09-01,Cancelled,Debit Card,Robertmouth,Kentucky,378.43,56489.8
+452,9,2025-05-20,Cancelled,Credit Card,Lake Amymouth,Utah,137.39,10423.23
+453,13,2024-10-14,Delivered,Net Banking,New Samanthastad,Ohio,106.83,92234.59
+454,924,2025-06-02,Returned,COD,East Mary,New Jersey,185.49,14506.66
+455,923,2025-08-08,Cancelled,Debit Card,East Tracymouth,Colorado,488.99,22877.23
+456,819,2024-02-28,Delivered,Debit Card,Andersonhaven,Alabama,158.14,56034.35
+457,832,2024-06-28,Cancelled,COD,West Drewtown,South Dakota,249.82,76527.25
+458,52,2024-03-16,Pending,Debit Card,Corymouth,Tennessee,53.81,62125.45
+459,209,2024-09-28,Delivered,Credit Card,Elizabethmouth,Minnesota,222.72,23597.32
+460,550,2024-04-09,Delivered,Credit Card,Lake Michael,Vermont,302.81,593.83
+461,612,2025-02-13,Cancelled,COD,Lake Deanna,Connecticut,478.44,75836.48
+462,705,2025-02-20,Returned,Debit Card,New Justinport,New Jersey,277.7,98528.13
+463,402,2024-12-30,Pending,Debit Card,Cardenasfurt,Idaho,416.79,81086.36
+464,191,2024-07-31,Returned,Net Banking,Lake Lisabury,Nevada,291.68,46290.56
+465,51,2025-05-22,Delivered,Debit Card,New Craig,Arkansas,58.76,90424.84
+466,393,2025-09-08,Returned,Credit Card,Bonillamouth,Connecticut,184.9,41279.84
+467,653,2024-07-09,Delivered,UPI,East Karen,Illinois,304.75,52730.94
+468,680,2025-06-21,Returned,UPI,Hectorhaven,New Hampshire,477.27,47974.41
+469,823,2024-03-15,Cancelled,UPI,Ambermouth,Arkansas,435.2,45038.58
+470,621,2024-11-30,Returned,UPI,Lake Andrewborough,North Dakota,145.04,77631.48
+471,719,2025-02-02,Delivered,Debit Card,South Willie,Delaware,141.25,52913.51
+472,939,2025-04-18,Pending,Debit Card,Lake Vincent,South Carolina,132.54,32013.35
+473,300,2025-11-29,Pending,Net Banking,Shieldsmouth,Minnesota,464.35,26186.74
+474,622,2025-03-18,Pending,Debit Card,West Jesus,Vermont,432.23,4255.86
+475,196,2025-03-15,Delivered,UPI,Teresafort,Massachusetts,396.45,58527.92
+476,417,2025-04-04,Returned,COD,Burketon,New Mexico,220.66,23381.16
+477,664,2025-03-16,Pending,COD,Williamsborough,Alaska,272.02,15239.33
+478,420,2024-06-28,Pending,Credit Card,Kingtown,Pennsylvania,253.59,65556.08
+479,755,2024-11-02,Pending,Credit Card,Millertown,New York,156.56,68280.32
+480,640,2024-04-05,Cancelled,Debit Card,Boydport,Vermont,272.31,75339.41
+481,617,2024-05-19,Delivered,COD,Garciafort,New York,54.03,50605.9
+482,522,2024-10-23,Delivered,UPI,Mcfarlandhaven,Florida,100.63,89458.43
+483,356,2024-12-06,Delivered,UPI,East Shannonton,Oklahoma,447.83,93666.1
+484,148,2025-03-20,Delivered,UPI,Jimborough,New Jersey,385.77,80833.41
+485,365,2024-07-09,Delivered,Debit Card,West Mark,Nevada,234.52,63741.55
+486,364,2024-06-02,Cancelled,Debit Card,Davefurt,Massachusetts,277.89,30720.23
+487,971,2025-03-13,Returned,Net Banking,East Lisastad,Kansas,210.2,98303.02
+488,652,2024-11-06,Cancelled,UPI,South Dannyport,North Dakota,380.76,27776.55
+489,702,2025-10-13,Pending,UPI,South Susanhaven,New York,400.73,20664.36
+490,402,2025-04-20,Cancelled,Debit Card,Chadville,Wisconsin,391.11,44494.33
+491,606,2025-08-15,Delivered,Debit Card,Millston,New Jersey,372.4,6155.64
+492,492,2025-04-06,Cancelled,Net Banking,West Lauren,West Virginia,134.07,97860.2
+493,229,2024-01-27,Delivered,Net Banking,Rodriguezland,Utah,195.47,59049.14
+494,575,2023-12-23,Cancelled,Credit Card,North Melissa,Massachusetts,256.13,55916.73
+495,852,2025-04-25,Delivered,COD,Perezchester,Wyoming,192.16,65751.73
+496,537,2024-02-21,Pending,UPI,Nicholaston,Utah,387.27,49953.85
+497,268,2025-01-07,Delivered,UPI,North Ellen,Kentucky,191.5,3690.32
+498,405,2025-12-19,Cancelled,Net Banking,New Jeanshire,Oregon,103.59,61424.97
+499,793,2025-01-07,Pending,Net Banking,Lewismouth,Indiana,223.56,71759.3
+500,11,2025-05-30,Cancelled,Credit Card,Collinston,Colorado,490.76,41966.53
+501,320,2025-09-19,Pending,COD,Gonzalesland,Washington,143.91,75850.91
+502,713,2024-12-24,Returned,Credit Card,Madisonshire,Indiana,321.59,23086.63
+503,126,2025-08-07,Returned,COD,Kristinbury,Oklahoma,239.17,22517.02
+504,306,2024-04-26,Returned,UPI,Wayneshire,Oregon,72.67,16560.99
+505,702,2024-03-18,Cancelled,Credit Card,New Mariaton,Arkansas,264.42,37513.48
+506,511,2024-11-22,Cancelled,Net Banking,North Seth,Oregon,363.0,84777.7
+507,89,2024-01-27,Pending,Credit Card,East Joycetown,Kansas,276.08,82877.25
+508,355,2025-02-04,Pending,Credit Card,East Alyssa,Texas,441.17,38591.01
+509,628,2024-08-02,Pending,UPI,North Alyssaside,Oklahoma,172.91,59117.31
+510,352,2025-11-15,Pending,Net Banking,South Brittanybury,Nevada,79.67,72221.22
+511,689,2024-04-08,Delivered,Net Banking,North Brandon,Missouri,470.82,24500.07
+512,14,2025-11-06,Returned,Debit Card,New Dennisfort,North Carolina,213.97,17230.04
+513,257,2025-07-30,Delivered,Debit Card,Lake Tammyfurt,New York,305.15,97223.55
+514,209,2024-06-09,Delivered,Debit Card,Lake Jessehaven,North Carolina,404.32,61946.95
+515,281,2025-04-27,Delivered,UPI,South Madisonborough,Wisconsin,189.18,98150.86
+516,443,2025-12-21,Delivered,Credit Card,West Travis,Vermont,369.44,34106.72
+517,840,2025-11-29,Returned,Net Banking,South David,New Mexico,102.29,70451.65
+518,837,2025-06-26,Delivered,Net Banking,Lake Justinbury,Arizona,174.0,22649.06
+519,389,2024-06-30,Pending,Credit Card,East Michael,Wyoming,106.57,26489.42
+520,617,2023-12-25,Cancelled,Net Banking,New Catherinebury,Nevada,413.17,51434.26
+521,483,2025-05-29,Pending,Credit Card,New Leslie,California,142.42,32302.0
+522,147,2024-07-02,Cancelled,UPI,Jamiemouth,Wisconsin,370.01,17178.35
+523,279,2023-12-29,Pending,UPI,South Tammie,Maryland,473.92,26656.63
+524,521,2024-08-08,Pending,UPI,Melissatown,Texas,282.78,4056.97
+525,630,2024-07-01,Cancelled,Credit Card,Sheryltown,Arizona,288.41,70590.15
+526,606,2024-09-24,Returned,Credit Card,Whiteburgh,Tennessee,252.08,49465.61
+527,434,2024-11-15,Delivered,COD,Hendersonchester,Delaware,189.91,9877.19
+528,144,2025-07-13,Pending,Net Banking,South Sarahside,Alaska,258.8,17583.55
+529,289,2025-07-24,Returned,Net Banking,East Johnnyhaven,Oregon,317.29,10702.19
+530,386,2024-01-16,Delivered,COD,Campbellburgh,Kentucky,493.56,61452.98
+531,14,2025-06-30,Returned,COD,Wilsonshire,Utah,471.37,9873.93
+532,257,2024-05-30,Returned,UPI,Port Stacystad,Mississippi,436.59,75551.09
+533,346,2024-03-16,Delivered,COD,Shannonmouth,Iowa,449.0,2540.84
+534,698,2024-06-20,Pending,Credit Card,Port John,Ohio,255.21,25312.89
+535,345,2025-04-26,Returned,Debit Card,New Doris,Indiana,342.42,89121.33
+536,400,2024-03-10,Pending,Credit Card,Brownton,Montana,451.73,71993.87
+537,207,2024-05-09,Pending,COD,Williamport,New Jersey,220.76,7760.35
+538,858,2025-06-09,Pending,Net Banking,Port Mariahton,Wisconsin,482.41,82202.05
+539,943,2025-02-22,Delivered,Credit Card,Oliverburgh,Arkansas,231.26,49556.99
+540,172,2024-10-18,Cancelled,Net Banking,Nolanview,New Hampshire,316.5,84754.91
+541,464,2024-03-16,Pending,Credit Card,Brittanytown,Illinois,366.51,60273.61
+542,270,2024-08-07,Cancelled,Net Banking,Greenhaven,Rhode Island,477.27,68342.39
+543,221,2024-04-21,Cancelled,Credit Card,West Carlhaven,Wyoming,152.52,99353.41
+544,152,2025-11-15,Returned,Net Banking,Port Alvin,Kentucky,383.22,23617.39
+545,623,2025-03-11,Pending,Debit Card,Barkerside,Arkansas,279.58,62582.58
+546,183,2024-07-17,Pending,UPI,Hollyport,Kansas,163.54,46301.98
+547,399,2024-08-20,Pending,Credit Card,Lawrencetown,Oregon,397.24,4425.47
+548,851,2025-06-22,Cancelled,Debit Card,New Ryan,Alabama,294.02,1939.83
+549,72,2025-07-30,Delivered,UPI,Sparksmouth,Michigan,344.05,12363.24
+550,418,2025-11-15,Cancelled,Credit Card,Clarkside,Wyoming,188.53,65084.63
+551,898,2025-03-30,Pending,Debit Card,Brownchester,Alaska,261.39,56932.73
+552,283,2025-11-07,Pending,Debit Card,Miashire,Washington,323.98,55566.24
+553,74,2024-04-28,Pending,Debit Card,New Tracy,Minnesota,226.26,3669.75
+554,355,2024-09-07,Cancelled,COD,East Robertmouth,Arizona,131.25,47195.65
+555,727,2024-05-26,Pending,Net Banking,Port Grace,Georgia,482.35,92499.97
+556,497,2024-10-01,Returned,UPI,Salasshire,California,275.28,40060.39
+557,328,2024-11-18,Pending,Net Banking,Fergusonberg,Montana,377.6,62679.79
+558,988,2024-09-12,Delivered,Net Banking,Lake Ashleyburgh,New Jersey,229.08,78091.96
+559,535,2024-04-12,Returned,Net Banking,Terrimouth,Vermont,203.36,78500.57
+560,580,2024-07-11,Pending,Debit Card,Markburgh,Minnesota,227.3,52168.37
+561,910,2024-10-02,Returned,Net Banking,Turnerchester,Alaska,228.23,85866.22
+562,447,2025-11-25,Pending,COD,Moralesville,Georgia,290.32,39442.12
+563,373,2025-05-15,Delivered,Credit Card,North Paigebury,New Mexico,290.0,88924.97
+564,362,2024-08-10,Pending,Debit Card,West Keithview,Arkansas,268.69,24402.6
+565,93,2024-05-07,Returned,UPI,New Sandra,North Carolina,102.0,28381.53
+566,321,2025-07-15,Delivered,Credit Card,Lewiston,Oklahoma,268.19,5785.5
+567,324,2025-10-08,Cancelled,Credit Card,New Shannon,Rhode Island,117.79,79660.39
+568,384,2025-02-19,Delivered,Credit Card,Woodsland,Nevada,98.02,41997.0
+569,575,2024-11-14,Delivered,Net Banking,North Masonton,Idaho,469.02,23297.1
+570,736,2024-07-20,Delivered,Net Banking,Sophiamouth,Vermont,318.28,23563.13
+571,737,2025-09-02,Returned,Debit Card,West Nicole,Illinois,343.37,90189.29
+572,881,2024-02-06,Delivered,Net Banking,Lisachester,Maine,224.83,83474.7
+573,346,2024-09-13,Pending,Net Banking,East Holly,Massachusetts,458.13,55576.32
+574,849,2024-02-10,Delivered,Net Banking,Haleymouth,New York,333.45,61803.02
+575,103,2025-11-16,Delivered,Debit Card,Port Joel,Hawaii,393.82,47695.39
+576,215,2024-11-23,Pending,Debit Card,Lake Michealtown,Florida,209.54,39470.82
+577,192,2024-06-20,Pending,COD,South Natasha,Indiana,481.61,91589.95
+578,672,2025-05-14,Cancelled,COD,Robynton,Nevada,417.41,12998.46
+579,884,2025-12-07,Delivered,COD,Lopezborough,Oregon,432.82,42135.46
+580,719,2025-12-06,Returned,COD,North Spencer,Delaware,119.21,34783.91
+581,781,2024-09-25,Delivered,Credit Card,Popeton,Tennessee,164.64,50066.0
+582,194,2024-12-25,Delivered,Credit Card,Port Brandon,Wyoming,171.39,46034.37
+583,380,2024-11-19,Pending,COD,New Susan,Maine,164.62,52129.51
+584,403,2024-01-22,Cancelled,COD,Burnsbury,Colorado,433.49,14421.94
+585,664,2024-08-05,Delivered,UPI,New James,West Virginia,54.67,51557.58
+586,749,2025-10-22,Returned,Credit Card,Lake Hayley,Missouri,75.01,24620.67
+587,600,2024-01-06,Delivered,UPI,South Rachel,West Virginia,166.0,18840.97
+588,11,2025-07-01,Returned,UPI,New Michele,Maryland,131.94,6951.0
+589,187,2025-06-18,Pending,Net Banking,Annettebury,Arizona,146.66,76383.93
+590,726,2024-07-05,Cancelled,Debit Card,West Christopherburgh,North Dakota,407.05,43030.47
+591,15,2025-02-18,Delivered,Credit Card,West Kristine,Alabama,299.04,62851.05
+592,778,2024-01-29,Cancelled,COD,Steinland,North Carolina,42.65,72895.54
+593,297,2024-03-06,Delivered,COD,North Michaelstad,Colorado,237.49,68092.01
+594,411,2024-10-14,Returned,Debit Card,Seanville,Alaska,227.63,47314.82
+595,956,2024-04-08,Cancelled,Credit Card,North Jennabury,Alaska,92.41,39095.9
+596,585,2024-04-18,Delivered,COD,Wallermouth,South Carolina,351.03,37908.01
+597,52,2025-04-05,Pending,COD,Walkerberg,Georgia,362.96,64184.86
+598,640,2025-09-19,Returned,Net Banking,Cassidymouth,Arkansas,371.61,49732.04
+599,28,2024-09-11,Cancelled,UPI,South Gregory,Oregon,375.1,84988.66
+600,577,2024-12-07,Delivered,COD,New Juanstad,Hawaii,40.02,87532.85
+601,17,2025-11-13,Cancelled,Credit Card,New Kyle,Vermont,478.8,17470.76
+602,351,2024-02-10,Delivered,Debit Card,South Terri,South Carolina,414.54,14055.25
+603,428,2025-06-16,Returned,Net Banking,Laurachester,Massachusetts,455.83,63224.89
+604,650,2024-11-19,Pending,Credit Card,Flowerstown,New Mexico,47.2,30471.96
+605,831,2025-10-04,Returned,Net Banking,Gonzaleschester,Indiana,469.58,2347.79
+606,229,2025-10-12,Cancelled,UPI,Melindaview,Maine,412.5,88919.95
+607,766,2025-04-29,Cancelled,COD,Gregoryshire,Washington,425.12,23076.63
+608,989,2025-04-15,Delivered,Credit Card,Heathermouth,Pennsylvania,82.91,92963.42
+609,210,2025-10-04,Returned,Debit Card,Hernandezview,Missouri,379.84,71884.73
+610,431,2025-12-04,Delivered,UPI,Meaganmouth,Wisconsin,481.56,76384.02
+611,294,2025-09-26,Returned,UPI,Richardston,Wyoming,352.13,20545.42
+612,743,2025-10-29,Cancelled,Net Banking,East Amandatown,Rhode Island,302.46,23802.35
+613,753,2025-08-15,Delivered,UPI,Port Steven,Washington,474.99,52366.14
+614,582,2025-07-27,Delivered,Credit Card,Wattsport,Maine,243.75,17623.94
+615,104,2025-10-04,Returned,Net Banking,Rogersfurt,Alaska,315.68,30890.45
+616,204,2025-01-16,Pending,UPI,Mcconnellchester,Texas,259.12,32485.52
+617,53,2024-01-09,Returned,Debit Card,Lake Heathermouth,New Hampshire,469.11,16383.18
+618,974,2025-12-18,Pending,Credit Card,Rodriguezstad,Rhode Island,75.0,20915.69
+619,940,2024-11-26,Returned,Debit Card,Lake Traceyshire,Oregon,270.52,78960.91
+620,375,2025-09-18,Cancelled,Debit Card,West Garrett,California,356.0,17135.99
+621,842,2024-03-09,Delivered,Net Banking,North Pamelamouth,Minnesota,404.28,3331.51
+622,54,2025-03-14,Returned,COD,Richardberg,Iowa,308.19,63120.82
+623,276,2024-12-01,Cancelled,Net Banking,Hunterview,North Dakota,458.1,97610.32
+624,335,2025-10-30,Returned,Credit Card,Port Tiffany,Illinois,473.32,33455.77
+625,31,2025-12-11,Delivered,Credit Card,New Lindseyview,Massachusetts,69.59,12306.24
+626,135,2024-09-03,Returned,Net Banking,Port Sandyhaven,New Mexico,225.09,57253.54
+627,58,2024-11-26,Pending,COD,New Michaelville,Alaska,50.79,90682.24
+628,105,2024-07-12,Delivered,Net Banking,Colinfort,Georgia,191.53,78514.15
+629,266,2025-05-11,Pending,Credit Card,Benjaminshire,Connecticut,286.96,62440.33
+630,522,2024-07-20,Cancelled,COD,Michaelfort,Iowa,458.97,31848.12
+631,496,2025-07-12,Cancelled,Credit Card,Lake Josephmouth,Oklahoma,429.41,54417.08
+632,253,2024-10-29,Returned,COD,Rodriguezborough,Vermont,98.65,9578.86
+633,295,2025-11-01,Pending,COD,Travisburgh,Michigan,82.79,68055.07
+634,668,2025-06-26,Pending,Net Banking,Elizabethmouth,Hawaii,311.06,72647.05
+635,158,2025-05-06,Delivered,Net Banking,South Kimberlychester,Michigan,284.77,96520.65
+636,549,2025-08-04,Pending,Net Banking,East Breanna,Washington,162.53,26409.54
+637,631,2025-03-10,Pending,COD,East Brianborough,Texas,453.75,2336.41
+638,67,2024-11-21,Delivered,COD,North Lauren,Hawaii,466.59,54788.04
+639,754,2025-11-15,Delivered,Credit Card,Gonzalesland,Kansas,225.2,70825.66
+640,299,2025-05-29,Pending,Debit Card,Brandonberg,Alaska,449.54,79145.54
+641,463,2024-04-07,Returned,Net Banking,West Veronica,Ohio,216.62,19777.02
+642,725,2024-02-10,Delivered,Credit Card,Schwartzbury,Mississippi,378.94,26544.41
+643,820,2024-10-21,Delivered,Credit Card,Robertborough,Florida,258.93,51502.8
+644,101,2024-11-16,Pending,UPI,Lindahaven,Idaho,96.39,33394.78
+645,56,2024-09-09,Pending,Net Banking,Leslieshire,Florida,466.85,86120.89
+646,332,2025-01-06,Delivered,Credit Card,Lake Hayley,Delaware,248.88,47639.14
+647,836,2025-01-20,Pending,UPI,West Courtney,Indiana,377.86,80058.08
+648,751,2025-01-24,Delivered,Net Banking,Port Thomas,California,208.9,58271.67
+649,393,2025-03-10,Returned,COD,Port Karl,Minnesota,48.69,77422.47
+650,743,2025-04-03,Returned,UPI,Port Robertborough,Pennsylvania,86.24,33600.96
+651,874,2024-12-15,Delivered,COD,Sheilashire,New York,268.26,83225.95
+652,381,2025-07-10,Delivered,Debit Card,Franciscoland,Minnesota,357.38,27819.95
+653,92,2024-02-20,Cancelled,Debit Card,Alexandermouth,Indiana,193.98,54836.83
+654,791,2024-11-02,Cancelled,Debit Card,Jacobtown,North Carolina,359.92,21793.71
+655,447,2025-07-27,Pending,Debit Card,East Marvinland,Colorado,361.37,47814.89
+656,109,2024-05-04,Pending,Credit Card,Wilsonchester,Delaware,363.81,32158.43
+657,317,2024-08-31,Delivered,Debit Card,New Courtney,West Virginia,266.56,27036.99
+658,168,2024-07-17,Delivered,Credit Card,North Stephen,Maryland,460.85,96715.01
+659,812,2024-04-25,Cancelled,Credit Card,New Oscar,Utah,265.03,16427.37
+660,982,2025-11-30,Cancelled,Net Banking,North Linda,Washington,247.12,78838.92
+661,920,2025-12-19,Delivered,Credit Card,New Jeremy,Alabama,131.72,98424.41
+662,435,2025-09-18,Returned,Credit Card,Mikefurt,Arizona,181.52,2480.2
+663,442,2024-10-19,Returned,Debit Card,Manningtown,Tennessee,59.47,70053.23
+664,218,2025-01-30,Pending,Credit Card,Brewerhaven,Iowa,331.43,25664.72
+665,222,2024-04-08,Delivered,COD,Kennethchester,South Carolina,154.33,4528.54
+666,673,2024-10-01,Delivered,Debit Card,Lake Eric,Missouri,179.91,40587.51
+667,528,2025-03-23,Pending,UPI,West Vanessashire,California,394.57,93554.17
+668,278,2024-01-19,Cancelled,Debit Card,Webbberg,Mississippi,190.52,1670.63
+669,569,2025-04-26,Cancelled,Credit Card,Michaelchester,Nebraska,151.41,58994.63
+670,574,2025-09-30,Returned,COD,Lake Jennifer,Michigan,117.77,50388.95
+671,875,2025-06-08,Delivered,Debit Card,Dunnbury,Oregon,396.43,87401.72
+672,466,2024-09-24,Cancelled,COD,Port Adamview,New York,99.66,8858.17
+673,839,2025-02-10,Returned,UPI,Josephfurt,Nebraska,248.73,68311.84
+674,754,2024-05-11,Returned,UPI,Josephmouth,West Virginia,273.19,68170.91
+675,602,2025-07-14,Returned,Net Banking,Williamsstad,Texas,356.2,67073.46
+676,584,2024-11-27,Cancelled,Net Banking,Port Michael,Kansas,331.31,94262.28
+677,838,2024-11-05,Cancelled,Debit Card,Sharonberg,Alabama,412.93,82397.21
+678,30,2024-10-05,Delivered,Net Banking,Brettbury,Illinois,60.59,4676.29
+679,359,2024-01-11,Delivered,COD,Lake Katherine,Arizona,176.36,47372.74
+680,919,2025-11-13,Returned,Net Banking,Lake Bethfurt,Louisiana,168.86,40096.33
+681,288,2024-07-25,Returned,COD,West Alexisland,South Carolina,107.17,31359.65
+682,86,2025-05-26,Cancelled,Net Banking,North Jennifermouth,California,173.02,45408.0
+683,234,2023-12-28,Cancelled,Net Banking,Williamsshire,Colorado,182.49,38727.32
+684,747,2025-05-17,Delivered,Net Banking,Perezland,California,280.07,43517.22
+685,313,2025-11-22,Delivered,Credit Card,New Krystal,Texas,345.3,97936.56
+686,365,2025-05-21,Pending,Credit Card,Castilloside,Texas,215.31,9318.98
+687,777,2024-04-02,Delivered,Net Banking,Jacobsonbury,Wisconsin,370.96,92261.97
+688,799,2024-12-09,Cancelled,COD,Staffordfurt,Maryland,194.64,48283.55
+689,839,2025-04-05,Returned,Debit Card,Port Justin,Indiana,173.53,62562.35
+690,905,2024-07-22,Pending,UPI,Lake Reneeland,Hawaii,288.95,83103.21
+691,269,2023-12-29,Delivered,Credit Card,Lake Gregorymouth,Montana,50.91,36366.07
+692,698,2025-10-19,Delivered,Net Banking,Carlaberg,Georgia,76.7,43326.98
+693,131,2024-07-05,Cancelled,UPI,Vincentborough,Connecticut,232.27,41247.09
+694,803,2025-05-10,Pending,Credit Card,Perryshire,North Carolina,473.74,37785.74
+695,993,2024-06-14,Delivered,Debit Card,Brooketon,Massachusetts,371.9,92590.17
+696,789,2024-10-10,Returned,COD,Oconnorstad,Texas,80.54,82978.52
+697,832,2025-05-22,Cancelled,Net Banking,Brianstad,Wyoming,429.31,11345.5
+698,351,2025-03-10,Pending,Debit Card,North Williamview,New Jersey,376.86,11258.27
+699,180,2024-04-08,Delivered,Credit Card,Lake Michaelborough,Texas,321.04,43073.02
+700,802,2025-05-19,Delivered,Net Banking,Jonathantown,Connecticut,417.33,10316.41
+701,480,2024-08-09,Pending,UPI,Port Chase,Tennessee,225.89,62099.76
+702,889,2024-02-25,Cancelled,COD,Contrerasview,Minnesota,141.89,14797.31
+703,163,2024-06-07,Pending,Credit Card,West Jane,New York,275.53,52476.14
+704,783,2025-05-31,Pending,COD,East Paul,Colorado,292.47,1218.38
+705,888,2024-01-21,Cancelled,Net Banking,New Toddchester,Hawaii,287.63,32001.34
+706,96,2025-02-19,Delivered,Debit Card,Smithtown,North Carolina,299.93,67880.48
+707,774,2025-01-20,Returned,COD,Crawfordstad,Colorado,476.4,48661.87
+708,510,2025-08-07,Cancelled,UPI,Petersonburgh,Washington,455.03,97837.81
+709,365,2024-12-21,Returned,Credit Card,Johnborough,Texas,442.83,87473.33
+710,981,2025-11-04,Delivered,UPI,West Alexanderstad,Michigan,408.65,36227.54
+711,353,2025-02-08,Pending,COD,Emmaview,Mississippi,473.98,5025.91
+712,800,2024-11-23,Returned,Debit Card,Jasonmouth,South Carolina,85.31,84639.82
+713,436,2024-07-14,Delivered,Debit Card,Jermainechester,Iowa,161.96,91167.81
+714,83,2025-02-28,Delivered,UPI,West Douglas,South Dakota,267.73,82152.43
+715,225,2024-01-26,Pending,Net Banking,Christopherhaven,Nevada,429.41,13231.02
+716,412,2025-09-30,Pending,Net Banking,Mccormickhaven,Michigan,272.38,99792.56
+717,735,2025-11-18,Delivered,Debit Card,South Janetfurt,Alabama,384.1,26229.13
+718,981,2024-06-22,Delivered,UPI,Wayneport,Arkansas,103.92,72558.39
+719,118,2024-03-06,Returned,UPI,Thompsonhaven,Idaho,156.11,90849.47
+720,482,2024-09-29,Delivered,UPI,Port Darius,Oregon,376.62,23950.87
+721,192,2024-05-15,Delivered,COD,Gatesfort,Minnesota,115.78,90871.73
+722,591,2025-09-06,Returned,Net Banking,North Sean,New Hampshire,201.62,31293.42
+723,590,2025-01-05,Cancelled,Net Banking,East Christopher,Vermont,161.84,97653.12
+724,659,2024-07-25,Returned,COD,New Derek,Montana,200.94,28485.37
+725,107,2025-05-02,Returned,Credit Card,Nicholasberg,Florida,365.83,95366.86
+726,382,2025-06-28,Pending,COD,New Stevenfurt,Nevada,209.21,5827.69
+727,783,2024-11-20,Returned,UPI,North Saraton,Rhode Island,295.42,71072.57
+728,390,2025-02-03,Delivered,COD,Lake Melissamouth,Missouri,85.97,53445.06
+729,244,2025-04-19,Delivered,UPI,New Kyle,Massachusetts,410.31,48048.77
+730,585,2024-06-02,Delivered,Debit Card,Lake Jennifermouth,Kansas,210.15,22737.68
+731,869,2024-01-03,Cancelled,UPI,New Wayneberg,West Virginia,338.33,70706.78
+732,468,2024-05-15,Delivered,Net Banking,Shawfurt,Delaware,373.68,19485.54
+733,866,2024-11-20,Cancelled,COD,Haileyside,Minnesota,136.44,55507.76
+734,934,2024-02-05,Delivered,UPI,Natalietown,New York,446.95,25697.91
+735,538,2025-09-29,Returned,Credit Card,Taylorhaven,Rhode Island,323.46,95584.33
+736,210,2025-02-26,Pending,Debit Card,Schaeferville,Iowa,237.21,3348.8
+737,604,2025-02-05,Delivered,Credit Card,Port Natasha,Hawaii,123.87,20372.96
+738,637,2024-11-09,Cancelled,Credit Card,Charlottetown,New Hampshire,473.46,24609.91
+739,947,2024-03-03,Cancelled,Credit Card,West Ronaldfurt,Virginia,387.33,41699.75
+740,73,2024-02-21,Pending,Debit Card,Kennedyfurt,Connecticut,135.69,23656.66
+741,992,2025-01-05,Delivered,Debit Card,Seanshire,Montana,195.35,49389.23
+742,635,2024-07-01,Returned,Debit Card,Morrisstad,West Virginia,412.45,87310.32
+743,309,2025-08-15,Delivered,Debit Card,West Joshua,Kentucky,360.01,71350.31
+744,696,2024-02-28,Delivered,Credit Card,South Patriciachester,Georgia,392.26,58206.22
+745,699,2025-12-13,Pending,Net Banking,Port Timothyshire,Ohio,242.95,9355.82
+746,710,2025-11-04,Delivered,Net Banking,North Joannebury,South Carolina,369.58,69552.21
+747,590,2025-06-28,Returned,Debit Card,Williamsburgh,Georgia,217.79,17058.22
+748,860,2024-10-16,Cancelled,COD,West Dawn,Arkansas,137.18,78743.55
+749,186,2024-06-06,Pending,UPI,Welchport,Connecticut,331.03,25380.65
+750,856,2024-12-12,Returned,COD,Port Sierrashire,Pennsylvania,488.97,41996.35
+751,253,2025-01-06,Cancelled,COD,South Justinchester,Connecticut,182.88,35371.79
+752,13,2024-11-29,Pending,COD,East Julianfurt,Pennsylvania,252.05,85951.98
+753,299,2025-05-13,Pending,Net Banking,Evansbury,Connecticut,350.04,13091.17
+754,76,2024-02-12,Cancelled,UPI,Stevensonburgh,Rhode Island,289.09,56781.67
+755,51,2025-11-24,Cancelled,COD,South Jonathan,South Dakota,427.98,14635.13
+756,787,2025-08-05,Returned,Debit Card,West Jenniferborough,Wisconsin,390.4,70627.19
+757,149,2024-08-03,Delivered,Net Banking,New Teresamouth,Wyoming,66.82,90555.27
+758,731,2025-06-14,Delivered,Debit Card,Donnaport,Kentucky,499.27,43743.46
+759,122,2024-06-22,Delivered,Debit Card,Jessicamouth,Maryland,386.11,49065.18
+760,211,2025-01-09,Delivered,COD,Stephaniestad,Maine,437.4,92778.57
+761,280,2024-09-17,Delivered,Debit Card,North Sharonburgh,Utah,339.55,52338.64
+762,538,2024-01-04,Returned,UPI,Susanstad,Hawaii,433.89,49016.04
+763,685,2025-07-22,Pending,Debit Card,Gardnerfurt,Maryland,91.7,58043.75
+764,156,2024-05-09,Returned,COD,South Michelleport,Minnesota,199.96,69078.36
+765,238,2025-05-02,Returned,Debit Card,Frostfurt,Maryland,443.15,11134.9
+766,376,2025-04-23,Returned,Net Banking,South Nicoleport,Colorado,132.76,82200.5
+767,82,2024-06-16,Pending,Net Banking,Sherryfort,Minnesota,75.99,43832.75
+768,492,2024-11-24,Returned,Net Banking,Karlmouth,Idaho,402.53,7698.68
+769,356,2025-10-20,Returned,Credit Card,East Nicholaston,Minnesota,424.32,78725.18
+770,925,2025-08-18,Pending,Net Banking,Staceychester,New Mexico,114.82,38006.52
+771,273,2025-08-01,Returned,Net Banking,East Kristina,Connecticut,433.0,10486.57
+772,580,2025-08-19,Delivered,Credit Card,Amberville,Nebraska,355.91,63561.01
+773,44,2024-05-01,Cancelled,Net Banking,Allisonbury,Oklahoma,279.24,88073.07
+774,573,2024-08-19,Returned,COD,Port Taraton,Nevada,421.92,88831.47
+775,123,2024-10-06,Cancelled,Net Banking,South Anthonychester,New Hampshire,232.85,95787.52
+776,349,2024-04-08,Returned,Net Banking,Knightfurt,Maine,129.24,86836.69
+777,708,2025-10-02,Returned,Credit Card,Markchester,Arkansas,171.03,713.02
+778,330,2024-07-19,Delivered,COD,East Rachelport,Texas,272.38,38334.0
+779,409,2024-07-02,Pending,Debit Card,East Jo,Colorado,284.41,81944.99
+780,991,2024-06-07,Cancelled,UPI,Leehaven,Nebraska,410.57,36942.17
+781,323,2024-08-10,Pending,COD,Port Danielland,New York,404.02,60354.08
+782,111,2025-10-09,Delivered,Debit Card,Clarkland,Colorado,307.43,60828.54
+783,770,2025-02-03,Delivered,COD,East Brianaport,Oregon,399.16,36820.02
+784,89,2025-11-19,Cancelled,Debit Card,Scottberg,Ohio,128.22,90495.16
+785,433,2024-07-04,Pending,Debit Card,East Christopher,Wisconsin,63.03,50571.22
+786,710,2025-12-08,Delivered,COD,Lauraborough,Illinois,441.87,46746.03
+787,794,2024-04-05,Returned,Credit Card,Saraborough,Missouri,74.76,99752.62
+788,712,2024-09-30,Returned,COD,South Marcus,Maryland,153.48,49603.29
+789,99,2024-11-06,Returned,COD,Port Susanland,Arizona,359.85,18250.63
+790,539,2024-02-17,Pending,Debit Card,New Tanyaport,Wisconsin,228.35,51550.41
+791,601,2024-03-30,Returned,UPI,Kimstad,Georgia,443.1,81494.67
+792,146,2024-07-21,Returned,Debit Card,Lake Andrew,South Carolina,177.07,77797.6
+793,694,2025-08-24,Delivered,Net Banking,Lake Laceybury,Pennsylvania,45.46,78963.89
+794,257,2024-04-12,Delivered,COD,Marvinhaven,Rhode Island,178.3,70948.37
+795,189,2024-11-24,Returned,COD,South Michaelland,Kentucky,305.91,25794.67
+796,240,2024-06-23,Returned,Credit Card,Stephensonchester,Arizona,212.93,86277.37
+797,871,2024-01-05,Delivered,Debit Card,Timothymouth,Hawaii,286.04,89397.62
+798,899,2024-06-16,Cancelled,Credit Card,West David,California,443.24,19818.19
+799,503,2025-01-01,Pending,COD,Bradfordborough,Connecticut,459.74,13480.34
+800,708,2024-11-10,Pending,Debit Card,East Brian,West Virginia,162.35,97572.69
+801,809,2024-07-24,Delivered,Debit Card,East Mary,Rhode Island,252.58,86898.23
+802,677,2025-08-24,Pending,Net Banking,South Conniebury,West Virginia,292.61,89377.0
+803,819,2025-01-01,Delivered,Net Banking,Jennatown,Arizona,476.59,88694.45
+804,271,2025-11-20,Delivered,UPI,Genebury,California,499.36,54397.84
+805,520,2025-10-24,Delivered,Net Banking,North Justin,Delaware,148.29,64816.97
+806,550,2024-03-30,Delivered,Debit Card,West Randallton,Rhode Island,374.41,54763.6
+807,114,2024-05-08,Cancelled,Net Banking,Port Stephanie,Kentucky,213.89,5595.03
+808,339,2024-12-11,Returned,UPI,Lake Katherineside,Colorado,43.73,74677.56
+809,568,2024-01-16,Returned,COD,Rodrigueztown,Mississippi,44.26,50780.54
+810,943,2025-10-19,Cancelled,Net Banking,East Cindy,Kansas,251.86,64947.05
+811,986,2025-06-11,Pending,Debit Card,Barrettside,Virginia,264.63,50512.66
+812,359,2024-09-15,Pending,COD,Port Eric,Wyoming,50.38,49435.23
+813,650,2025-08-18,Returned,Debit Card,West Julie,New Mexico,355.99,17593.02
+814,614,2024-01-26,Pending,COD,Port Andrea,Idaho,175.24,28232.01
+815,334,2025-09-24,Returned,Debit Card,Wandaburgh,Minnesota,297.55,16305.84
+816,689,2024-07-24,Returned,Net Banking,Waynemouth,Indiana,178.42,19968.8
+817,169,2024-07-06,Cancelled,Net Banking,Huertaville,Maryland,116.88,97311.25
+818,339,2024-07-23,Pending,UPI,Dawnhaven,Oregon,227.3,15734.79
+819,798,2024-02-01,Cancelled,COD,West Virginiabury,Indiana,146.85,27292.41
+820,261,2024-11-16,Returned,UPI,Jamesmouth,Idaho,286.01,59263.67
+821,887,2025-06-09,Returned,Credit Card,Thomasport,North Dakota,131.46,61212.77
+822,735,2024-07-24,Returned,Net Banking,Lake John,Georgia,273.87,15820.43
+823,199,2025-10-26,Delivered,COD,Port Anthony,Oregon,112.39,79474.88
+824,211,2024-02-10,Delivered,UPI,South Katelyn,Minnesota,348.65,78627.69
+825,287,2024-06-01,Delivered,UPI,Whiteshire,Missouri,386.81,24113.11
+826,692,2024-06-12,Cancelled,Credit Card,Jamesview,Pennsylvania,90.78,29222.3
+827,762,2024-06-26,Returned,UPI,Frazierburgh,Alaska,255.19,93829.79
+828,743,2025-02-05,Pending,Debit Card,Boydmouth,Arkansas,72.6,82654.31
+829,472,2025-07-07,Cancelled,Net Banking,Karentown,South Dakota,315.16,69930.8
+830,482,2024-04-08,Cancelled,UPI,Sarahview,Wisconsin,161.63,8682.21
+831,23,2024-04-19,Cancelled,UPI,Meyersland,New Hampshire,282.71,42117.28
+832,560,2025-03-08,Pending,Credit Card,North Priscilla,Ohio,278.03,56150.54
+833,109,2025-04-18,Returned,Debit Card,East Peggy,North Dakota,465.2,19147.42
+834,296,2024-05-01,Delivered,UPI,New Jamesbury,South Carolina,292.58,45098.54
+835,6,2025-02-25,Returned,Net Banking,East Davidchester,Missouri,308.18,60302.07
+836,550,2024-05-02,Returned,Net Banking,Christopherland,Tennessee,224.76,33073.98
+837,681,2025-12-14,Cancelled,UPI,Davidton,Maryland,476.58,78204.01
+838,868,2024-01-21,Cancelled,Debit Card,South Jonathan,Kentucky,397.51,84124.73
+839,795,2025-09-19,Cancelled,Net Banking,Port Joshuabury,California,171.29,32699.14
+840,203,2024-04-25,Delivered,Net Banking,Port Vincent,Hawaii,428.34,83946.39
+841,325,2025-05-01,Delivered,Debit Card,East Kelsey,Louisiana,238.9,10805.87
+842,825,2025-07-11,Delivered,Debit Card,Port Justin,Nevada,421.19,83854.05
+843,785,2025-08-10,Returned,UPI,Lisaland,New Hampshire,418.53,15698.67
+844,244,2024-08-31,Cancelled,COD,New Benjaminburgh,Indiana,126.88,8751.25
+845,327,2025-06-21,Pending,Credit Card,Burchhaven,Florida,362.52,64356.65
+846,987,2025-10-19,Returned,COD,South Barbaraville,Rhode Island,173.7,47457.77
+847,47,2024-06-17,Delivered,COD,New Chelseaton,New York,176.85,90835.11
+848,761,2025-06-17,Pending,Net Banking,North Christinaside,Arizona,176.32,36637.33
+849,591,2024-05-24,Pending,Debit Card,Lisaport,Illinois,373.76,29071.65
+850,622,2024-10-05,Cancelled,Net Banking,Davidton,Michigan,145.72,50323.12
+851,13,2025-09-24,Pending,Credit Card,South Lawrenceshire,Washington,40.42,45866.65
+852,907,2024-07-19,Delivered,UPI,Wilkersonville,Oklahoma,369.01,34770.59
+853,380,2024-03-16,Cancelled,Credit Card,South Cynthia,Nebraska,118.74,69527.26
+854,365,2024-09-01,Pending,Net Banking,Lake Lisa,Colorado,88.06,76076.4
+855,602,2025-08-19,Cancelled,Net Banking,Mikaylaborough,Louisiana,149.26,85371.9
+856,342,2025-06-27,Pending,Net Banking,Williamsbury,Hawaii,214.75,97299.23
+857,860,2024-06-01,Returned,Net Banking,Thomasbury,Georgia,258.92,27032.29
+858,792,2024-11-19,Returned,COD,North Brandonberg,Utah,60.5,71751.3
+859,221,2025-09-01,Delivered,UPI,North Robert,Montana,486.46,39728.69
+860,73,2024-07-16,Returned,COD,North Christopher,South Carolina,369.39,67869.66
+861,746,2024-12-24,Returned,Net Banking,Whitetown,Maryland,188.67,47860.18
+862,772,2025-01-23,Returned,Debit Card,West Christine,Alaska,186.6,99380.42
+863,625,2025-05-09,Pending,COD,Port Lauramouth,Rhode Island,246.33,73025.76
+864,46,2024-04-12,Pending,Net Banking,Velazquezburgh,Nebraska,328.07,95272.88
+865,504,2024-08-09,Cancelled,Net Banking,Antoniotown,California,107.33,83579.47
+866,274,2024-06-19,Pending,UPI,Port Eugeneville,Illinois,126.91,90338.65
+867,555,2025-06-12,Returned,Credit Card,South Nicholas,Colorado,435.34,81534.71
+868,208,2024-08-01,Pending,COD,Sarahhaven,Connecticut,157.88,46186.33
+869,929,2025-01-10,Delivered,COD,South John,Illinois,214.89,25552.95
+870,861,2025-03-17,Cancelled,COD,North Eugeneport,Montana,440.79,37346.86
+871,615,2024-08-28,Cancelled,Net Banking,Mccoyside,Ohio,345.05,2513.51
+872,124,2024-02-02,Pending,UPI,South Mckenzie,Colorado,197.19,52637.32
+873,10,2025-05-25,Returned,Net Banking,New Brianland,Indiana,354.5,50753.25
+874,329,2024-08-13,Cancelled,Net Banking,Fowlerchester,Kansas,49.05,52762.42
+875,187,2024-02-14,Delivered,Debit Card,Lake Michaelshire,Hawaii,378.4,97416.11
+876,543,2024-10-30,Delivered,UPI,South Davidport,Indiana,264.03,91189.67
+877,668,2024-05-01,Cancelled,COD,South Melanie,Nevada,414.06,16590.42
+878,60,2024-11-10,Returned,Credit Card,Martinburgh,Vermont,479.13,37203.81
+879,761,2024-01-18,Returned,COD,Kimtown,New Mexico,465.86,42683.64
+880,899,2024-11-15,Pending,Net Banking,North Vanessa,Vermont,458.26,36373.03
+881,886,2025-02-25,Pending,UPI,Jenniferview,Massachusetts,275.6,79950.35
+882,951,2025-10-26,Cancelled,UPI,Jonathanton,Nevada,205.67,52641.75
+883,782,2024-06-05,Pending,UPI,Megantown,Illinois,253.92,57423.93
+884,442,2025-01-08,Pending,Debit Card,Hallport,Georgia,357.35,85374.85
+885,217,2024-03-02,Pending,COD,Smithside,Arkansas,446.64,80689.85
+886,911,2024-06-27,Delivered,Debit Card,Rebeccaport,Minnesota,135.21,13655.05
+887,2,2024-11-10,Pending,Credit Card,Barnettville,Texas,462.37,71534.5
+888,536,2025-11-06,Cancelled,Net Banking,Port Elizabethport,Nevada,414.98,43825.89
+889,718,2024-09-27,Returned,Debit Card,Port Danielville,Illinois,490.27,29817.57
+890,832,2024-07-20,Pending,Debit Card,Walkerview,California,444.92,5476.87
+891,711,2024-04-04,Returned,Net Banking,Larryville,Kansas,168.77,48981.33
+892,356,2025-07-24,Pending,UPI,Lake Michael,Montana,88.74,35865.95
+893,626,2025-07-11,Cancelled,Net Banking,Lisafurt,North Dakota,91.63,25525.55
+894,792,2025-05-14,Delivered,COD,Obrienborough,California,173.96,69619.84
+895,667,2025-12-05,Cancelled,Net Banking,Port Edward,Delaware,322.52,77063.8
+896,165,2025-04-25,Delivered,UPI,New Sarah,Mississippi,409.99,24856.56
+897,998,2024-12-05,Pending,Net Banking,Lake Deborahfort,Nevada,453.66,5420.02
+898,734,2024-04-14,Pending,Debit Card,Westmouth,Idaho,326.93,84950.89
+899,91,2025-04-12,Delivered,Credit Card,Andrewchester,Delaware,42.59,1490.99
+900,167,2024-01-21,Cancelled,Debit Card,North Jasonport,Oklahoma,125.71,93742.69
+901,959,2024-09-06,Cancelled,Credit Card,North Kimberly,Minnesota,85.87,62948.18
+902,207,2024-01-30,Delivered,Net Banking,North Mark,Indiana,207.13,32523.74
+903,282,2024-03-27,Pending,COD,Lake Mariah,Nebraska,270.62,25024.55
+904,65,2024-05-24,Delivered,Net Banking,Lake David,West Virginia,59.96,1396.06
+905,888,2025-10-03,Pending,UPI,Spearschester,Pennsylvania,200.3,23929.41
+906,516,2024-11-30,Delivered,Net Banking,Brewerburgh,Wyoming,122.42,14203.97
+907,157,2024-09-14,Pending,Credit Card,West Matthew,Nevada,337.65,61410.54
+908,761,2024-11-25,Delivered,Debit Card,Jaredstad,Iowa,253.57,17071.29
+909,769,2025-02-13,Returned,COD,Julianport,West Virginia,267.85,53098.67
+910,747,2024-11-16,Pending,Net Banking,Kennedyberg,Maine,236.74,59216.58
+911,306,2025-09-10,Cancelled,Net Banking,Cindyside,Nevada,479.77,30155.15
+912,878,2025-01-23,Delivered,Debit Card,Stephaniebury,Virginia,138.78,3988.96
+913,982,2024-11-26,Cancelled,COD,Lake Chadborough,Vermont,277.67,4206.76
+914,395,2024-05-29,Delivered,Net Banking,North Tim,Indiana,378.57,3121.56
+915,74,2025-07-03,Cancelled,Net Banking,Michelletown,Florida,296.15,74042.9
+916,187,2025-09-12,Cancelled,Credit Card,Williamsside,Michigan,467.35,32141.97
+917,574,2024-04-06,Delivered,Credit Card,New Christy,Georgia,213.87,79731.87
+918,337,2024-08-09,Delivered,UPI,New Jill,Pennsylvania,253.29,43457.42
+919,676,2023-12-31,Cancelled,Debit Card,South Michelleport,Ohio,80.72,45573.31
+920,568,2025-10-21,Cancelled,COD,Port Ashleeport,North Dakota,320.14,51531.82
+921,623,2025-06-30,Cancelled,Net Banking,Richardburgh,Washington,172.58,71446.63
+922,730,2025-04-07,Pending,Net Banking,Smithland,Indiana,113.74,27713.54
+923,240,2025-03-30,Pending,UPI,Anthonychester,Wisconsin,290.48,12597.94
+924,533,2025-01-08,Returned,Net Banking,Richardbury,Massachusetts,284.86,55827.7
+925,141,2024-09-18,Pending,Debit Card,West Jacob,Connecticut,74.9,33034.27
+926,265,2024-09-01,Pending,UPI,Lake Julieton,Tennessee,361.18,44527.89
+927,139,2025-02-23,Delivered,Debit Card,Lake Corey,Maine,326.94,64871.2
+928,459,2024-04-10,Returned,UPI,North Chadmouth,Wisconsin,126.95,49665.51
+929,70,2025-11-05,Returned,Net Banking,North Nicoleview,Wisconsin,255.94,62217.74
+930,385,2024-07-11,Pending,UPI,New Tinaburgh,Missouri,371.35,54647.9
+931,630,2025-03-02,Delivered,Credit Card,Stevenmouth,Rhode Island,283.54,74109.74
+932,198,2025-11-19,Delivered,COD,Harveybury,Idaho,221.92,70740.69
+933,205,2025-07-12,Returned,Net Banking,New Erikaborough,Iowa,188.28,53651.89
+934,726,2024-04-14,Delivered,COD,East Eriktown,South Dakota,320.78,68050.85
+935,568,2025-07-10,Cancelled,Net Banking,Stacieborough,Ohio,471.99,87419.18
+936,799,2024-07-12,Pending,COD,Robinsonborough,Michigan,349.0,43510.99
+937,982,2024-04-06,Cancelled,Credit Card,Jerryport,Colorado,74.38,41569.93
+938,805,2025-07-24,Returned,COD,East Kayleeberg,Maryland,251.92,76542.44
+939,687,2025-06-25,Returned,UPI,Josephview,North Dakota,449.78,58464.11
+940,859,2024-05-28,Delivered,COD,Lake Christineton,Florida,83.45,7565.17
+941,882,2024-03-14,Delivered,Net Banking,New Cody,Georgia,494.88,89265.15
+942,974,2023-12-22,Returned,Debit Card,Stephaniefurt,Delaware,476.57,3562.92
+943,640,2025-05-30,Returned,COD,Nicholasmouth,California,76.01,74965.44
+944,431,2024-06-07,Cancelled,COD,Lisaport,Wyoming,469.37,76000.02
+945,890,2025-08-03,Cancelled,COD,Jenkinsview,Wyoming,207.04,95334.55
+946,325,2025-06-21,Delivered,Net Banking,Pacechester,Massachusetts,428.57,5886.37
+947,442,2025-05-27,Cancelled,COD,East Ashley,Indiana,232.46,59887.26
+948,804,2024-11-06,Delivered,Net Banking,West Davidchester,Maine,242.79,43070.14
+949,288,2024-08-23,Delivered,Net Banking,South Sarahaven,Arkansas,331.75,33397.98
+950,226,2024-11-24,Pending,Debit Card,North Michael,Georgia,396.26,9486.7
+951,64,2025-10-08,Delivered,UPI,Gibsonfurt,Montana,55.54,56484.08
+952,967,2025-08-28,Cancelled,Net Banking,Dawnport,Wisconsin,312.85,48164.55
+953,938,2025-03-07,Returned,Credit Card,Choifort,Utah,125.9,10903.17
+954,560,2025-10-16,Returned,COD,New Scottmouth,South Dakota,199.14,61442.71
+955,714,2025-10-30,Cancelled,Credit Card,Port William,Utah,200.07,73926.34
+956,498,2024-08-17,Returned,COD,Moniquefort,New Hampshire,255.77,76844.19
+957,849,2025-02-01,Delivered,Debit Card,Davisberg,Wyoming,193.7,90584.63
+958,926,2024-08-03,Returned,Net Banking,Lake Robinstad,Michigan,89.39,41242.34
+959,917,2024-04-07,Cancelled,UPI,New Christineton,North Dakota,106.99,95330.74
+960,60,2025-12-14,Returned,Net Banking,Port Paulstad,West Virginia,55.38,86610.23
+961,397,2025-08-15,Delivered,COD,Littleborough,Maine,256.31,30001.91
+962,257,2025-01-11,Delivered,UPI,Hawkinsstad,Kansas,479.05,16348.66
+963,577,2025-12-07,Cancelled,Net Banking,Port Brettport,Colorado,93.21,43821.24
+964,239,2025-09-04,Cancelled,UPI,West Matthewland,Kansas,475.28,40488.92
+965,801,2024-07-16,Cancelled,COD,West Jeremychester,Illinois,377.35,57784.07
+966,38,2024-05-14,Pending,Debit Card,Frazierbury,Wisconsin,333.25,58546.93
+967,25,2024-09-01,Pending,Debit Card,Christopherport,Kansas,336.83,75123.7
+968,410,2025-07-09,Delivered,Net Banking,Bryanville,Nebraska,420.29,51234.05
+969,461,2025-12-18,Pending,Credit Card,Mcculloughville,Missouri,89.18,10929.85
+970,571,2024-12-21,Pending,COD,Robertsonfurt,West Virginia,272.19,85899.99
+971,988,2025-11-07,Returned,Net Banking,Shawnside,California,360.66,31321.58
+972,417,2024-12-26,Pending,Net Banking,Port Cynthia,Maryland,309.94,97144.1
+973,357,2025-06-17,Returned,Debit Card,Josephshire,Oklahoma,423.08,12227.08
+974,383,2025-10-19,Cancelled,UPI,Donaldfort,Pennsylvania,73.24,95845.99
+975,809,2024-12-10,Returned,COD,Hortonside,New Hampshire,357.72,9555.67
+976,158,2024-01-14,Returned,UPI,Dukeberg,Washington,285.65,23488.1
+977,569,2025-03-22,Cancelled,COD,Andrewhaven,Minnesota,214.41,5134.7
+978,433,2025-04-08,Cancelled,Credit Card,New Ellenstad,Iowa,196.53,70658.76
+979,48,2024-03-31,Delivered,Debit Card,Anthonychester,Alaska,325.58,85104.72
+980,328,2024-01-16,Delivered,Credit Card,Isabelfort,Maine,449.86,43690.07
+981,433,2024-02-18,Delivered,Net Banking,Andersontown,Utah,268.24,92887.95
+982,431,2024-08-22,Delivered,Debit Card,Petersonshire,Maine,419.37,59234.76
+983,56,2024-09-29,Returned,Net Banking,Lopezland,New Hampshire,224.99,63185.71
+984,577,2025-02-08,Returned,Credit Card,North Randall,Massachusetts,87.1,84619.21
+985,268,2025-09-18,Delivered,COD,Blanchardstad,Rhode Island,68.29,30031.62
+986,69,2025-03-13,Pending,Net Banking,New Danielle,Colorado,63.61,35749.44
+987,728,2025-09-18,Delivered,UPI,Charlesmouth,New Jersey,214.87,90642.22
+988,902,2025-12-16,Pending,COD,Lake Kariburgh,Pennsylvania,195.13,90145.87
+989,601,2024-03-20,Cancelled,COD,Jessicabury,Tennessee,370.25,97660.04
+990,449,2025-03-07,Returned,Credit Card,Port James,Montana,381.7,90232.91
+991,793,2024-06-28,Returned,Credit Card,Kellyborough,Wisconsin,63.39,13173.52
+992,257,2025-02-07,Pending,Debit Card,East Davidton,Massachusetts,141.72,82460.57
+993,672,2025-04-06,Delivered,Debit Card,Millerville,New Jersey,166.16,41278.93
+994,490,2024-11-25,Returned,UPI,Kathleenmouth,Florida,291.9,99084.73
+995,746,2024-10-06,Pending,COD,Ianland,Ohio,106.48,47491.96
+996,643,2025-02-16,Cancelled,UPI,New Gregory,California,101.61,55606.69
+997,49,2025-10-10,Cancelled,UPI,Lake James,Massachusetts,474.14,53212.6
+998,659,2024-09-19,Returned,Credit Card,South Juliechester,Connecticut,409.93,32512.83
+999,316,2025-01-08,Delivered,UPI,Dillonmouth,Florida,123.1,7964.7
+1000,413,2024-10-05,Pending,UPI,Angelaberg,Iowa,227.02,89617.3

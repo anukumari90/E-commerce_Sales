@@ -1,0 +1,1001 @@
+payment_id,order_id,payment_date,payment_mode,payment_status,amount_paid,transaction_fee,bank_name
+1,216,2024-01-15,COD,Success,63959.17,20.55,Miller-Dominguez
+2,190,2024-03-06,Debit Card,Failed,63290.4,37.03,"Vang, Jones and Bird"
+3,75,2024-12-20,COD,Success,75831.06,62.5,Anderson PLC
+4,686,2024-03-27,UPI,Success,23088.57,91.04,Mcmahon and Sons
+5,510,2025-08-18,UPI,Failed,66321.17,29.29,Spence-Griffith
+6,579,2024-06-01,COD,Refunded,39515.01,77.54,"Nicholson, Underwood and Moore"
+7,93,2024-11-21,Debit Card,Refunded,7440.47,72.49,"Williams, Alvarez and Berry"
+8,53,2025-11-11,Debit Card,Success,20613.19,20.17,Dixon LLC
+9,496,2024-04-09,Net Banking,Failed,79503.37,50.55,Hodge PLC
+10,948,2025-07-22,Credit Card,Refunded,89645.1,50.74,Medina-Sharp
+11,94,2025-04-21,UPI,Refunded,28640.77,33.94,"Ray, Cook and Jones"
+12,625,2024-05-28,Debit Card,Success,19440.91,79.09,"Nichols, Bush and Herrera"
+13,229,2025-05-03,UPI,Refunded,3159.09,92.96,Nelson-Cunningham
+14,250,2024-12-03,Credit Card,Failed,94795.89,73.07,Morris Ltd
+15,391,2024-08-06,UPI,Refunded,68543.57,97.43,Smith-Nicholson
+16,721,2025-01-20,Debit Card,Failed,95724.5,9.79,Davis Group
+17,980,2025-10-31,Net Banking,Failed,86452.99,8.54,Leblanc Ltd
+18,182,2025-09-08,COD,Success,34376.43,89.92,Lynn-Moore
+19,267,2025-08-12,COD,Refunded,11711.96,90.29,"Abbott, Bridges and Howe"
+20,281,2025-09-12,Debit Card,Success,50156.15,15.18,Jones-Hamilton
+21,955,2025-07-02,Debit Card,Refunded,3167.97,38.96,Jordan-Patton
+22,984,2024-02-29,Credit Card,Success,15416.7,84.36,"Williams, Williams and Holt"
+23,962,2025-08-30,UPI,Success,23726.55,17.21,Holder and Sons
+24,667,2025-10-08,Credit Card,Success,66731.84,30.41,Schmidt LLC
+25,83,2025-10-27,COD,Refunded,51232.81,69.69,"Gray, Brooks and Shelton"
+26,186,2024-07-03,UPI,Success,30590.75,98.28,"Ross, Rodriguez and Richardson"
+27,861,2024-07-26,Credit Card,Failed,56694.46,80.73,Smith Inc
+28,997,2024-03-14,COD,Refunded,12957.66,78.85,"Whitehead, Fitzpatrick and Merritt"
+29,651,2024-12-26,UPI,Failed,75692.96,37.55,Escobar-Sullivan
+30,567,2024-12-29,Net Banking,Success,71347.5,67.83,"Travis, Gardner and Lewis"
+31,531,2024-10-13,Net Banking,Success,22042.02,15.74,"Hampton, Harris and Reyes"
+32,348,2025-07-25,Credit Card,Failed,60835.96,99.27,Browning Group
+33,423,2024-03-25,Debit Card,Success,50578.61,50.66,"Moreno, Young and Walker"
+34,981,2024-12-03,UPI,Refunded,6551.22,65.69,"Burns, Williams and Hawkins"
+35,858,2024-06-22,Credit Card,Failed,28176.31,88.24,"Gonzalez, Farrell and Burns"
+36,982,2024-10-11,Debit Card,Refunded,99948.53,5.09,"Reed, Stevens and Morales"
+37,454,2024-05-03,Debit Card,Refunded,10403.8,97.72,"Roberts, Wilson and Carter"
+38,267,2025-04-05,UPI,Refunded,50887.93,39.12,Hill Ltd
+39,507,2025-11-06,UPI,Success,85008.71,37.26,"Schroeder, Martin and Massey"
+40,142,2024-01-02,Debit Card,Success,30414.86,18.78,Gardner-Kline
+41,316,2025-04-09,COD,Failed,26440.51,86.53,Mclaughlin-Kelly
+42,676,2025-01-26,Credit Card,Failed,89133.91,87.73,"Palmer, Bartlett and Moon"
+43,764,2025-03-11,UPI,Refunded,30830.58,6.9,Wheeler-Baker
+44,232,2025-05-27,Debit Card,Success,65323.58,10.29,Jones-Thompson
+45,297,2025-08-21,COD,Success,74161.14,92.24,Raymond Ltd
+46,898,2024-02-19,Net Banking,Success,78967.47,16.67,Walker Group
+47,953,2025-03-07,Debit Card,Failed,99478.58,63.99,Maldonado-Patel
+48,875,2025-08-10,COD,Success,80417.61,63.87,"Roach, Bartlett and Davis"
+49,572,2024-03-09,Net Banking,Refunded,65872.71,87.62,Fisher-Lawson
+50,916,2024-04-25,COD,Refunded,89598.62,59.4,Mcclure-Fields
+51,22,2025-02-20,UPI,Refunded,90621.59,46.23,"Kelley, Solomon and Petersen"
+52,384,2023-12-24,Debit Card,Success,97330.06,97.57,Peterson PLC
+53,126,2024-11-30,Net Banking,Refunded,77758.29,26.74,Hernandez LLC
+54,103,2025-09-06,COD,Refunded,19895.27,29.96,Garza-Thompson
+55,900,2024-05-21,Net Banking,Failed,71125.71,13.05,"Robinson, Armstrong and Webb"
+56,952,2025-09-12,Credit Card,Failed,7975.28,97.66,Hood-Henderson
+57,733,2025-02-07,Debit Card,Success,32137.31,72.1,Gordon PLC
+58,110,2025-09-04,UPI,Success,12022.85,6.15,"Gonzalez, Reynolds and Patterson"
+59,570,2025-07-19,Net Banking,Success,95019.29,71.91,"Meadows, Keller and Patrick"
+60,472,2024-07-26,COD,Success,34206.03,43.39,Cordova-Roberts
+61,65,2025-07-17,Net Banking,Success,71464.96,96.92,"Tate, Mullins and Smith"
+62,472,2024-01-17,COD,Failed,57346.18,31.35,Contreras-Vincent
+63,570,2024-07-05,Net Banking,Failed,11197.39,72.48,Ellis-Dean
+64,670,2025-06-27,UPI,Failed,56353.77,64.61,Taylor-Conley
+65,76,2024-01-12,UPI,Refunded,66271.84,6.14,"Singleton, Davis and Garcia"
+66,19,2024-01-31,Debit Card,Refunded,88210.97,89.1,Ayala-Hays
+67,384,2025-01-24,UPI,Failed,7473.52,18.26,Cooper-Morgan
+68,997,2025-08-09,Net Banking,Failed,29915.58,68.04,Guzman Ltd
+69,190,2025-01-19,Net Banking,Success,69387.92,78.68,Wheeler-Chase
+70,762,2025-09-08,UPI,Failed,3916.0,64.94,Mccullough Ltd
+71,360,2024-03-10,Credit Card,Success,20753.57,14.23,Waller-Blair
+72,875,2024-02-04,Net Banking,Failed,22257.7,97.64,"Smith, Stone and Meadows"
+73,886,2025-12-13,Debit Card,Success,67097.98,27.5,"Patton, Robinson and Vega"
+74,452,2025-06-27,Credit Card,Failed,28953.09,64.65,Buckley Ltd
+75,79,2024-03-12,UPI,Success,60159.77,80.73,"Miller, Gonzalez and Johnson"
+76,596,2024-09-02,COD,Refunded,96552.17,94.23,Townsend-Simpson
+77,172,2025-09-13,Net Banking,Refunded,79427.68,62.38,Jensen-West
+78,212,2025-09-10,COD,Success,33623.83,29.61,"Wilkins, Johnson and Harrison"
+79,886,2025-08-08,Debit Card,Success,47503.8,84.48,Knight-Hill
+80,445,2025-06-17,Credit Card,Refunded,20467.05,20.51,"James, Cervantes and Solis"
+81,149,2025-08-31,COD,Failed,2064.14,7.12,Johnson Inc
+82,10,2025-09-30,Debit Card,Success,29326.68,91.27,Cohen PLC
+83,542,2024-06-07,COD,Failed,37256.16,59.66,Banks and Sons
+84,792,2025-05-23,COD,Refunded,56654.53,11.62,"Hughes, Walker and Mendez"
+85,944,2025-02-11,Debit Card,Refunded,94434.63,60.07,Flores LLC
+86,55,2024-02-11,Net Banking,Success,94811.28,18.78,Hartman-Haas
+87,872,2025-06-13,COD,Failed,7474.78,7.98,Stephens-Dudley
+88,639,2025-02-27,Debit Card,Refunded,61657.25,16.07,"Smith, Mcdonald and Lopez"
+89,180,2024-12-30,COD,Failed,4714.09,78.64,Robinson and Sons
+90,744,2024-02-04,Net Banking,Refunded,64984.07,76.79,Perez Ltd
+91,381,2024-07-31,Debit Card,Success,12211.45,62.41,"Cantu, Cox and Cohen"
+92,422,2025-10-13,COD,Failed,94667.08,24.89,"Morales, Martin and Reynolds"
+93,451,2024-11-22,UPI,Failed,86501.7,75.2,Carter-Bell
+94,93,2024-06-19,Net Banking,Success,2721.72,43.76,Brown Ltd
+95,520,2025-02-03,COD,Success,78322.11,53.52,Gonzales Ltd
+96,413,2025-06-16,Credit Card,Success,63771.76,90.28,Perez-Henderson
+97,759,2024-02-28,Debit Card,Success,49789.23,48.5,Spears-Gonzalez
+98,394,2025-07-07,COD,Refunded,60462.13,64.5,Simpson-Olsen
+99,965,2025-02-17,Net Banking,Failed,67985.88,96.37,"Miller, Johnson and Cervantes"
+100,331,2025-08-30,Net Banking,Refunded,88503.52,47.88,Watson-Leonard
+101,708,2025-07-30,Credit Card,Success,76852.09,58.27,Jones-Pope
+102,433,2024-08-23,Credit Card,Refunded,57750.09,60.52,"Bray, Lopez and Jones"
+103,954,2025-01-03,COD,Refunded,82549.26,27.87,Brennan-Marshall
+104,163,2024-03-29,UPI,Failed,98698.83,75.01,"Smith, Hammond and Bell"
+105,946,2025-02-11,Net Banking,Failed,30368.11,74.03,Spence-Wright
+106,40,2025-06-05,UPI,Failed,12282.86,25.29,Duncan-Ward
+107,766,2024-11-11,UPI,Success,73279.1,6.27,"Smith, Williamson and Huerta"
+108,908,2024-03-31,COD,Success,97870.34,99.9,"Lynn, Cook and Gibbs"
+109,85,2024-04-29,Debit Card,Failed,12112.24,60.25,"Lee, Oconnor and Scott"
+110,784,2025-09-05,Debit Card,Refunded,43454.87,22.2,Jackson-Vaughan
+111,590,2025-03-03,Debit Card,Failed,6695.63,31.94,Sanchez-King
+112,725,2024-06-04,Credit Card,Success,77764.93,63.69,Petty LLC
+113,816,2024-10-18,Net Banking,Refunded,94896.52,18.07,Adams and Sons
+114,767,2025-04-22,Credit Card,Success,50149.92,8.54,Harper-Moss
+115,91,2024-05-20,Net Banking,Failed,41247.35,80.86,Lynch Inc
+116,484,2024-08-18,Net Banking,Failed,90818.04,73.01,"Hernandez, Giles and Gutierrez"
+117,385,2025-08-22,Net Banking,Refunded,13772.14,34.41,Ballard Inc
+118,193,2024-11-25,COD,Failed,89212.64,10.56,"Baker, Mills and Cox"
+119,253,2025-02-15,Debit Card,Success,39516.54,51.2,Phelps-Richard
+120,790,2024-12-03,Credit Card,Success,56160.94,31.24,Jackson and Sons
+121,655,2025-10-13,Credit Card,Success,53065.06,42.79,"Leblanc, Bowen and Olsen"
+122,244,2024-02-15,COD,Refunded,61789.93,31.03,Osborne PLC
+123,724,2025-07-16,Net Banking,Success,94241.27,21.65,Moore Group
+124,707,2025-06-18,Debit Card,Failed,95137.14,41.76,"Robbins, Benson and Walker"
+125,270,2025-06-09,UPI,Refunded,83199.25,96.66,Russell-Taylor
+126,841,2025-08-14,UPI,Success,19558.64,30.29,Whitaker-Jones
+127,19,2024-09-13,COD,Success,33684.87,36.92,"Miller, Stafford and Fox"
+128,40,2024-09-19,Debit Card,Failed,49038.57,36.28,Sanchez Inc
+129,610,2025-05-10,UPI,Failed,90593.36,50.63,"Henson, Wilkerson and Mitchell"
+130,516,2025-11-28,UPI,Refunded,52326.05,85.13,Johnson Inc
+131,33,2024-04-03,Credit Card,Success,97754.85,43.2,"Pacheco, Hammond and Evans"
+132,811,2025-06-26,Debit Card,Success,98392.2,81.58,"Clay, Green and Evans"
+133,677,2025-10-21,UPI,Failed,60059.13,15.93,Mclaughlin Ltd
+134,450,2024-01-07,Credit Card,Refunded,87810.79,90.02,"Gill, Smith and Webb"
+135,539,2025-02-08,Debit Card,Failed,99922.66,22.6,Hernandez Ltd
+136,685,2025-02-26,Net Banking,Failed,85046.79,8.72,"Harris, Vincent and Fox"
+137,849,2025-11-08,Debit Card,Refunded,65862.65,20.04,"Harrington, Smith and Hernandez"
+138,625,2024-08-28,COD,Success,84590.79,23.12,Morales Inc
+139,946,2025-06-14,Credit Card,Success,8724.18,53.31,"Clark, Smith and Andrade"
+140,885,2024-11-10,Net Banking,Success,63664.72,47.74,"Morrison, Allen and King"
+141,892,2025-02-25,Credit Card,Refunded,22043.94,73.01,Woods Group
+142,607,2024-12-09,Credit Card,Refunded,12048.33,9.84,Griffin and Sons
+143,319,2024-08-21,UPI,Refunded,89340.69,52.28,Anderson-Ayala
+144,745,2024-02-12,Debit Card,Refunded,64144.67,36.58,"Brennan, Martinez and Adkins"
+145,646,2025-08-07,Credit Card,Refunded,24732.88,64.92,"Krause, Davis and Mcfarland"
+146,124,2024-05-26,Credit Card,Failed,38984.84,9.15,Holt-Bryan
+147,372,2025-07-17,COD,Success,97341.02,8.32,Cameron Inc
+148,351,2024-02-08,COD,Refunded,86287.11,45.59,"Dunn, Brooks and Parker"
+149,323,2025-08-04,COD,Success,2050.39,82.08,Griffith Group
+150,488,2025-03-27,Credit Card,Refunded,97990.2,68.75,Graves-White
+151,451,2025-06-15,Net Banking,Success,37168.68,6.59,Garrett-Ortiz
+152,353,2024-12-06,Debit Card,Failed,69694.11,21.95,"Clark, Bowen and Grant"
+153,116,2024-07-18,Credit Card,Success,71411.32,26.54,"Chapman, Guerra and Duarte"
+154,955,2025-12-05,UPI,Success,91212.6,45.19,Flores-Day
+155,13,2025-07-27,Net Banking,Refunded,88563.56,60.74,Fowler-Liu
+156,917,2024-03-13,Net Banking,Success,28532.09,25.56,Johnson Ltd
+157,320,2024-12-01,Debit Card,Failed,64531.78,41.34,"Gomez, Farmer and Lloyd"
+158,165,2025-01-10,Net Banking,Failed,39673.69,60.47,Salinas and Sons
+159,720,2025-04-10,Debit Card,Failed,52791.6,41.43,"Graham, Webb and Rodriguez"
+160,85,2024-02-04,Net Banking,Refunded,55690.51,18.6,Lawson-Fields
+161,248,2024-03-27,Debit Card,Refunded,39936.17,51.71,Finley PLC
+162,432,2024-10-02,COD,Refunded,46657.46,35.78,Gordon-Cruz
+163,568,2025-09-09,COD,Refunded,21230.06,87.1,"Meyer, Collins and Mitchell"
+164,684,2025-04-09,Net Banking,Refunded,60960.82,78.68,"Glover, Rogers and Douglas"
+165,653,2024-03-21,Net Banking,Failed,76016.5,23.08,"Mcclure, Medina and Nguyen"
+166,644,2024-03-27,Debit Card,Success,43259.25,19.5,"Santos, Richardson and Hernandez"
+167,479,2024-12-27,Debit Card,Failed,97779.17,38.03,Clark Group
+168,713,2025-06-21,Credit Card,Refunded,6194.03,44.16,Howell-Wallace
+169,368,2025-08-23,COD,Failed,59121.49,93.54,Bailey-Sanchez
+170,801,2024-04-20,Credit Card,Success,58568.28,33.65,"Pugh, Shannon and Rodriguez"
+171,933,2025-08-25,Credit Card,Refunded,4111.48,87.42,"Hess, Guerrero and Black"
+172,821,2024-02-03,UPI,Failed,22844.73,53.0,Holmes-Stewart
+173,357,2025-02-11,Debit Card,Failed,90601.49,89.13,Weaver-Decker
+174,408,2024-12-22,UPI,Success,54679.15,71.69,Washington-Holmes
+175,345,2025-01-22,UPI,Refunded,43920.39,72.3,"Graves, Jones and Baker"
+176,179,2024-06-05,Credit Card,Refunded,41841.9,54.29,Terrell-Gonzales
+177,425,2025-03-09,UPI,Success,88872.0,84.83,Nguyen Group
+178,541,2024-07-23,Debit Card,Success,37019.6,29.17,"Stewart, Taylor and Jones"
+179,443,2025-02-27,Credit Card,Success,85987.1,91.2,Jordan LLC
+180,936,2025-01-02,Debit Card,Success,31264.66,65.49,"Smith, Frederick and Arnold"
+181,819,2025-02-12,Net Banking,Refunded,53384.65,46.68,Miller-Stewart
+182,306,2025-04-30,UPI,Refunded,14810.07,98.31,"Brown, Duarte and Freeman"
+183,367,2025-07-17,Credit Card,Failed,82590.52,86.89,Griffith PLC
+184,36,2025-02-11,COD,Failed,73729.5,78.34,Hernandez LLC
+185,463,2025-11-04,Debit Card,Failed,53244.26,31.02,Walker-Fitzgerald
+186,621,2025-07-22,UPI,Refunded,3077.18,97.51,"Mitchell, Hayes and Short"
+187,828,2025-05-24,Debit Card,Refunded,48385.1,75.58,Lopez Group
+188,146,2025-02-06,Debit Card,Refunded,22907.05,62.5,Taylor-Martinez
+189,788,2025-08-07,Net Banking,Failed,41630.74,92.57,Johnson-Hart
+190,901,2024-11-23,Debit Card,Success,85714.44,20.41,Sanchez Ltd
+191,146,2024-04-29,Net Banking,Success,77075.53,18.21,Delgado Inc
+192,380,2025-01-15,Net Banking,Success,24574.31,58.55,Owens-Davis
+193,168,2024-04-26,Net Banking,Success,98502.87,10.39,Smith-Williams
+194,769,2025-07-08,UPI,Success,90369.45,68.08,Stephens LLC
+195,275,2025-02-14,Debit Card,Refunded,53103.01,27.87,Reed-Carr
+196,87,2023-12-31,Debit Card,Failed,53249.96,16.31,"Montgomery, Ellis and Brown"
+197,154,2025-08-06,Net Banking,Success,90175.96,43.9,Campos-Deleon
+198,497,2024-09-08,Debit Card,Success,63796.41,49.27,Burgess PLC
+199,797,2025-11-23,Debit Card,Success,53900.5,21.2,"Garza, Malone and Baird"
+200,315,2024-02-10,Net Banking,Refunded,75040.28,8.95,Bryan and Sons
+201,831,2024-08-11,COD,Success,23892.16,44.34,Green Group
+202,610,2025-07-20,COD,Failed,87898.55,77.16,Velasquez-Solomon
+203,723,2025-07-29,Net Banking,Refunded,53375.82,88.05,"Williams, Snow and Smith"
+204,958,2025-04-28,UPI,Refunded,60548.18,14.27,Hamilton Inc
+205,560,2024-07-19,Debit Card,Refunded,9449.42,54.84,Jordan Inc
+206,830,2024-04-22,Debit Card,Success,31296.14,30.02,"Haas, Wilson and Hernandez"
+207,274,2024-09-12,COD,Success,42960.17,40.59,Williams PLC
+208,706,2024-11-12,Net Banking,Success,41684.0,93.68,Hardin-Benjamin
+209,764,2024-06-26,UPI,Success,77939.29,38.45,"Barr, Willis and Snyder"
+210,795,2025-05-07,Net Banking,Failed,28591.08,39.71,Whitehead-Gardner
+211,262,2024-02-16,COD,Refunded,18619.87,24.89,Chandler Group
+212,487,2025-11-06,COD,Success,58470.42,96.2,"Snyder, Cannon and Hernandez"
+213,454,2025-11-10,Debit Card,Failed,61693.98,48.37,Salazar Ltd
+214,443,2024-09-11,Credit Card,Refunded,12597.54,59.19,Weiss Ltd
+215,262,2025-09-05,UPI,Refunded,745.62,48.05,Anderson-Cohen
+216,543,2024-03-24,UPI,Refunded,91806.08,29.03,Nelson PLC
+217,105,2025-04-10,Credit Card,Success,8423.88,81.99,Jones-May
+218,1000,2024-04-02,COD,Refunded,89837.76,7.7,Wall-Wilson
+219,350,2024-11-27,Net Banking,Success,40221.88,70.57,Patel LLC
+220,824,2025-03-26,UPI,Failed,65479.06,61.46,Hughes Ltd
+221,438,2025-05-01,Credit Card,Refunded,18968.66,18.71,Chavez Inc
+222,981,2025-03-28,Debit Card,Failed,82479.74,20.76,"Banks, Robinson and Odonnell"
+223,169,2025-05-31,Debit Card,Success,18429.24,67.63,Terrell Ltd
+224,748,2024-08-02,COD,Success,38957.66,34.65,Nguyen-Jones
+225,786,2025-03-20,UPI,Success,24183.57,30.25,Haas and Sons
+226,343,2024-12-01,Net Banking,Refunded,83831.84,10.62,Hebert-Thomas
+227,230,2024-09-28,UPI,Refunded,85904.41,77.82,Jones Inc
+228,23,2024-09-08,Debit Card,Failed,37516.87,88.85,Walton PLC
+229,988,2024-07-28,UPI,Success,31084.16,82.89,"Gentry, House and Graham"
+230,676,2024-01-18,Debit Card,Failed,77469.75,49.27,Evans Group
+231,281,2024-07-04,Credit Card,Success,87911.94,55.73,Smith-Mcdowell
+232,519,2025-07-16,Credit Card,Success,62589.99,28.02,"Marks, Lewis and West"
+233,722,2024-07-01,Debit Card,Failed,92776.67,21.42,Brooks-Johnson
+234,253,2024-11-28,Net Banking,Success,38612.86,83.19,Farrell Ltd
+235,404,2024-11-24,Net Banking,Failed,15612.7,80.84,Hale-Vasquez
+236,133,2025-04-14,UPI,Refunded,18374.48,78.85,Clayton PLC
+237,274,2024-01-05,Debit Card,Failed,67148.28,49.02,"Burton, Lee and Rodriguez"
+238,618,2025-01-02,COD,Failed,41048.88,87.13,Wilson-Miller
+239,232,2025-06-21,Net Banking,Success,16053.3,92.99,"Murray, Jackson and Hansen"
+240,545,2025-11-24,Net Banking,Failed,29576.57,36.19,"Collins, Peterson and Garcia"
+241,79,2024-06-18,Credit Card,Refunded,53295.2,26.35,"Griffith, Bowers and Adams"
+242,35,2024-03-25,Net Banking,Refunded,12583.8,49.1,Mccarthy Inc
+243,495,2025-01-15,Net Banking,Refunded,842.53,22.04,Bailey PLC
+244,110,2025-09-23,Net Banking,Refunded,91771.16,88.98,Fields-Robbins
+245,321,2024-01-29,Debit Card,Failed,30833.69,37.11,"Richards, Duncan and Beck"
+246,575,2024-03-03,Debit Card,Refunded,22539.07,59.74,James-Hayes
+247,981,2024-09-07,Credit Card,Failed,69998.84,61.5,"Nelson, Duarte and Wilson"
+248,328,2025-07-24,UPI,Failed,85413.57,53.92,Rosario Group
+249,967,2025-05-20,Net Banking,Success,63411.74,19.87,"Moreno, Hall and Riley"
+250,809,2024-09-24,UPI,Failed,25821.03,99.15,"Howell, Campos and Carpenter"
+251,690,2025-11-10,Debit Card,Failed,86232.84,21.4,Watson-Robinson
+252,384,2025-08-15,Net Banking,Success,51287.51,76.39,"Barker, Prince and Smith"
+253,364,2024-07-03,UPI,Refunded,38428.48,80.18,"Jackson, Jones and Perkins"
+254,232,2024-04-08,UPI,Refunded,60670.25,18.79,Chandler and Sons
+255,616,2024-01-19,COD,Failed,70210.92,93.65,Lopez LLC
+256,414,2025-10-30,Debit Card,Success,59586.07,51.34,Smith LLC
+257,294,2024-12-09,Credit Card,Failed,92064.42,64.74,"Cardenas, Warner and Hicks"
+258,547,2024-12-03,Credit Card,Failed,62987.77,66.01,Hunt PLC
+259,706,2024-05-07,COD,Refunded,87918.78,52.97,"Jones, Johnson and Collier"
+260,174,2025-02-06,UPI,Success,58902.36,18.49,"Hunt, Johnson and Morales"
+261,392,2024-01-06,COD,Failed,33303.12,76.42,"Warren, Anderson and Goodman"
+262,102,2025-09-17,COD,Refunded,53463.53,60.27,Burch-Perez
+263,836,2025-11-01,Debit Card,Failed,9090.5,16.27,Ray LLC
+264,293,2024-04-13,Net Banking,Refunded,23402.38,71.53,"Pennington, Anderson and Brown"
+265,85,2025-10-24,UPI,Success,76740.05,71.76,Jones-Ramos
+266,909,2025-05-19,Credit Card,Failed,66316.82,57.11,Zimmerman Ltd
+267,201,2024-10-01,Credit Card,Success,17068.61,13.6,"Ellis, Rivera and Yates"
+268,685,2024-08-21,COD,Refunded,44082.51,38.5,Myers Inc
+269,541,2025-12-03,COD,Success,14628.22,9.84,Osborne and Sons
+270,297,2024-04-13,COD,Success,85653.88,50.37,Maldonado-Dean
+271,56,2025-07-01,UPI,Success,11362.39,91.11,Carter-Washington
+272,472,2024-04-02,COD,Failed,65596.38,5.21,Hammond-Alvarez
+273,16,2025-11-11,COD,Refunded,60896.5,30.33,Rice-Vargas
+274,652,2024-03-02,Net Banking,Success,47541.28,80.99,"Anthony, Sandoval and Abbott"
+275,66,2024-03-26,UPI,Failed,28184.34,5.94,"Castillo, Riggs and Hernandez"
+276,958,2024-11-29,Debit Card,Refunded,40693.67,5.97,Lara-Walker
+277,659,2025-11-20,Debit Card,Refunded,80735.93,63.03,"Garcia, Garcia and Abbott"
+278,670,2025-03-02,Net Banking,Refunded,76274.31,79.97,Kim Inc
+279,912,2025-01-12,Credit Card,Success,74011.51,78.77,Baker and Sons
+280,472,2025-10-08,Debit Card,Success,75107.45,79.06,"Holt, Smith and Morrison"
+281,909,2025-02-26,UPI,Success,14816.69,39.3,"Martinez, Campbell and Williams"
+282,581,2024-09-07,Credit Card,Refunded,10360.1,88.86,"Brown, Mills and Matthews"
+283,23,2025-07-09,COD,Refunded,86219.11,6.22,"Baker, Tucker and Boyd"
+284,702,2025-05-02,UPI,Success,83798.87,34.66,Holder-Anderson
+285,760,2024-07-28,Credit Card,Success,68291.17,37.03,Weeks-Stephens
+286,486,2024-10-27,Debit Card,Refunded,60787.62,20.73,"Jones, Wilson and Martin"
+287,415,2025-04-24,COD,Refunded,37003.73,36.94,Higgins-Henderson
+288,821,2025-02-04,COD,Failed,22796.22,60.66,"Ramirez, Graham and Taylor"
+289,888,2025-06-02,UPI,Failed,66931.82,54.43,"Berry, Brandt and Martinez"
+290,657,2025-02-24,COD,Success,91346.95,35.35,"Hill, Foster and Matthews"
+291,896,2024-06-23,Credit Card,Refunded,43981.16,76.19,"Reynolds, Graves and Sloan"
+292,305,2025-06-30,Net Banking,Refunded,30669.64,72.91,Tate-Schroeder
+293,177,2024-02-15,Debit Card,Failed,27438.81,31.67,Kelley-Newman
+294,195,2025-05-29,UPI,Refunded,2858.67,35.71,Nguyen-Stewart
+295,922,2024-02-11,Net Banking,Success,52271.51,32.31,"Osborn, Wilson and Newman"
+296,13,2025-05-08,Net Banking,Failed,98829.48,17.24,Miller PLC
+297,876,2025-10-17,UPI,Refunded,81616.15,76.51,Padilla-Park
+298,166,2025-05-30,Credit Card,Refunded,89798.73,9.4,Lawson and Sons
+299,150,2025-01-17,Debit Card,Success,62305.83,19.31,"Hughes, Scott and Campbell"
+300,341,2025-07-23,UPI,Refunded,48403.92,15.0,"Johnson, King and Boyd"
+301,925,2025-09-10,Net Banking,Failed,99050.47,83.41,Calhoun Group
+302,557,2025-08-29,Net Banking,Failed,44992.63,9.18,Morales-Norton
+303,174,2025-03-31,UPI,Refunded,91724.64,68.14,"Garcia, Wilson and Kelly"
+304,167,2024-10-13,Net Banking,Refunded,76303.56,9.23,Gomez PLC
+305,709,2024-06-03,UPI,Refunded,33432.35,79.71,Wilson Inc
+306,718,2024-11-22,UPI,Refunded,50554.69,91.71,"Moody, Holmes and Terry"
+307,594,2025-11-17,Debit Card,Failed,38740.76,51.25,Johnson PLC
+308,580,2024-02-08,UPI,Success,14054.22,81.43,"Dickerson, Lopez and Castaneda"
+309,97,2025-11-12,Net Banking,Failed,35998.27,72.11,Rubio-Grant
+310,679,2025-06-16,COD,Refunded,88952.8,80.59,Hopkins Ltd
+311,404,2025-05-21,Debit Card,Refunded,75387.25,77.84,Conner-Pineda
+312,77,2024-11-13,Net Banking,Failed,28119.32,24.51,"Calderon, Mcguire and Rose"
+313,996,2025-04-26,Net Banking,Failed,37107.37,52.46,Wood-Webb
+314,237,2024-01-18,Debit Card,Refunded,61835.18,96.24,"Jennings, Dawson and Schwartz"
+315,708,2024-05-16,Debit Card,Failed,41905.91,37.64,Parker and Sons
+316,291,2024-04-03,Net Banking,Refunded,50552.89,97.2,"Zavala, Walls and Watson"
+317,136,2025-08-15,COD,Failed,69967.76,60.4,Mullins-Lewis
+318,820,2024-03-20,Credit Card,Refunded,46991.46,48.85,Zhang-Hill
+319,808,2024-12-17,Net Banking,Failed,19501.49,67.49,"Peterson, Salinas and Hall"
+320,889,2024-11-22,Debit Card,Refunded,52297.11,82.5,Lee-Barajas
+321,881,2024-03-01,UPI,Success,35933.76,42.45,"Hughes, Morton and Brown"
+322,367,2025-03-13,UPI,Success,29428.06,8.13,"Decker, Duke and Franklin"
+323,548,2024-09-08,Debit Card,Failed,33146.8,72.34,Holland Group
+324,902,2024-10-19,Debit Card,Success,44180.72,95.84,"Sawyer, Nicholson and Griffin"
+325,248,2024-04-15,Credit Card,Refunded,88718.01,64.37,Bell-Hamilton
+326,766,2024-10-22,Debit Card,Failed,73538.68,22.9,Brown Ltd
+327,214,2025-01-16,UPI,Failed,66954.25,28.58,"Rodriguez, Gillespie and Meyer"
+328,764,2025-05-22,COD,Refunded,47390.39,91.43,"Smith, Whitaker and Vaughn"
+329,70,2025-03-09,Debit Card,Refunded,682.08,6.29,Nelson Ltd
+330,746,2023-12-31,Credit Card,Refunded,34384.8,57.13,"Wilson, Lewis and Escobar"
+331,996,2024-10-22,COD,Failed,81412.61,20.07,Ortiz-Walker
+332,329,2025-02-04,Credit Card,Refunded,39123.01,31.86,Wright-Davis
+333,16,2025-06-16,COD,Success,56600.0,34.16,Robinson Group
+334,487,2024-09-14,Debit Card,Failed,20871.61,25.83,Jones-Martinez
+335,174,2025-04-03,UPI,Refunded,91627.85,80.27,"Martinez, Wagner and Nichols"
+336,699,2025-06-06,COD,Failed,92355.46,36.56,Chandler Inc
+337,806,2025-05-09,Net Banking,Success,15034.0,37.82,Daniels-Adams
+338,737,2025-12-06,Credit Card,Success,72553.82,48.04,Hines Ltd
+339,274,2025-07-30,COD,Refunded,7986.23,90.72,Watson LLC
+340,524,2024-06-03,Credit Card,Failed,60055.49,70.38,"Chan, Hayes and Smith"
+341,822,2025-03-11,UPI,Refunded,18276.04,10.87,Juarez-Perkins
+342,219,2025-11-04,Credit Card,Failed,14997.67,8.73,Steele LLC
+343,943,2025-05-02,Credit Card,Refunded,909.92,58.81,Jones-Flores
+344,513,2025-12-15,Net Banking,Refunded,94115.29,89.27,Spence Inc
+345,399,2023-12-30,Credit Card,Failed,83010.62,35.71,Rangel-Carter
+346,111,2024-05-30,COD,Failed,8208.82,28.54,Jones-Harrison
+347,987,2024-02-08,Credit Card,Success,60137.87,76.08,"Johnson, Wilson and Torres"
+348,464,2024-01-25,Debit Card,Success,23673.37,62.2,"Rodriguez, Rose and Morales"
+349,789,2025-11-18,Credit Card,Failed,26769.58,58.68,"Johnson, Williams and Brown"
+350,641,2024-04-27,Debit Card,Success,87479.95,19.18,Reyes Inc
+351,93,2024-10-27,Credit Card,Success,11875.41,21.72,Hernandez Ltd
+352,451,2024-10-13,Credit Card,Failed,60348.27,31.77,"Fuller, Gibbs and Franco"
+353,396,2024-01-24,COD,Failed,40424.93,24.65,Carlson-Henderson
+354,892,2025-09-02,Debit Card,Failed,19484.66,97.29,Davis-Silva
+355,924,2025-07-16,Debit Card,Refunded,45465.85,6.77,Nelson PLC
+356,551,2024-04-14,Net Banking,Failed,94078.68,64.48,Kelly-Edwards
+357,933,2024-07-23,Credit Card,Failed,78270.2,54.17,Mclean and Sons
+358,479,2024-09-02,Credit Card,Failed,13645.08,35.71,"Morales, Boyer and Anderson"
+359,316,2024-11-02,COD,Success,85018.26,89.32,"Summers, Smith and Martin"
+360,671,2024-11-20,Net Banking,Failed,93775.33,68.67,"Stewart, Jordan and Wallace"
+361,698,2024-07-26,Net Banking,Success,28057.95,99.84,Mcneil Inc
+362,993,2024-12-01,COD,Refunded,33675.26,21.02,Ramsey-Jimenez
+363,353,2025-01-27,Debit Card,Failed,13067.84,13.35,"Hayes, Gray and Morris"
+364,768,2024-05-06,UPI,Failed,34821.54,18.24,Stone Inc
+365,239,2024-05-09,COD,Success,67477.51,30.58,Reed and Sons
+366,104,2025-08-12,Debit Card,Refunded,27579.42,44.59,Frazier Inc
+367,907,2024-06-05,Net Banking,Failed,1179.09,86.95,Hawkins Group
+368,878,2024-06-13,COD,Refunded,34185.19,31.94,"Lewis, Ortiz and Mccoy"
+369,29,2024-07-20,UPI,Refunded,45590.82,91.95,"Cruz, Bell and Garcia"
+370,89,2024-10-10,Credit Card,Failed,56852.43,48.98,Ross PLC
+371,375,2024-04-07,COD,Refunded,68540.6,66.47,"Warren, Atkinson and Hughes"
+372,397,2024-10-04,UPI,Refunded,6647.54,30.12,Cooley-Schneider
+373,563,2025-01-13,UPI,Failed,47240.32,19.82,"Harrington, Santiago and Brown"
+374,364,2024-02-16,COD,Success,27003.07,87.6,Garcia-Stuart
+375,950,2024-10-12,Debit Card,Failed,94822.97,15.4,Stewart and Sons
+376,147,2025-01-21,COD,Refunded,36309.9,78.53,Pham-Martinez
+377,314,2025-03-21,Net Banking,Failed,10462.31,60.19,"Richardson, Clark and Mayo"
+378,548,2024-05-01,UPI,Success,4628.4,86.81,Morris Group
+379,796,2025-11-22,UPI,Refunded,26907.89,73.19,Hernandez-Hernandez
+380,452,2024-04-24,Credit Card,Refunded,18298.43,31.76,Ortiz-Hancock
+381,899,2025-08-16,UPI,Success,65155.06,59.57,Nelson LLC
+382,506,2024-06-20,Credit Card,Success,84773.17,6.24,Clark PLC
+383,486,2024-02-02,UPI,Refunded,31599.59,50.15,Jones-Weber
+384,101,2025-10-18,UPI,Success,57990.25,13.17,"Haynes, Christian and King"
+385,107,2024-03-29,COD,Failed,73165.38,45.75,"Richardson, Merritt and Ball"
+386,857,2025-11-24,COD,Success,40149.53,15.41,"Sims, Wilson and Reid"
+387,937,2024-03-06,Net Banking,Failed,7099.4,95.77,"Johnson, Herring and Chavez"
+388,291,2025-02-06,Debit Card,Refunded,23303.9,54.69,Bowman-Lewis
+389,349,2025-12-21,Net Banking,Refunded,88365.05,91.76,"Murphy, Davis and Rogers"
+390,617,2025-09-01,UPI,Refunded,82535.79,7.12,Moore Group
+391,733,2024-10-24,Net Banking,Refunded,9109.99,65.58,Gonzalez-Guerra
+392,588,2024-07-11,COD,Refunded,22782.9,34.16,"Yang, Gonzalez and Sanders"
+393,227,2025-10-14,UPI,Success,77031.95,46.02,Banks-Meyer
+394,596,2025-06-08,UPI,Success,48846.87,87.94,"Doyle, Taylor and Hill"
+395,977,2024-08-16,Net Banking,Refunded,76116.72,98.1,Cole-Steele
+396,588,2024-01-24,Credit Card,Success,21503.7,28.42,Brennan-Glass
+397,761,2025-07-15,Debit Card,Success,95293.46,95.08,Brock Ltd
+398,767,2024-03-02,Net Banking,Refunded,78468.94,70.43,"Dougherty, Anderson and Evans"
+399,50,2025-10-04,Net Banking,Success,20146.51,95.38,Smith LLC
+400,868,2024-01-25,Debit Card,Refunded,56065.7,58.42,Lyons-Martinez
+401,970,2024-05-15,UPI,Refunded,11753.16,96.27,Brown-Wells
+402,722,2025-08-06,UPI,Refunded,36462.76,89.78,Pena-West
+403,158,2024-08-18,Credit Card,Refunded,66132.33,17.22,French Inc
+404,328,2025-05-25,Net Banking,Success,33347.7,34.53,Burch-Hayes
+405,745,2025-11-02,Debit Card,Success,65847.46,28.09,Gilbert-Anderson
+406,883,2025-09-08,Net Banking,Failed,24855.56,59.35,Marshall-Ramsey
+407,77,2025-05-25,COD,Failed,72260.07,81.27,"Holmes, Edwards and Haney"
+408,735,2025-10-24,Net Banking,Refunded,36279.16,77.14,Garcia Inc
+409,633,2024-07-14,Net Banking,Failed,79152.89,74.04,Smith PLC
+410,454,2024-07-28,COD,Success,14100.65,40.65,Bridges-Liu
+411,310,2024-08-29,COD,Success,36516.81,18.27,"Wright, Yates and Rivera"
+412,327,2025-01-12,Debit Card,Failed,46661.28,25.01,Carpenter-Taylor
+413,508,2024-07-26,UPI,Failed,42672.63,75.46,Wright Ltd
+414,853,2024-11-13,Credit Card,Success,43592.9,19.02,Villa Ltd
+415,870,2025-03-23,COD,Failed,44757.93,26.18,Garcia Inc
+416,107,2024-12-15,UPI,Success,98885.95,45.33,Jones-Moreno
+417,241,2025-01-21,Debit Card,Success,19719.13,11.85,"Becker, Ford and Jackson"
+418,435,2024-11-03,Net Banking,Failed,76982.05,25.21,Lane-Garcia
+419,28,2025-05-21,Debit Card,Failed,55402.98,19.23,"Powell, White and Young"
+420,704,2025-11-11,Debit Card,Refunded,41656.03,95.38,Swanson-Morales
+421,249,2025-09-29,COD,Refunded,63536.11,23.19,Davis LLC
+422,364,2024-12-12,Credit Card,Refunded,85426.38,86.87,Holmes-Mitchell
+423,725,2025-04-17,COD,Refunded,46930.52,15.91,"Warner, Gutierrez and Adams"
+424,533,2024-01-21,Net Banking,Refunded,86547.74,87.62,Gomez and Sons
+425,472,2025-01-07,COD,Success,9832.93,61.95,Washington Inc
+426,667,2025-09-03,Net Banking,Failed,65481.88,85.72,Shelton LLC
+427,539,2024-08-23,COD,Success,33651.42,87.4,Weber-Livingston
+428,589,2025-12-11,Credit Card,Refunded,38978.18,61.66,Ellison LLC
+429,818,2024-05-23,UPI,Refunded,57316.47,92.18,Lyons-Black
+430,413,2024-05-25,Credit Card,Failed,48251.72,60.62,Sweeney and Sons
+431,935,2024-01-27,COD,Success,38487.05,72.69,Valdez-Bryant
+432,569,2024-03-12,Debit Card,Refunded,31178.18,44.53,"Lewis, Young and Hamilton"
+433,631,2025-12-04,UPI,Refunded,62022.37,91.84,Fowler Ltd
+434,988,2025-08-16,Debit Card,Refunded,50805.18,83.3,Foster and Sons
+435,165,2024-02-17,Credit Card,Refunded,32669.26,20.84,Hinton-Sampson
+436,989,2024-12-05,UPI,Success,20893.62,59.76,Graves PLC
+437,576,2024-03-11,COD,Success,77559.59,90.2,"Smith, Le and Wheeler"
+438,48,2025-08-19,Debit Card,Refunded,80071.63,80.34,Sharp-Ball
+439,662,2025-06-28,COD,Success,21771.92,96.44,Matthews-Simmons
+440,484,2024-08-23,Net Banking,Refunded,26534.08,26.97,"Rosales, Newton and Scott"
+441,158,2025-01-18,UPI,Failed,24294.73,39.91,Reilly Group
+442,668,2024-04-08,Debit Card,Failed,88514.69,53.18,Barron and Sons
+443,151,2025-06-03,Credit Card,Failed,77525.97,27.1,"Carpenter, Deleon and Butler"
+444,225,2025-02-21,Credit Card,Success,7920.07,42.43,Lopez-Williams
+445,260,2025-01-02,Credit Card,Refunded,83350.26,56.07,"Gutierrez, Adams and Allen"
+446,387,2025-03-31,Credit Card,Failed,4166.76,23.18,Howard Group
+447,256,2025-04-21,Debit Card,Failed,25693.38,29.39,"Rogers, Wagner and Conrad"
+448,61,2025-04-28,Net Banking,Success,91939.64,16.86,Mclaughlin-Ray
+449,864,2025-08-06,Credit Card,Success,86500.96,72.77,Mcgrath-Moore
+450,772,2025-06-17,Credit Card,Failed,78252.73,39.35,"Foley, Long and Miller"
+451,833,2025-10-29,Credit Card,Refunded,46025.95,25.93,Sanchez and Sons
+452,396,2025-06-10,Net Banking,Refunded,32480.7,53.2,Carpenter-Nguyen
+453,397,2024-09-16,UPI,Refunded,88213.81,11.48,"Molina, Brennan and Clark"
+454,162,2024-08-09,Credit Card,Failed,65878.87,92.72,Anderson-Hughes
+455,380,2025-12-03,Credit Card,Success,29903.13,32.97,Miller Inc
+456,443,2025-05-20,Credit Card,Refunded,46587.99,89.21,Dalton-Owens
+457,349,2024-12-12,UPI,Failed,88209.27,52.27,Howard-Martinez
+458,969,2024-02-18,Credit Card,Failed,90393.82,85.76,"Reid, Wells and Johnson"
+459,31,2024-10-05,UPI,Success,66100.56,28.47,"Estrada, Shah and Lam"
+460,71,2024-12-19,UPI,Refunded,73389.31,21.65,"Gomez, Macias and Cole"
+461,397,2024-12-21,COD,Failed,4410.13,85.69,Roberts-Vargas
+462,438,2025-09-25,COD,Refunded,60657.75,25.23,"Cannon, Delgado and Anderson"
+463,2,2024-08-23,Credit Card,Refunded,69054.76,75.89,Sampson Ltd
+464,929,2025-09-20,Debit Card,Refunded,2527.53,37.74,"Harris, Chapman and Wright"
+465,562,2025-02-18,COD,Failed,84463.97,76.08,"Johnson, Fitzgerald and Silva"
+466,135,2025-04-20,COD,Refunded,92864.36,91.23,"Johnson, Curtis and Ho"
+467,146,2025-01-08,Debit Card,Success,24174.68,98.26,"Garcia, Woodard and Garza"
+468,179,2025-03-26,Net Banking,Failed,84656.7,39.18,"Jackson, Martinez and Johnson"
+469,264,2025-10-06,Credit Card,Failed,66718.5,39.91,"Boyer, Costa and Sullivan"
+470,311,2024-05-24,Net Banking,Refunded,58279.23,98.23,Montoya and Sons
+471,204,2024-03-14,Net Banking,Refunded,84391.03,86.85,Humphrey and Sons
+472,811,2025-07-18,UPI,Refunded,28918.25,9.28,"Mcbride, Porter and Griffin"
+473,699,2024-05-20,UPI,Failed,79190.19,59.48,"Smith, Jacobs and Reynolds"
+474,30,2025-08-12,Credit Card,Success,31794.82,22.22,Lynch Inc
+475,59,2024-05-14,Debit Card,Success,78851.93,99.43,Chavez-Hahn
+476,9,2024-12-05,UPI,Failed,45379.87,18.2,Lewis Ltd
+477,988,2025-11-06,COD,Success,12136.07,58.14,"Grimes, Bell and Swanson"
+478,324,2024-04-26,Credit Card,Refunded,38461.23,68.19,"Scott, Owens and Munoz"
+479,167,2025-08-10,Net Banking,Failed,23732.58,94.02,Mcmillan Group
+480,337,2025-08-08,Credit Card,Success,10502.89,85.49,Walker-Lewis
+481,907,2025-02-23,UPI,Failed,11473.56,28.35,Flores-Tucker
+482,379,2025-04-24,Debit Card,Success,78117.1,59.4,"Sampson, Willis and Bradley"
+483,898,2025-02-08,Net Banking,Failed,88199.09,95.59,"Chandler, Bailey and Tucker"
+484,791,2024-05-11,Debit Card,Success,92749.35,74.89,Smith-Monroe
+485,703,2024-10-06,Credit Card,Failed,85467.64,70.39,Kennedy PLC
+486,242,2024-05-31,Debit Card,Failed,83107.3,76.72,Hernandez-Hernandez
+487,790,2024-10-12,Debit Card,Failed,7349.17,35.64,Bush Ltd
+488,957,2025-07-08,Credit Card,Failed,79117.3,74.28,"Gonzalez, Lozano and Simmons"
+489,666,2024-11-08,Net Banking,Failed,78436.62,27.12,"Griffith, Rose and Gibson"
+490,908,2024-01-27,Debit Card,Refunded,13563.39,45.67,Martin-Chung
+491,160,2024-01-18,Debit Card,Failed,66369.92,89.54,Wong-Harris
+492,777,2023-12-30,Credit Card,Failed,45524.48,6.8,Moore and Sons
+493,235,2025-02-15,COD,Failed,90051.35,44.36,"Taylor, Hines and Gallegos"
+494,453,2024-12-23,Debit Card,Success,69693.13,30.35,"Norris, Jones and Johnson"
+495,858,2025-06-16,UPI,Failed,95123.26,23.87,Fernandez Inc
+496,199,2024-08-05,Net Banking,Refunded,10939.8,84.66,Ruiz-Chandler
+497,477,2024-10-25,Debit Card,Failed,4540.43,71.17,Roberts-Cline
+498,33,2025-08-03,Credit Card,Success,97371.15,15.7,"Scott, Gentry and Cook"
+499,408,2025-10-19,UPI,Success,8479.12,51.97,"Kline, Snow and Pruitt"
+500,89,2024-07-16,Credit Card,Failed,38926.48,49.36,"Fernandez, Ewing and Johnson"
+501,607,2024-11-23,Debit Card,Failed,65172.08,18.54,Dixon-Martin
+502,221,2024-03-05,UPI,Failed,88065.64,80.98,Hudson-Obrien
+503,69,2025-08-24,Net Banking,Failed,25830.44,39.83,"Morales, Robinson and Howard"
+504,294,2024-01-03,Net Banking,Success,3391.29,77.38,Lee-Wilson
+505,237,2024-01-25,Net Banking,Failed,52368.04,23.25,Conner PLC
+506,907,2025-07-20,COD,Success,47375.65,34.93,Davis Ltd
+507,160,2024-11-26,Credit Card,Success,31035.87,14.04,Jones and Sons
+508,832,2024-01-11,Debit Card,Refunded,87452.99,18.63,"Garcia, Torres and Leon"
+509,840,2024-04-16,UPI,Success,75057.56,88.9,Suarez-Edwards
+510,788,2025-06-05,Credit Card,Failed,85882.58,15.37,"Sims, Foley and Jacobs"
+511,290,2024-05-17,Debit Card,Failed,16599.99,14.09,Mccoy Inc
+512,879,2025-07-05,COD,Failed,69394.99,94.34,"Andrews, Adams and Casey"
+513,554,2024-02-14,Debit Card,Failed,97522.62,66.36,Ochoa-King
+514,904,2024-07-31,Credit Card,Refunded,61385.43,14.59,"Stewart, Clark and Kennedy"
+515,578,2024-07-09,Debit Card,Refunded,17550.75,97.31,Griffin and Sons
+516,533,2025-09-06,UPI,Refunded,99580.15,18.97,"Robinson, James and Holder"
+517,335,2025-06-25,COD,Refunded,53068.2,77.8,Allen Ltd
+518,582,2025-12-21,UPI,Success,84085.87,8.31,Huff LLC
+519,773,2024-09-23,COD,Refunded,15361.46,64.33,"Smith, Johnson and Peterson"
+520,502,2024-10-23,COD,Success,66776.57,56.94,Patel-Marshall
+521,246,2025-01-06,Debit Card,Failed,91305.46,24.76,"Glover, Wiley and Jackson"
+522,323,2024-06-18,UPI,Success,53435.77,66.1,"Coleman, Hunter and Davies"
+523,747,2025-10-15,COD,Success,29221.68,63.62,Scott and Sons
+524,939,2024-11-30,COD,Refunded,13178.47,80.84,Nichols-Edwards
+525,784,2024-08-04,Debit Card,Failed,29946.49,88.21,"Brock, Barnes and Smith"
+526,611,2025-11-01,Credit Card,Failed,35810.98,53.46,"Espinoza, Peters and Cherry"
+527,329,2025-01-31,Credit Card,Refunded,71140.53,51.58,Daniel-Snyder
+528,547,2024-04-28,Net Banking,Success,18272.83,64.05,Lopez-Simmons
+529,339,2025-03-10,Net Banking,Refunded,11057.43,74.27,Miller-Khan
+530,171,2024-07-20,COD,Success,39000.48,38.84,Reid Group
+531,110,2024-04-22,Credit Card,Refunded,46136.03,52.94,Grant-Robinson
+532,994,2024-11-24,COD,Refunded,63024.31,60.58,Gonzalez-Johnson
+533,807,2024-03-23,UPI,Failed,70899.36,98.9,Watkins-Smith
+534,10,2025-09-24,Credit Card,Failed,88983.13,60.83,Ramirez-Schultz
+535,202,2024-05-28,Credit Card,Failed,29250.88,26.3,Wolfe-Robinson
+536,916,2025-03-28,Credit Card,Refunded,53096.48,60.86,Evans-Murphy
+537,257,2025-09-16,Net Banking,Failed,36921.05,82.85,Liu Group
+538,262,2025-01-25,Debit Card,Failed,641.46,86.45,Ferrell Group
+539,693,2024-08-02,Debit Card,Refunded,58153.47,81.02,Thompson-Nguyen
+540,430,2024-11-02,Net Banking,Failed,81671.71,89.38,Dickson-West
+541,507,2024-05-26,Net Banking,Success,4125.73,36.8,Collins Inc
+542,66,2024-03-09,Net Banking,Failed,847.43,53.22,King-Davis
+543,806,2025-04-27,Debit Card,Success,72917.93,79.06,Thomas and Sons
+544,673,2025-06-19,COD,Failed,68544.04,30.12,Hebert-Williams
+545,579,2024-08-27,Net Banking,Refunded,40882.28,40.3,"Powell, Murphy and Hurley"
+546,612,2025-07-03,COD,Refunded,66329.69,83.96,"Welch, Wilcox and Garcia"
+547,589,2024-05-22,COD,Failed,95361.91,78.16,"Johns, Robinson and Richardson"
+548,35,2024-08-06,UPI,Success,25162.35,97.26,"Walsh, White and Miller"
+549,975,2024-10-19,Debit Card,Failed,24969.7,99.62,Roberts Inc
+550,557,2025-11-20,COD,Refunded,19030.1,27.87,"Drake, Hill and Carroll"
+551,662,2025-03-25,Debit Card,Failed,72536.68,90.54,Fox Inc
+552,491,2024-05-03,Debit Card,Refunded,35642.33,13.98,"Jordan, Carter and Ferguson"
+553,580,2025-05-29,UPI,Success,98874.97,72.43,Allen LLC
+554,254,2024-01-09,Debit Card,Success,71607.57,25.91,Caldwell-Mason
+555,17,2024-01-15,COD,Refunded,37054.0,33.53,"Sims, Rogers and Lloyd"
+556,261,2025-09-21,Credit Card,Success,15344.01,94.9,Wang Group
+557,725,2025-03-14,COD,Refunded,59406.47,30.0,Livingston Inc
+558,825,2025-09-30,COD,Refunded,29842.87,68.95,Lee-Smith
+559,256,2025-01-13,Debit Card,Refunded,90598.15,21.92,"Thomas, Thomas and Chang"
+560,728,2024-12-13,COD,Failed,44419.74,13.87,Allen LLC
+561,863,2024-12-02,Credit Card,Success,29618.67,37.24,Bernard-Kerr
+562,424,2024-07-06,Debit Card,Failed,59060.91,64.3,Rose-Cook
+563,501,2024-05-24,Net Banking,Failed,14128.96,28.55,Wilson-Miller
+564,286,2024-08-31,COD,Success,56374.13,33.52,"Griffith, Davis and Cooper"
+565,938,2024-04-20,COD,Failed,6083.09,72.33,Martin-Baker
+566,7,2025-02-03,UPI,Refunded,60885.42,14.77,Robles-Campbell
+567,497,2024-03-24,Net Banking,Failed,53251.3,47.46,Long-Vazquez
+568,892,2024-02-25,Net Banking,Refunded,52316.22,94.46,Young and Sons
+569,199,2024-01-13,Credit Card,Success,68574.36,42.71,Bullock-Campbell
+570,603,2024-11-21,Net Banking,Failed,4923.43,46.25,Mooney PLC
+571,984,2024-01-30,UPI,Success,46243.28,75.13,Fisher-Wilkins
+572,659,2025-03-24,Credit Card,Refunded,44681.85,79.01,Cox-Gallegos
+573,937,2024-03-17,Net Banking,Failed,46248.35,78.11,Hunter PLC
+574,418,2025-06-26,Credit Card,Refunded,97999.15,99.8,White Ltd
+575,662,2025-05-19,Net Banking,Refunded,14358.21,11.79,Thompson-Boyle
+576,52,2024-11-07,Net Banking,Refunded,69197.76,98.31,"Daniels, Campbell and Horton"
+577,243,2024-03-17,Net Banking,Success,40498.62,95.27,"Tate, Campbell and Wright"
+578,219,2024-12-16,COD,Success,51416.79,85.95,"Collins, Wallace and Moore"
+579,518,2024-09-30,Net Banking,Success,76358.19,48.14,Smith-Middleton
+580,970,2025-11-21,COD,Failed,16158.86,87.74,Keller Ltd
+581,109,2025-08-23,Debit Card,Refunded,76476.73,25.98,Golden Group
+582,351,2025-04-10,UPI,Success,7497.91,80.21,Kim-Simmons
+583,921,2025-06-21,Credit Card,Refunded,48589.3,22.6,"Moore, Stone and Gordon"
+584,66,2024-02-24,Credit Card,Success,74336.05,82.46,"Shaw, Davis and Robinson"
+585,10,2024-05-08,Debit Card,Refunded,19658.87,63.38,Matthews and Sons
+586,202,2024-08-05,Net Banking,Success,77206.11,14.31,Ramirez Inc
+587,794,2025-09-30,UPI,Success,17097.84,90.06,Joyce PLC
+588,901,2024-12-10,Debit Card,Success,80024.26,59.91,"Page, Dominguez and Smith"
+589,214,2025-01-03,Debit Card,Success,47159.09,67.34,"Chung, Hall and Stewart"
+590,68,2024-06-20,Credit Card,Refunded,68621.51,31.93,Graves Group
+591,759,2024-03-17,COD,Success,91781.94,87.81,Huff PLC
+592,866,2024-03-13,COD,Success,41137.94,56.79,Green Inc
+593,327,2024-05-08,Net Banking,Success,23679.27,45.01,Allen LLC
+594,50,2024-12-18,Net Banking,Refunded,86782.83,55.76,Crane Inc
+595,17,2024-02-08,Debit Card,Success,16580.86,71.81,"Young, Bell and Horton"
+596,523,2024-09-04,Net Banking,Refunded,63331.87,71.03,Davis PLC
+597,821,2024-11-27,COD,Failed,92363.7,38.97,Clements and Sons
+598,306,2024-03-05,UPI,Refunded,67602.47,41.6,Ortiz-Curry
+599,392,2025-09-12,Credit Card,Failed,19970.27,58.41,Keith-Spencer
+600,988,2025-04-22,COD,Success,15652.25,92.82,Perez-Hood
+601,124,2024-10-27,Net Banking,Success,25604.4,75.82,Bond-Williams
+602,504,2025-12-15,Credit Card,Refunded,39444.98,42.09,Burgess-Wilson
+603,225,2024-07-21,Credit Card,Success,16336.32,37.02,Simpson-Skinner
+604,756,2024-04-24,Debit Card,Success,79882.5,54.75,Barker-Gomez
+605,318,2024-12-03,Net Banking,Refunded,36025.02,87.65,"Meyer, Waller and Morse"
+606,473,2025-03-10,Debit Card,Success,93640.63,5.82,Austin-Ford
+607,981,2024-04-16,Credit Card,Failed,84327.84,72.5,Wells-Santana
+608,844,2024-04-06,Debit Card,Failed,90927.42,32.98,"Sanders, Smith and Glover"
+609,891,2025-07-14,Net Banking,Success,29802.03,24.8,"Burke, Campos and Foster"
+610,858,2025-11-21,COD,Success,57586.29,6.15,"Hale, Carter and Scott"
+611,541,2025-03-26,UPI,Failed,32484.23,90.18,"Owens, Smith and Davis"
+612,358,2024-10-25,COD,Success,26066.38,91.66,Lawrence PLC
+613,483,2025-07-15,Credit Card,Failed,60905.13,10.83,"Allen, Green and Norton"
+614,869,2025-04-25,COD,Refunded,81890.54,54.57,Wilson Group
+615,878,2024-11-21,Debit Card,Failed,9812.98,19.49,Martin-Johnson
+616,940,2024-09-11,Net Banking,Success,27938.99,77.08,"Mann, Petty and Gomez"
+617,877,2024-11-15,COD,Success,20910.85,68.21,Perkins-Moreno
+618,429,2024-01-25,COD,Failed,79935.84,33.23,Adams Group
+619,797,2024-09-30,Net Banking,Failed,93370.52,16.11,Williams-Hanson
+620,497,2025-05-26,Debit Card,Success,8454.3,83.97,Williams Inc
+621,472,2024-05-15,UPI,Success,38231.73,69.05,Greene-Silva
+622,571,2025-09-29,COD,Success,91493.65,5.65,"Williams, Thomas and Robinson"
+623,655,2024-03-24,Credit Card,Refunded,34791.5,64.65,Hoover LLC
+624,838,2025-11-26,Debit Card,Refunded,71409.81,81.98,"Lee, Crawford and Meyers"
+625,864,2024-05-09,Debit Card,Failed,10516.31,61.12,Navarro-Herring
+626,300,2024-06-02,COD,Failed,44716.56,45.35,Chapman-Strong
+627,738,2025-09-17,Net Banking,Refunded,50578.43,60.47,Freeman Group
+628,676,2024-03-19,COD,Refunded,75887.58,63.87,Parker-Buckley
+629,84,2024-10-07,COD,Failed,29238.05,65.8,"Knight, Perry and Parker"
+630,377,2025-12-06,Net Banking,Refunded,26786.76,96.87,"Scott, Reyes and Harrison"
+631,313,2024-05-15,Credit Card,Failed,30645.28,21.97,"Foster, Mcfarland and Stevens"
+632,629,2024-05-27,Net Banking,Success,55791.8,64.19,Payne-Johnson
+633,320,2024-05-21,COD,Failed,87662.44,22.86,Jones Ltd
+634,204,2025-09-05,UPI,Refunded,83178.67,24.95,Guzman-Gonzalez
+635,355,2024-04-05,Net Banking,Refunded,6265.59,68.58,"Farrell, Morrow and Chavez"
+636,294,2025-02-28,Credit Card,Refunded,87956.03,92.02,"Hayes, Robbins and Berg"
+637,504,2025-04-12,Net Banking,Failed,9963.38,20.11,Barnes-Hill
+638,145,2024-01-27,Net Banking,Refunded,41827.13,96.43,Mosley-Garcia
+639,539,2025-06-24,Debit Card,Failed,76657.74,35.34,Atkinson PLC
+640,17,2025-01-20,Debit Card,Success,8610.35,42.17,"King, Decker and Rogers"
+641,575,2024-02-06,COD,Success,4519.77,19.6,Riley-Baker
+642,779,2024-01-08,COD,Refunded,33334.58,63.5,"Adams, Singh and Morgan"
+643,576,2025-11-21,Net Banking,Failed,73127.6,61.66,Bradley PLC
+644,39,2024-02-07,UPI,Failed,52414.77,47.02,"Bonilla, Roberts and Olson"
+645,130,2024-09-14,COD,Refunded,41991.69,50.23,"Livingston, Conrad and Williams"
+646,115,2024-10-16,Net Banking,Failed,81400.8,64.18,Gordon-Lewis
+647,450,2024-04-12,Net Banking,Refunded,76787.57,60.43,"Griffin, Mercado and Torres"
+648,950,2024-07-19,Net Banking,Refunded,78711.3,40.56,"Hale, Hill and Bryan"
+649,925,2024-08-20,Net Banking,Success,46242.82,88.99,"Baker, Williams and Williamson"
+650,45,2024-04-19,Net Banking,Refunded,2435.2,68.43,Parker Inc
+651,216,2024-09-20,Debit Card,Failed,17627.63,24.51,Benton-Larson
+652,600,2024-04-11,Credit Card,Refunded,74259.39,35.39,"Wyatt, Miller and Thomas"
+653,848,2024-05-18,Credit Card,Success,75440.76,79.85,Kaufman Ltd
+654,415,2025-10-29,Net Banking,Success,97243.71,14.93,Mccoy-Robinson
+655,689,2024-12-26,COD,Failed,19423.56,76.27,"Saunders, Schmidt and Blackwell"
+656,265,2025-10-31,UPI,Refunded,12731.22,39.09,Pope Inc
+657,923,2024-06-15,Net Banking,Failed,14309.57,57.41,Smith-Stevenson
+658,440,2025-06-25,UPI,Failed,18886.42,31.65,Contreras-Rowe
+659,617,2024-08-18,Debit Card,Refunded,53082.6,98.71,"Taylor, Sexton and Robinson"
+660,381,2024-12-21,Credit Card,Success,97533.54,91.05,Potts PLC
+661,846,2025-11-01,Debit Card,Failed,59148.43,93.2,"Bruce, Jimenez and Leonard"
+662,301,2024-01-17,COD,Failed,52507.46,22.55,"White, Ball and Palmer"
+663,985,2025-11-23,COD,Success,67498.94,84.96,"Smith, Williams and Rice"
+664,171,2025-02-26,Net Banking,Refunded,7856.07,55.86,"Walton, Taylor and Brown"
+665,620,2025-04-25,COD,Refunded,81627.74,72.25,Lewis and Sons
+666,406,2024-05-15,COD,Refunded,64864.51,25.66,"Evans, Jones and Mcpherson"
+667,355,2025-01-28,Debit Card,Success,17533.57,72.64,Rocha LLC
+668,161,2024-11-01,UPI,Failed,63256.18,91.86,Montoya-Frye
+669,795,2025-01-31,Credit Card,Success,59822.69,30.41,Holden Inc
+670,552,2024-11-09,COD,Failed,6952.87,27.17,Stephens and Sons
+671,26,2024-02-11,COD,Failed,27059.75,14.92,Owens-Shaw
+672,83,2025-11-23,Debit Card,Refunded,39398.69,30.35,"Chandler, Krause and Garcia"
+673,173,2025-07-11,Credit Card,Refunded,24866.41,55.9,Williamson-Phillips
+674,999,2025-03-16,Debit Card,Refunded,24694.59,84.11,Randolph-Mcdonald
+675,685,2024-05-29,UPI,Success,57508.37,31.49,"Torres, Norris and Smith"
+676,794,2024-02-07,Debit Card,Refunded,47350.47,64.01,"Williams, Hernandez and Alvarez"
+677,70,2024-01-16,Credit Card,Success,66895.57,50.56,Brock-Ruiz
+678,835,2025-01-15,Credit Card,Refunded,95662.51,32.42,Jacobs-Maldonado
+679,6,2023-12-22,COD,Refunded,66225.33,53.48,"Gibbs, Alexander and Singh"
+680,796,2024-09-07,UPI,Refunded,58418.55,20.96,Thomas Ltd
+681,195,2025-01-06,Net Banking,Success,84832.17,65.76,"Huff, Barton and Cervantes"
+682,525,2024-04-25,COD,Failed,63391.27,15.99,Simmons LLC
+683,63,2025-07-06,Debit Card,Success,16973.35,74.44,Vargas and Sons
+684,13,2025-09-10,Debit Card,Success,31817.5,21.88,Morgan-Martinez
+685,761,2025-08-12,Credit Card,Success,73469.35,99.83,"Jordan, Edwards and Wright"
+686,205,2024-01-29,Credit Card,Failed,73969.05,83.25,Rodriguez-Howell
+687,897,2024-07-06,Credit Card,Success,98707.37,37.66,Johnson-Taylor
+688,765,2024-08-31,Net Banking,Refunded,62884.0,45.49,Rodriguez LLC
+689,40,2024-06-18,Net Banking,Failed,90004.75,29.62,Mata-Bowen
+690,165,2024-10-21,COD,Success,5930.74,77.88,Larson Group
+691,31,2024-08-11,Net Banking,Success,56839.12,41.17,Thompson-Henderson
+692,529,2024-03-18,Credit Card,Failed,92024.88,76.74,Oliver Ltd
+693,649,2025-12-18,COD,Success,29080.8,6.75,Burns-Sullivan
+694,877,2024-09-08,COD,Failed,15910.22,17.88,"Richard, Pham and Campbell"
+695,832,2024-06-09,UPI,Refunded,35375.76,39.67,Ortega-Pope
+696,825,2024-02-01,Net Banking,Success,79327.5,15.35,Christian LLC
+697,909,2024-06-01,Debit Card,Success,8927.73,62.11,Benitez Inc
+698,677,2024-10-05,Debit Card,Refunded,60233.7,9.83,"Chan, Palmer and Coleman"
+699,398,2025-12-02,UPI,Success,13995.34,86.68,Barnett-Benitez
+700,459,2024-03-13,Credit Card,Success,43835.48,77.32,"Herrera, Haynes and Berry"
+701,793,2025-10-13,UPI,Failed,96614.71,25.54,Scott Group
+702,223,2025-08-09,Credit Card,Success,19916.85,50.96,Myers LLC
+703,634,2024-03-31,Net Banking,Refunded,3884.65,47.92,"West, Welch and Cain"
+704,78,2024-02-13,Net Banking,Success,43006.73,73.86,Gomez-Henry
+705,825,2025-06-15,COD,Failed,57980.71,43.14,Leonard-Bradley
+706,839,2024-09-18,COD,Refunded,30103.01,8.13,Barr PLC
+707,600,2024-07-19,COD,Refunded,54405.92,31.0,Bautista Group
+708,625,2024-08-11,COD,Refunded,95363.49,49.29,Best-Summers
+709,612,2025-08-23,Debit Card,Refunded,31521.19,97.58,Parker-Simmons
+710,938,2024-01-05,COD,Failed,31287.99,88.71,"Mcknight, Lopez and Strickland"
+711,938,2024-03-28,COD,Failed,48535.41,22.23,Garcia-Davis
+712,815,2024-05-16,COD,Failed,51773.98,73.71,Montgomery-Wright
+713,884,2024-11-28,Credit Card,Failed,635.91,94.0,Johnson-Huffman
+714,428,2024-07-16,COD,Success,61779.58,5.84,Green and Sons
+715,425,2025-08-12,UPI,Failed,99737.06,73.49,Welch-Davis
+716,387,2025-10-04,COD,Success,29554.8,48.64,Parker-Mccall
+717,239,2025-01-14,COD,Refunded,63265.6,69.62,"Carr, Dodson and Wright"
+718,858,2024-02-27,Debit Card,Success,959.85,62.53,"Parker, Aguilar and Harper"
+719,623,2024-01-29,COD,Success,60630.5,98.54,"Johnson, Mejia and Byrd"
+720,90,2024-05-04,Credit Card,Success,44983.3,32.44,"Russell, Gibbs and Bonilla"
+721,385,2024-12-01,Net Banking,Failed,53264.17,79.68,Mason-Conley
+722,975,2024-09-28,COD,Failed,54618.54,27.29,"Campbell, Reyes and Peterson"
+723,139,2025-11-19,COD,Refunded,18106.82,46.38,"Bell, Hale and Burton"
+724,997,2023-12-31,COD,Failed,77111.83,97.66,"Taylor, Landry and Larsen"
+725,647,2024-03-17,Debit Card,Success,55769.23,77.78,Stafford Ltd
+726,524,2025-09-03,Net Banking,Failed,27384.35,35.0,Ortiz-Foster
+727,244,2024-12-11,Debit Card,Failed,93769.46,63.84,"Boyd, Wallace and Schwartz"
+728,505,2024-03-31,Debit Card,Success,1770.98,9.72,"Martin, Hernandez and Neal"
+729,422,2025-03-09,Debit Card,Refunded,72730.75,30.31,"Rowe, Wilson and Brown"
+730,182,2024-08-20,Credit Card,Failed,38432.9,73.25,Wagner-King
+731,195,2025-05-08,Net Banking,Refunded,52493.21,59.16,Sparks Inc
+732,874,2024-04-05,Credit Card,Success,29505.22,49.62,"Newton, Melendez and Cole"
+733,634,2024-03-15,Credit Card,Failed,32464.59,70.63,"Clark, Thompson and West"
+734,53,2024-11-03,Net Banking,Refunded,2009.04,42.85,"Mcguire, Solomon and Robinson"
+735,986,2024-05-17,Credit Card,Refunded,73119.59,7.48,Johns-Thompson
+736,990,2024-02-09,Net Banking,Success,71224.44,46.9,Miller Ltd
+737,928,2025-03-04,COD,Failed,65608.64,90.7,"Rios, Zamora and Rogers"
+738,868,2025-05-12,Debit Card,Refunded,87856.09,86.38,"Reynolds, Duncan and Villanueva"
+739,685,2025-03-11,Credit Card,Refunded,90176.12,43.85,Hoffman-Burton
+740,179,2024-10-01,Net Banking,Refunded,55866.21,7.11,"Cisneros, Hill and Trujillo"
+741,293,2025-05-31,UPI,Refunded,68639.94,65.45,Bennett-Tate
+742,375,2024-05-09,Credit Card,Refunded,1594.34,75.41,"Campbell, Robinson and Bennett"
+743,59,2025-07-06,Credit Card,Refunded,84711.13,32.95,"Terry, Torres and Smith"
+744,54,2024-01-21,Net Banking,Refunded,81733.14,50.28,Hill-Walters
+745,914,2025-10-10,UPI,Refunded,2514.74,99.23,Smith LLC
+746,769,2025-11-24,UPI,Refunded,54511.11,59.75,Villarreal-Jarvis
+747,245,2024-03-29,COD,Refunded,90712.23,38.35,Baker-Lawrence
+748,149,2024-03-07,Credit Card,Failed,18548.1,64.61,"Lee, Carter and Thomas"
+749,796,2024-05-14,Debit Card,Success,35588.17,22.1,Henry-Chandler
+750,368,2025-01-05,Credit Card,Success,33439.84,23.93,"Webb, White and Neal"
+751,16,2024-08-31,Debit Card,Success,35916.08,92.87,"Harrell, Coleman and Green"
+752,176,2025-03-31,Debit Card,Refunded,4667.66,27.72,Mitchell-Rowe
+753,540,2024-06-15,Net Banking,Success,28262.26,34.52,Anderson PLC
+754,406,2025-12-15,Credit Card,Refunded,29838.2,56.66,Johnson-Warner
+755,467,2025-04-08,Net Banking,Failed,86654.27,90.47,Jones Group
+756,880,2024-05-07,COD,Success,35535.54,79.24,"Stephens, Lyons and Osborne"
+757,129,2024-06-11,Debit Card,Failed,44998.07,9.16,White and Sons
+758,223,2024-04-27,UPI,Failed,38383.44,70.84,Arnold Ltd
+759,884,2025-06-06,Debit Card,Refunded,12507.01,52.89,"Jones, Ward and Flores"
+760,244,2024-09-09,COD,Success,99040.5,50.18,"Buchanan, Rosario and Duncan"
+761,426,2025-08-19,Debit Card,Failed,82669.61,70.7,Jones LLC
+762,354,2024-06-26,Net Banking,Success,54321.57,23.64,Mills-Brown
+763,750,2024-05-31,Credit Card,Failed,47898.27,98.24,Thomas-Moore
+764,744,2025-05-07,UPI,Failed,65100.85,66.3,Torres Inc
+765,326,2025-04-13,Net Banking,Refunded,32979.9,39.74,Anderson-Walker
+766,604,2024-10-01,Credit Card,Success,5503.15,62.02,Conner-Espinoza
+767,3,2024-04-28,UPI,Refunded,40729.52,25.56,Harris-Conley
+768,479,2024-11-23,COD,Refunded,98405.77,65.21,Hutchinson LLC
+769,976,2025-07-07,Debit Card,Refunded,18643.51,7.68,Mcintosh-Smith
+770,81,2024-07-23,UPI,Refunded,53006.68,37.41,Jackson-Rivera
+771,44,2025-03-20,COD,Refunded,1347.88,76.01,"Mason, Vasquez and Thomas"
+772,155,2024-04-15,Credit Card,Failed,12642.14,81.76,Young Inc
+773,947,2024-07-20,UPI,Success,58925.57,29.03,"Reeves, Stone and Ware"
+774,536,2025-11-26,COD,Success,30092.69,56.24,Hopkins LLC
+775,916,2024-05-15,Credit Card,Refunded,90615.61,55.21,"Wilson, Ponce and Sullivan"
+776,928,2025-06-15,Net Banking,Success,40913.89,45.04,Galloway PLC
+777,99,2024-07-14,Debit Card,Failed,21199.34,26.7,Yoder LLC
+778,397,2025-07-24,COD,Refunded,54786.38,71.81,King-Robinson
+779,880,2025-09-10,Net Banking,Failed,79599.88,28.97,Tran Group
+780,171,2024-04-15,Credit Card,Failed,2432.26,91.55,Greene-Valdez
+781,148,2025-07-21,UPI,Refunded,50799.25,55.21,Brown PLC
+782,123,2024-08-22,Debit Card,Failed,77455.94,87.7,"Ball, Arnold and Figueroa"
+783,112,2025-05-12,Credit Card,Refunded,10807.07,32.62,"Campos, Hall and Beltran"
+784,130,2025-05-23,COD,Failed,90328.45,81.67,Fisher-Campbell
+785,68,2024-07-21,Debit Card,Success,26819.48,15.8,James PLC
+786,859,2025-10-04,Net Banking,Success,17475.06,77.85,Martin-Sexton
+787,828,2024-03-02,Debit Card,Success,59130.98,41.76,Bush PLC
+788,729,2024-11-26,Net Banking,Refunded,17915.6,49.65,Mckinney Group
+789,900,2025-11-01,Credit Card,Failed,68130.3,20.85,Wilson-Hall
+790,892,2024-01-04,UPI,Failed,49265.16,6.77,"Rivera, Collins and Martin"
+791,608,2024-09-18,Debit Card,Success,11440.62,68.29,"Wu, Stewart and Schneider"
+792,657,2025-09-18,UPI,Success,91292.77,60.83,"Duke, Luna and Campbell"
+793,897,2023-12-23,UPI,Refunded,67483.94,64.13,"Fritz, Schultz and Taylor"
+794,545,2024-05-08,Debit Card,Refunded,54826.31,29.23,"Jennings, Cabrera and Evans"
+795,286,2025-07-29,Debit Card,Failed,37746.89,27.73,Wallace-Miller
+796,5,2025-02-08,UPI,Refunded,13918.56,83.88,Park-Carter
+797,118,2024-09-19,COD,Refunded,70898.08,77.32,"Hardin, Serrano and Palmer"
+798,652,2024-01-29,COD,Refunded,81458.75,37.0,Stuart-Richardson
+799,230,2024-04-22,Debit Card,Success,13018.98,65.59,Williams and Sons
+800,160,2024-10-10,UPI,Success,49709.48,83.67,Morgan-Merritt
+801,294,2025-03-12,UPI,Failed,48742.2,89.44,"Mercer, Anderson and Hayden"
+802,761,2024-11-18,Credit Card,Refunded,35316.21,5.55,"Wright, Wilson and Rodriguez"
+803,785,2023-12-30,UPI,Success,79039.52,82.28,"Johnston, Myers and Mcknight"
+804,186,2025-07-14,COD,Refunded,10403.21,38.29,Campbell and Sons
+805,877,2025-06-26,Credit Card,Failed,20899.41,73.25,Collins LLC
+806,552,2025-08-29,COD,Refunded,659.48,40.28,"Schultz, Flores and Chavez"
+807,224,2024-04-25,Net Banking,Failed,37612.05,62.59,Monroe-Jackson
+808,152,2024-02-07,Debit Card,Failed,29472.23,66.44,"Mckay, Cooper and Aguirre"
+809,140,2025-12-12,Net Banking,Success,86765.9,43.47,"Harmon, White and Brown"
+810,367,2025-05-04,Debit Card,Refunded,74708.12,53.71,Guerrero-Brown
+811,128,2025-06-23,COD,Success,8904.98,74.0,Strickland Group
+812,351,2024-10-15,COD,Refunded,74225.11,50.25,"Martin, Davis and Rodriguez"
+813,147,2025-06-21,Net Banking,Refunded,67702.32,6.33,Black Inc
+814,285,2024-03-24,Debit Card,Failed,28531.57,6.23,Johnson LLC
+815,469,2024-02-11,Debit Card,Failed,2038.35,67.82,"Harris, Caldwell and Atkins"
+816,218,2025-05-21,Credit Card,Refunded,11958.66,85.49,Anderson-Daniels
+817,436,2025-09-24,UPI,Success,25369.14,79.6,Thomas-Holloway
+818,732,2024-08-04,Credit Card,Failed,81753.93,34.49,Hall and Sons
+819,145,2024-07-25,COD,Failed,46798.63,49.76,Kelly and Sons
+820,841,2025-08-20,Net Banking,Refunded,91880.35,27.25,Simon Group
+821,277,2025-07-18,Debit Card,Refunded,79020.27,98.97,Andrews-Smith
+822,754,2025-08-25,Credit Card,Failed,29067.26,29.75,Morales Group
+823,60,2024-12-05,Net Banking,Success,84613.53,44.54,"Morris, Johnson and Dunn"
+824,610,2024-06-11,Net Banking,Failed,12114.12,69.71,Long-Newton
+825,843,2025-02-01,UPI,Refunded,4093.69,88.22,Ross LLC
+826,375,2025-08-24,Debit Card,Failed,61049.54,9.89,"Hines, Ray and Carrillo"
+827,404,2025-03-03,Net Banking,Refunded,34503.43,33.6,"Eaton, Harding and Martinez"
+828,881,2024-05-08,Debit Card,Failed,33277.86,59.05,"Stein, Oliver and Costa"
+829,693,2024-10-08,Credit Card,Refunded,68877.21,63.74,Hudson LLC
+830,114,2025-01-28,Net Banking,Refunded,85085.33,11.65,Wallace-Beltran
+831,495,2024-11-06,Net Banking,Success,32556.46,68.09,Pearson-Cook
+832,615,2025-07-25,Credit Card,Refunded,32838.88,55.17,Wilson-Baldwin
+833,336,2024-05-22,Debit Card,Failed,53618.18,83.62,Roberson and Sons
+834,831,2025-06-01,Debit Card,Refunded,65491.77,26.11,Dorsey LLC
+835,569,2024-08-05,Net Banking,Failed,20689.13,23.53,"Owens, Henry and Watts"
+836,285,2025-07-05,Credit Card,Success,91311.58,80.37,Webb Inc
+837,129,2024-06-29,COD,Failed,65614.44,71.87,Green and Sons
+838,892,2025-09-26,Debit Card,Success,62703.6,80.21,"Nash, Goodman and Miller"
+839,978,2024-05-26,COD,Success,90467.47,79.28,Owen and Sons
+840,315,2024-09-18,Net Banking,Refunded,90772.88,14.88,Scott Ltd
+841,960,2025-07-10,COD,Success,13987.24,31.47,Travis LLC
+842,598,2025-03-02,COD,Failed,14935.01,29.71,"Hoffman, Hall and Johnson"
+843,712,2024-02-29,Debit Card,Success,76313.9,93.79,Walker-Pena
+844,71,2025-02-20,Net Banking,Success,95709.55,51.31,"Dunlap, Curtis and Mitchell"
+845,345,2024-06-05,COD,Refunded,66818.11,15.55,Ballard Ltd
+846,990,2025-07-13,Debit Card,Failed,41426.04,32.51,"Moon, Reed and Oliver"
+847,98,2025-12-02,COD,Success,68505.58,87.83,Clark Inc
+848,300,2024-04-28,Debit Card,Refunded,23266.75,85.47,"Gilbert, Rios and Myers"
+849,176,2024-10-17,Net Banking,Refunded,99797.65,90.53,Morgan-Zimmerman
+850,745,2024-03-22,Credit Card,Failed,43392.98,41.91,"Smith, Hart and Anderson"
+851,884,2025-09-09,Debit Card,Refunded,93202.76,65.93,Adams Group
+852,75,2024-06-30,Debit Card,Success,43364.41,31.43,"Sosa, Erickson and Johnston"
+853,143,2025-08-20,COD,Refunded,92849.91,22.18,Baker-Gray
+854,931,2024-02-09,Net Banking,Failed,33900.7,7.08,Hall-Aguirre
+855,23,2025-04-06,UPI,Failed,76174.03,26.23,"Ortiz, Martinez and Leon"
+856,181,2025-06-27,UPI,Refunded,95124.7,62.42,Wilson Group
+857,45,2024-03-10,Credit Card,Success,64775.08,90.9,Robinson-Thornton
+858,469,2024-08-22,Net Banking,Refunded,67917.74,17.67,"Holder, Harrington and Cook"
+859,92,2024-10-15,Debit Card,Failed,10737.18,92.21,"Dyer, Roman and Banks"
+860,269,2024-04-27,UPI,Refunded,47684.88,37.81,Schmidt-Barton
+861,34,2025-04-24,Credit Card,Refunded,88732.16,45.55,Downs-Lloyd
+862,678,2024-07-24,Net Banking,Success,24470.53,39.67,Brown Ltd
+863,582,2025-10-06,Credit Card,Refunded,78942.12,43.82,"Hendricks, Hernandez and Martinez"
+864,364,2024-08-20,UPI,Success,67733.13,29.62,"Pope, Watts and Williams"
+865,708,2024-12-28,COD,Refunded,22687.1,71.37,Tucker-Martinez
+866,133,2024-07-08,COD,Refunded,28637.72,77.03,Curry-Cardenas
+867,759,2025-10-30,Net Banking,Success,43042.31,83.2,"Espinoza, Medina and Silva"
+868,382,2024-04-25,Credit Card,Success,12950.36,37.42,Cross-Stanley
+869,680,2025-11-11,Debit Card,Failed,91380.44,77.64,Huerta LLC
+870,966,2024-04-26,UPI,Success,74066.08,65.58,Meyer-Richards
+871,277,2024-08-20,COD,Refunded,36813.93,96.0,Leblanc Group
+872,156,2025-02-09,COD,Failed,30316.72,45.35,Castillo Group
+873,387,2025-04-01,Credit Card,Success,69113.1,99.27,"Arias, Ellis and Ayers"
+874,535,2024-01-10,COD,Success,42709.98,75.34,Torres-Banks
+875,200,2025-09-17,Credit Card,Failed,23318.99,78.75,"Robbins, Foster and Adkins"
+876,275,2024-01-06,UPI,Refunded,43300.0,7.44,Wheeler Inc
+877,501,2024-09-09,Credit Card,Refunded,87194.05,52.25,Hughes LLC
+878,459,2025-05-14,COD,Failed,7326.36,55.19,Walker LLC
+879,50,2024-11-02,Credit Card,Refunded,37151.65,8.86,Williams-Johnson
+880,970,2024-11-17,COD,Success,96252.77,34.65,"Davis, Kaiser and Hernandez"
+881,698,2025-07-05,Net Banking,Refunded,1975.77,95.79,"Craig, Shields and Hansen"
+882,988,2024-05-29,COD,Success,89118.71,45.48,Miller-Murphy
+883,532,2025-02-06,COD,Refunded,37795.95,22.74,Mcintyre-May
+884,628,2024-10-07,COD,Success,19357.06,53.77,Todd Inc
+885,92,2025-12-08,Net Banking,Failed,1990.48,8.21,Mccullough Ltd
+886,861,2024-07-31,Debit Card,Success,7517.02,54.02,Gutierrez Ltd
+887,456,2025-08-01,COD,Refunded,17598.41,61.46,Espinoza LLC
+888,339,2024-05-27,Debit Card,Success,3028.22,38.98,"Braun, Ryan and Rogers"
+889,53,2024-05-06,UPI,Refunded,33917.06,77.44,"Mayo, Floyd and Williams"
+890,496,2024-04-07,Credit Card,Refunded,4966.86,17.89,"Barber, Smith and Blankenship"
+891,635,2024-10-20,Debit Card,Success,69375.5,88.43,Thomas-Roberts
+892,853,2024-12-17,UPI,Refunded,81981.26,95.77,King LLC
+893,850,2025-06-22,Credit Card,Failed,88802.66,5.12,Smith-Flowers
+894,777,2024-05-11,COD,Refunded,55138.25,85.06,Chen Ltd
+895,4,2025-01-02,COD,Failed,94677.7,53.08,Torres-Bell
+896,681,2024-09-26,COD,Failed,1061.72,48.83,Mitchell Ltd
+897,281,2024-09-09,Net Banking,Refunded,13834.82,27.67,Hess Group
+898,290,2025-11-06,Net Banking,Failed,29670.02,47.5,Hernandez-Smith
+899,73,2024-11-18,Net Banking,Failed,79007.93,95.29,"Campbell, Mclaughlin and Torres"
+900,137,2025-05-25,Net Banking,Success,88596.22,25.02,Barber-Robinson
+901,850,2025-09-03,UPI,Failed,62004.38,22.01,Simpson PLC
+902,768,2025-05-08,UPI,Failed,38632.02,27.98,"Mosley, Lindsey and Stone"
+903,971,2025-12-15,COD,Failed,66751.64,57.42,"Montgomery, Smith and Cobb"
+904,653,2024-07-29,Credit Card,Failed,18499.49,93.38,"Cole, Strong and Scott"
+905,998,2024-02-24,Net Banking,Failed,46058.47,59.52,Thomas-Murphy
+906,393,2025-06-16,Credit Card,Refunded,51000.64,28.13,Cox-Russell
+907,208,2024-05-28,UPI,Failed,10934.69,46.84,Rogers PLC
+908,260,2025-04-30,Net Banking,Refunded,3870.33,42.09,"Dawson, Wilson and Brown"
+909,930,2024-01-10,UPI,Refunded,75135.5,9.42,Edwards Inc
+910,263,2025-08-01,UPI,Refunded,53703.28,53.51,Walker LLC
+911,783,2025-03-28,Debit Card,Success,33557.75,16.97,"Smith, Price and Willis"
+912,505,2025-09-22,UPI,Success,44004.25,85.01,Arnold Ltd
+913,550,2024-10-18,COD,Refunded,95791.49,57.15,Anthony-Wright
+914,203,2025-10-01,UPI,Success,38798.92,85.24,Fuller-Jacobs
+915,736,2024-09-19,Net Banking,Failed,10796.18,95.82,"Smith, Marsh and Carson"
+916,347,2025-06-03,COD,Refunded,46628.42,94.6,Williams Inc
+917,990,2024-05-02,UPI,Refunded,64980.81,14.54,"Lowe, Mcknight and Mason"
+918,52,2024-04-03,COD,Refunded,1705.26,94.76,Navarro-Ward
+919,593,2024-10-02,UPI,Success,33567.89,80.6,"Haynes, Thompson and Ward"
+920,356,2025-10-07,COD,Success,39654.68,78.88,"Harper, Lynn and Cox"
+921,723,2025-07-10,Credit Card,Success,46639.63,13.56,"Barry, Walker and Robinson"
+922,519,2025-05-21,Debit Card,Failed,30517.58,22.05,Bass Inc
+923,363,2025-12-12,COD,Success,66858.76,97.64,Hernandez and Sons
+924,45,2024-02-05,Net Banking,Refunded,94498.57,25.27,Berry-Carson
+925,827,2025-06-29,Debit Card,Success,91442.82,21.06,"Romero, Cook and Lowery"
+926,378,2025-05-16,Debit Card,Success,66607.14,39.42,"Clark, Ponce and Garcia"
+927,789,2025-03-05,UPI,Success,50934.96,91.77,"Jackson, Pearson and Ramirez"
+928,412,2025-03-06,COD,Success,82668.61,50.24,Holt Ltd
+929,771,2024-01-19,Debit Card,Refunded,83675.75,92.46,"Howard, Wood and Myers"
+930,142,2025-06-12,Net Banking,Success,83042.52,36.76,"Smith, Hobbs and Horton"
+931,258,2024-11-20,Net Banking,Refunded,16205.67,26.52,Nguyen Group
+932,797,2025-10-21,Net Banking,Success,3030.52,52.04,Johnson PLC
+933,914,2024-07-02,UPI,Failed,98327.74,63.47,"Smith, Mccarthy and Lane"
+934,37,2024-12-30,Credit Card,Failed,95985.59,42.19,Garcia Ltd
+935,941,2025-07-17,COD,Refunded,56655.66,37.87,"Davis, Richardson and Bautista"
+936,45,2024-05-23,Debit Card,Refunded,99309.84,25.72,Soto-Wilson
+937,920,2024-05-28,COD,Failed,77169.43,31.13,Murphy-Ramos
+938,632,2024-05-05,Debit Card,Failed,51979.33,68.95,Ramirez-Walker
+939,46,2024-11-21,UPI,Success,39238.44,40.14,Ruiz PLC
+940,652,2025-12-12,COD,Failed,59489.89,12.58,Jones-Thomas
+941,565,2024-12-09,UPI,Refunded,51822.31,18.12,Gonzales LLC
+942,301,2024-01-26,UPI,Refunded,99383.35,40.38,Crawford-Lewis
+943,288,2025-03-07,COD,Failed,49300.8,92.83,Berg-Becker
+944,786,2024-04-21,COD,Refunded,83674.15,41.01,Reed-Cameron
+945,269,2025-07-14,Debit Card,Success,81455.57,10.76,"Wallace, Johnson and Fitzpatrick"
+946,900,2023-12-23,Net Banking,Success,7604.92,44.71,Gordon-Johnson
+947,791,2025-05-22,UPI,Failed,9157.17,68.54,Powell-Green
+948,62,2025-04-15,Credit Card,Refunded,66151.11,61.39,Ortiz and Sons
+949,566,2024-07-29,Debit Card,Failed,26281.25,31.49,Dixon Inc
+950,970,2025-09-10,Debit Card,Refunded,65923.94,70.37,Ramirez Group
+951,951,2025-02-27,Net Banking,Refunded,14890.28,64.91,"Ortega, Prince and Keller"
+952,581,2025-03-17,Net Banking,Refunded,40008.29,21.36,Roberts-Thompson
+953,242,2024-09-14,UPI,Success,10695.79,20.4,"Young, Garcia and Koch"
+954,936,2025-01-19,Debit Card,Refunded,28568.26,56.98,Nelson-Young
+955,782,2024-01-15,Debit Card,Success,9285.71,67.65,"Moran, Holmes and Clayton"
+956,764,2024-06-14,Credit Card,Refunded,97072.58,96.38,"Elliott, Anderson and Mason"
+957,354,2024-07-06,UPI,Failed,39808.31,45.08,Lucas Inc
+958,796,2025-03-21,UPI,Success,90168.28,77.67,"Mayer, Fry and Reeves"
+959,968,2024-12-24,Net Banking,Success,97131.59,16.07,Craig-Ellison
+960,976,2025-07-28,UPI,Success,91001.48,89.51,Carpenter Inc
+961,863,2025-01-14,Credit Card,Failed,45768.49,65.15,Rose PLC
+962,71,2024-09-02,UPI,Success,78000.28,64.76,"Meyer, Valenzuela and Hodge"
+963,835,2024-11-07,COD,Failed,15793.1,18.53,Bond-Anderson
+964,413,2024-05-23,COD,Refunded,9935.85,8.76,Schmidt PLC
+965,612,2024-01-25,Credit Card,Refunded,87751.7,71.64,Bradford PLC
+966,61,2024-07-03,Net Banking,Failed,3596.45,16.12,Coleman-Williams
+967,615,2025-02-01,Debit Card,Success,97246.57,17.06,Morris-Hanson
+968,452,2024-08-23,UPI,Success,67377.32,22.81,Howard and Sons
+969,393,2025-05-10,Net Banking,Failed,42251.5,14.29,"Drake, Wong and Washington"
+970,631,2025-05-13,Net Banking,Refunded,14566.84,64.41,"Calhoun, Elliott and Taylor"
+971,529,2024-04-09,UPI,Failed,72461.5,45.09,Hardin LLC
+972,305,2024-09-01,Debit Card,Success,56529.62,30.28,"Taylor, Harmon and Cruz"
+973,191,2024-06-01,UPI,Success,71257.14,46.87,"Massey, Johnson and Martinez"
+974,724,2024-04-18,Debit Card,Success,42083.26,85.19,Smith Inc
+975,78,2025-05-02,Credit Card,Success,7092.88,93.07,Diaz-Guerrero
+976,558,2025-05-12,Debit Card,Refunded,31839.73,51.31,"Walker, Kaufman and Martin"
+977,605,2025-06-08,Net Banking,Refunded,31844.56,58.84,Palmer LLC
+978,889,2024-11-13,Credit Card,Refunded,1363.58,29.43,Murphy and Sons
+979,525,2025-04-30,COD,Success,1453.31,53.79,Hernandez-Wells
+980,740,2024-01-31,Credit Card,Success,33410.45,76.07,Hoffman Ltd
+981,301,2025-07-15,Debit Card,Success,72898.53,51.75,West and Sons
+982,949,2025-05-06,Credit Card,Failed,62592.35,33.7,Lucero Inc
+983,17,2024-03-26,Credit Card,Success,24282.26,60.29,Gutierrez-Black
+984,815,2025-05-06,COD,Refunded,60474.88,94.93,Page Inc
+985,574,2025-05-31,Debit Card,Refunded,64914.07,89.36,Watson-Adams
+986,434,2024-04-22,Net Banking,Refunded,52495.71,78.08,Morse-Hanson
+987,43,2024-09-20,Credit Card,Failed,52374.72,31.24,Tucker-Waller
+988,68,2025-01-21,UPI,Refunded,37289.91,27.95,Crawford-Cole
+989,380,2025-05-19,Net Banking,Failed,12777.74,84.66,Church and Sons
+990,212,2025-07-12,Credit Card,Failed,38855.64,22.23,Smith-Johnson
+991,203,2025-07-09,Net Banking,Failed,34860.76,62.53,Boyd-Chang
+992,726,2024-10-14,UPI,Success,59401.27,46.7,"Brown, Anderson and Ramsey"
+993,109,2025-03-26,Net Banking,Success,85697.89,49.46,Mcdonald Inc
+994,968,2024-09-09,Net Banking,Refunded,37849.83,48.18,Morales-Richards
+995,284,2025-05-18,UPI,Refunded,71118.66,90.5,Hernandez PLC
+996,941,2025-04-19,UPI,Failed,81277.12,13.27,Newton Ltd
+997,937,2024-02-28,UPI,Success,21569.28,79.38,Morris Inc
+998,606,2024-07-01,COD,Refunded,90214.19,84.33,"Jones, Holt and Wright"
+999,225,2025-01-15,UPI,Refunded,7509.27,94.57,"Mendoza, Ortiz and Henderson"
+1000,737,2024-01-30,Net Banking,Success,90221.07,48.0,"Atkins, Lopez and Graham"

@@ -1,0 +1,1001 @@
+product_id,product_name,category,sub_category,brand,price,cost,rating,stock_quantity,supplier_id,launch_date,is_active
+1,Low,Beauty,military,Jackson and Sons,29492.47,24220.14,3.4,270,44,2025-11-24,False
+2,Student,Sports,ten,Johnson LLC,24152.45,29547.27,3.6,475,271,2024-04-26,False
+3,Around,Sports,specific,"Rangel, Ramos and Simpson",32187.81,22652.02,3.8,484,78,2023-12-18,True
+4,Right,Electronics,key,Harris LLC,3429.71,11856.54,1.5,246,178,2025-10-16,False
+5,Small,Clothing,decade,Joyce PLC,29083.19,17760.07,4.8,18,3,2024-07-03,False
+6,Customer,Sports,safe,Randall-Lynch,28161.93,19864.33,1.7,345,214,2025-01-15,True
+7,Decide,Sports,picture,Cole PLC,28120.87,2445.83,3.5,435,74,2025-07-10,False
+8,Part,Home,receive,Turner-Stout,30253.69,16380.46,1.9,25,51,2024-09-09,True
+9,Trip,Clothing,ahead,Robinson-Johnson,33888.1,21308.69,2.2,216,67,2022-03-22,True
+10,Matter,Home,research,Travis-Chan,40288.45,5102.91,3.2,153,93,2024-04-12,False
+11,My,Clothing,center,"Conway, Romero and Cross",13637.07,23440.89,2.7,153,176,2022-06-07,True
+12,Agree,Home,agent,Thompson-Winters,41287.46,17554.81,1.6,173,145,2024-05-17,True
+13,Role,Sports,bar,Willis Inc,25013.13,28571.43,1.7,91,7,2022-11-16,True
+14,Important,Sports,response,Hampton-Steele,4037.5,1368.43,2.7,432,269,2022-08-27,False
+15,Itself,Electronics,right,"Brown, Wilkerson and Nunez",3115.84,8033.25,4.0,337,4,2022-09-19,False
+16,Total,Home,good,"Harrison, Rice and Marshall",16845.07,18086.46,4.6,479,138,2022-06-14,False
+17,Reveal,Beauty,choice,Riley-Nash,39287.87,8967.14,1.3,180,231,2025-09-13,True
+18,So,Electronics,oil,Wall LLC,35442.51,21461.28,2.6,130,88,2024-08-28,True
+19,Brother,Home,personal,Sanchez Inc,39473.03,22794.26,1.4,449,17,2025-10-25,False
+20,Health,Home,whatever,Foster-Little,25960.0,3165.23,1.1,480,52,2025-04-15,False
+21,Scientist,Electronics,door,Clarke-Perez,22121.91,15464.25,3.6,297,134,2025-05-19,True
+22,Court,Sports,performance,"Foster, Lester and Hill",7543.14,15315.83,3.4,274,211,2024-11-26,False
+23,Include,Home,a,Williams-Nguyen,16544.0,11141.5,1.7,272,219,2025-12-18,False
+24,Five,Sports,building,Brown-Miles,21814.16,27994.45,1.9,491,205,2024-07-10,False
+25,Research,Electronics,surface,"Hunter, Washington and Holland",4612.3,24842.44,1.1,416,211,2023-08-31,False
+26,Ready,Sports,detail,Chan LLC,11186.48,20946.56,4.3,75,277,2025-07-25,False
+27,Cultural,Clothing,produce,"Smith, Jordan and Ayala",29991.62,21458.37,4.9,176,24,2022-09-24,True
+28,Tonight,Beauty,order,Williams-Valentine,36836.02,13905.31,1.5,183,4,2025-06-02,False
+29,Someone,Home,officer,Terry Group,49917.71,27637.74,1.9,318,152,2025-05-30,False
+30,Understand,Beauty,general,Smith-Smith,46669.04,20868.4,4.5,130,259,2022-12-13,True
+31,Concern,Sports,machine,Hunter-Bullock,32199.75,21896.53,4.7,362,168,2024-04-26,True
+32,Look,Home,perhaps,Meyers LLC,21178.15,25864.56,2.7,48,176,2024-01-25,True
+33,Sell,Sports,although,"Anderson, Matthews and Howard",31881.63,8294.74,1.2,54,291,2022-01-30,True
+34,Least,Clothing,else,"Anderson, Taylor and Conley",39325.45,24231.42,1.2,153,56,2025-04-08,False
+35,True,Electronics,question,"Thomas, Herrera and Perry",6093.14,5937.69,3.3,354,108,2025-06-01,False
+36,Region,Home,onto,"Cruz, Miller and Reyes",20613.26,10425.72,2.6,199,296,2023-02-12,False
+37,Power,Clothing,responsibility,"Decker, Schmidt and Martin",42022.15,10134.75,1.1,307,141,2023-03-15,False
+38,Other,Clothing,both,Cervantes LLC,19314.88,29357.91,3.3,355,155,2024-11-04,True
+39,Lead,Home,effect,Garcia-Herring,28679.24,25710.46,1.0,372,262,2025-05-23,True
+40,Commercial,Sports,off,Pope-Brown,29470.91,21064.98,4.1,117,273,2025-12-05,False
+41,Amount,Clothing,build,"Ross, Galvan and Jenkins",9386.92,21839.0,2.2,262,232,2023-08-19,False
+42,Next,Beauty,pretty,Houston-Acosta,18239.32,16905.98,1.2,45,241,2022-10-20,False
+43,Red,Clothing,movie,"Schmidt, Olsen and Palmer",16858.66,28418.01,3.4,301,258,2024-12-03,False
+44,Rule,Sports,kitchen,Anderson-Ramos,1504.6,14938.14,2.6,355,249,2025-10-02,True
+45,Add,Sports,half,Andrews-Anderson,1404.75,11477.48,4.9,399,77,2022-02-11,False
+46,Suffer,Beauty,school,Chapman-Clarke,41618.51,4974.76,3.2,407,180,2022-06-04,True
+47,Fill,Clothing,among,Lawson and Sons,13798.93,23607.55,2.1,188,66,2023-05-22,True
+48,Similar,Sports,concern,Martinez-Medina,26000.32,22059.87,3.8,309,171,2022-05-14,True
+49,Decide,Home,time,Gray-Peters,15076.53,11592.22,2.1,317,22,2025-04-28,True
+50,Able,Electronics,shoulder,Mitchell-Russell,47045.83,853.28,4.6,128,107,2024-08-29,False
+51,Born,Electronics,not,Houston-Fowler,13112.98,25186.02,2.5,48,227,2025-03-01,False
+52,Walk,Electronics,anything,"Davis, Mcpherson and Morris",21596.91,441.4,3.2,24,216,2023-02-20,False
+53,Career,Clothing,instead,"James, Collins and Adams",43661.97,21140.62,1.2,265,69,2024-02-08,False
+54,Seat,Beauty,mention,"Williams, Swanson and Torres",42128.29,29110.69,2.7,117,84,2023-02-05,True
+55,Into,Sports,today,"Evans, Dixon and Murphy",9467.85,13186.07,4.3,463,103,2022-11-16,True
+56,Responsibility,Home,toward,Bailey and Sons,40171.64,7125.7,4.2,143,39,2025-07-29,True
+57,Both,Home,customer,"Silva, Ryan and Kramer",23017.71,21175.64,1.9,441,13,2024-01-26,False
+58,Choice,Clothing,hold,King Ltd,24251.85,24532.13,1.9,199,297,2022-02-09,True
+59,Official,Electronics,assume,"Wilson, Martinez and Diaz",6847.3,16438.27,4.3,156,181,2022-09-01,True
+60,Clear,Clothing,drop,"Alvarez, Santiago and Ware",4213.96,29014.35,4.7,486,268,2023-10-31,True
+61,Agreement,Beauty,indicate,Stewart Ltd,36451.38,1644.89,1.4,347,13,2022-03-08,True
+62,Street,Beauty,whole,"Wade, Knight and Dudley",24923.77,15193.39,2.8,133,120,2025-04-26,False
+63,Everything,Sports,sure,"Hill, Davis and Mendez",21955.16,21581.77,2.3,399,57,2022-04-10,True
+64,Want,Sports,perhaps,Brown-Hudson,36529.51,25892.95,4.5,147,40,2022-02-13,True
+65,Investment,Beauty,theory,Glenn-Jones,38322.54,5459.74,1.3,335,128,2024-08-02,False
+66,Speak,Beauty,hotel,Marks PLC,8113.63,24020.1,1.8,70,173,2023-09-05,False
+67,Major,Beauty,job,Matthews-Wilson,30589.21,16625.94,4.0,232,35,2023-08-01,False
+68,Style,Clothing,write,Bennett PLC,6940.63,11956.96,1.2,333,259,2024-01-04,True
+69,Themselves,Beauty,control,Brooks Inc,37618.48,4038.28,3.0,298,5,2023-01-22,True
+70,Sport,Home,cause,"Taylor, Miller and Taylor",32916.37,25972.34,2.8,153,218,2024-01-23,True
+71,Significant,Electronics,nation,"Morris, Scott and Mcdonald",47839.41,4802.47,2.3,89,11,2023-11-18,True
+72,Them,Beauty,imagine,"Leon, Golden and Morris",3634.11,9362.66,2.6,333,117,2025-07-20,False
+73,Kid,Electronics,million,"Mckinney, Snyder and Matthews",3041.33,8772.36,3.1,198,184,2024-03-15,True
+74,Second,Clothing,happy,Buckley-Mora,14252.92,26155.28,1.6,160,116,2022-12-15,True
+75,Republican,Electronics,analysis,Herring-Castro,13232.94,20213.82,3.3,25,162,2022-11-25,False
+76,Appear,Clothing,role,Harris Group,12499.54,23920.77,4.2,120,67,2022-05-09,False
+77,Town,Home,analysis,Rhodes LLC,45331.48,7588.99,4.0,300,200,2022-11-11,False
+78,Allow,Clothing,per,"Lewis, Moore and Todd",12627.4,18783.74,1.6,211,31,2025-05-27,True
+79,Cut,Clothing,financial,"Rivas, Morrison and Mills",13743.1,17195.2,1.6,62,75,2023-04-25,True
+80,Ask,Sports,report,Sharp-Thompson,38018.03,25001.63,2.1,450,237,2022-05-23,True
+81,Husband,Beauty,her,Stone Ltd,22597.04,27192.0,2.4,435,66,2022-11-02,True
+82,Sometimes,Beauty,benefit,Rodriguez-Stewart,38880.19,463.49,2.6,67,70,2025-08-08,True
+83,Off,Home,someone,Anderson-Simmons,3455.23,20253.2,3.7,252,297,2025-04-07,False
+84,By,Home,few,Brown PLC,24481.05,1649.89,1.2,409,20,2022-10-17,False
+85,Support,Beauty,share,Johnson-Stanley,1873.96,16510.87,1.1,458,226,2023-03-07,True
+86,Center,Sports,idea,Avila-Coffey,3320.13,8700.22,2.6,1,199,2022-01-04,True
+87,Throw,Beauty,until,"Harris, Sparks and Moore",45340.59,9272.62,3.8,397,39,2025-08-30,True
+88,Score,Sports,so,"Boyd, Yates and Dixon",7134.42,10653.46,1.8,107,145,2024-10-26,True
+89,Model,Home,control,Bryant-Bowen,26714.55,18676.64,3.6,285,45,2024-10-27,True
+90,Product,Electronics,woman,Baldwin Ltd,20672.56,10088.09,2.0,48,91,2023-10-26,False
+91,Will,Home,film,Mahoney PLC,17497.7,22007.7,4.5,139,238,2022-03-11,False
+92,Then,Home,time,Williams-Ramirez,45011.7,12195.37,4.6,217,70,2022-02-09,False
+93,Responsibility,Clothing,bar,Kelly-Mccullough,1286.81,2143.76,2.2,43,166,2023-10-24,True
+94,Listen,Clothing,his,"Cunningham, Shepherd and Little",33256.73,23534.42,1.9,416,130,2024-06-01,True
+95,News,Clothing,cost,Clay-Woods,48177.04,8644.17,2.6,268,214,2024-01-15,False
+96,Seek,Clothing,himself,Weber and Sons,28096.38,13039.73,2.0,77,89,2024-12-12,False
+97,Exactly,Sports,cultural,Waters-Rodriguez,46853.76,20594.77,3.7,215,252,2023-11-03,True
+98,Tree,Beauty,million,"Parker, Williams and Hanson",2802.44,10040.44,4.3,381,72,2023-02-06,False
+99,Upon,Electronics,pull,Harris-Yang,21055.91,1791.91,3.7,97,165,2024-05-21,False
+100,Color,Home,long,"Hardy, Green and Pitts",13155.86,11280.24,4.3,235,49,2024-04-06,True
+101,Recently,Sports,tend,Fry-Patterson,36594.88,28339.01,2.6,281,52,2023-03-01,False
+102,Fill,Electronics,believe,King and Sons,49068.6,19287.86,1.6,148,289,2023-10-11,False
+103,Social,Sports,great,Le-Nguyen,12975.2,20177.23,4.0,411,278,2025-10-07,False
+104,Hot,Sports,see,"Gordon, Willis and Mann",32777.9,19005.24,2.4,303,114,2025-11-11,True
+105,How,Home,difficult,King-Cox,10065.26,6049.86,3.7,483,239,2023-06-07,False
+106,Its,Beauty,hand,Franco Group,28353.45,12608.18,2.1,423,133,2022-06-15,False
+107,Service,Clothing,reason,Gordon and Sons,23303.84,22553.1,1.3,65,274,2024-10-01,False
+108,Huge,Beauty,science,"Ruiz, Hernandez and Fitzgerald",48605.87,3131.05,5.0,233,166,2023-11-20,True
+109,Single,Home,list,Oliver Ltd,30504.66,8407.8,1.6,456,293,2023-04-18,True
+110,Rate,Home,poor,Smith-Jensen,17605.42,8361.94,5.0,86,243,2023-09-07,False
+111,News,Home,from,"Wheeler, Porter and Nichols",5881.97,13017.37,4.9,78,138,2025-01-31,True
+112,May,Electronics,why,Harper-Holmes,7732.09,29413.03,4.2,204,79,2025-05-05,False
+113,Perhaps,Beauty,turn,"Kramer, Maldonado and Weber",11420.78,2118.33,3.6,278,170,2024-07-21,True
+114,Enough,Beauty,look,Lynch-Duncan,12698.14,15609.16,3.3,336,123,2024-10-29,True
+115,Final,Sports,choose,"Patterson, Green and Johnson",42560.68,5463.0,4.5,253,176,2023-05-03,False
+116,Claim,Sports,drive,"Anderson, Hudson and Cunningham",28148.89,29123.23,2.2,303,82,2025-07-10,False
+117,Site,Sports,better,"Smith, Hill and Newman",26264.87,3487.77,2.9,379,87,2024-08-05,False
+118,Organization,Home,blue,Anderson Group,5915.49,12167.67,3.5,129,225,2023-01-01,True
+119,During,Beauty,add,Patterson-Lee,43034.96,22162.76,2.6,83,16,2025-07-23,False
+120,Forget,Home,concern,"Young, Le and Madden",36196.15,21166.18,2.7,275,163,2022-12-12,True
+121,Ability,Electronics,how,"Martin, Becker and Perez",3569.88,12739.59,2.3,186,98,2022-06-01,True
+122,Process,Sports,put,Porter-Hernandez,35450.19,10461.07,3.3,45,156,2022-04-29,False
+123,Member,Home,nice,Pham PLC,27268.2,11988.61,4.4,386,2,2024-01-13,True
+124,Friend,Home,huge,Jackson Ltd,4269.92,8001.86,1.8,182,169,2023-06-21,False
+125,Build,Electronics,story,Small PLC,23023.37,6239.45,4.7,267,92,2025-06-15,True
+126,Congress,Clothing,later,Taylor PLC,24337.88,14542.89,3.8,295,181,2021-12-22,False
+127,Explain,Beauty,official,Bradford-Rivas,8455.57,8129.16,4.3,321,231,2024-08-24,True
+128,Use,Clothing,whole,Schmitt and Sons,47295.77,8695.1,3.2,99,148,2025-06-04,True
+129,Against,Sports,car,Knox-Torres,42528.77,19737.01,4.1,77,280,2022-04-29,False
+130,Father,Home,during,Bird PLC,33517.31,29059.27,1.1,271,189,2024-05-27,True
+131,Quality,Electronics,item,Lawrence-Gordon,23222.32,18148.75,4.3,338,128,2022-08-17,False
+132,Late,Electronics,large,"Macdonald, Dunn and Rollins",20705.92,2401.69,1.2,161,7,2022-06-22,True
+133,Produce,Beauty,matter,"Haynes, Carlson and Smith",32618.48,2359.95,4.6,43,47,2023-03-26,True
+134,Conference,Clothing,smile,Crawford-Barton,27362.51,28547.55,5.0,237,53,2025-03-07,True
+135,Continue,Beauty,house,"Greer, Parker and Coffey",3301.2,8988.99,2.2,133,187,2022-04-17,False
+136,Industry,Home,wonder,"White, Kelly and Zhang",25722.63,2852.8,1.8,460,38,2025-10-08,False
+137,Magazine,Beauty,today,Shelton-Hoover,40358.9,18011.43,4.1,191,226,2025-07-26,False
+138,Sport,Electronics,color,"Barr, Neal and Kirk",23070.15,18747.1,2.0,355,53,2022-12-08,False
+139,Huge,Electronics,expect,Brown LLC,2787.44,19490.29,4.5,277,224,2024-02-29,False
+140,Fine,Sports,leader,Ballard-Grant,39356.65,8095.32,1.4,17,154,2023-02-08,True
+141,More,Sports,physical,"Kim, Martin and Flores",10227.92,551.81,1.5,11,48,2024-05-01,True
+142,Society,Home,establish,Barker Group,13079.32,28953.96,4.9,179,147,2022-06-28,False
+143,Candidate,Clothing,Congress,Maddox and Sons,8402.38,7601.7,3.7,122,64,2022-05-28,True
+144,Much,Beauty,reason,Lee-Klein,16644.71,20313.19,4.4,245,182,2022-09-19,True
+145,Type,Home,identify,Wiley-Allen,37886.22,21228.23,2.3,221,125,2023-05-02,True
+146,Continue,Sports,activity,"Mathis, May and Rogers",26065.42,18339.22,3.7,372,179,2025-03-08,True
+147,Indeed,Beauty,show,"Conley, Morales and Anderson",10403.09,9455.93,3.4,50,39,2024-09-22,False
+148,Authority,Sports,appear,"Johnson, Spencer and Wallace",43915.94,8205.78,3.4,487,260,2022-08-09,True
+149,Him,Beauty,close,Cobb Group,44003.18,17970.28,3.7,70,3,2023-03-24,False
+150,However,Clothing,or,"Hines, Walker and Kennedy",43554.81,25996.26,3.3,479,64,2025-01-05,False
+151,Score,Home,year,"Mahoney, Gonzalez and Cunningham",12092.05,28407.34,2.7,47,29,2024-05-10,True
+152,May,Beauty,born,Lyons-Baker,22671.72,3266.58,2.1,18,11,2022-01-25,False
+153,Edge,Electronics,specific,"Collins, Brady and Williams",49252.48,4729.38,4.1,261,97,2023-07-05,True
+154,Drive,Electronics,seat,Johnson Group,38646.22,28347.61,1.9,83,203,2021-12-26,True
+155,Growth,Beauty,hope,Baird-Phillips,1552.94,22122.4,3.8,154,21,2024-10-30,True
+156,Respond,Beauty,collection,Boyd-Palmer,3447.19,26501.52,1.9,52,39,2023-08-18,False
+157,Product,Beauty,cup,Anderson PLC,23303.78,6158.72,3.5,106,223,2023-03-18,False
+158,Claim,Electronics,debate,Hall-Allen,45479.17,17668.82,4.0,356,102,2022-04-27,False
+159,Happen,Electronics,customer,"Bates, Mays and Duncan",27027.35,21064.07,1.9,303,46,2023-10-20,True
+160,Be,Beauty,daughter,Ellis-Jacobs,24991.06,20435.35,1.2,134,66,2022-04-30,True
+161,About,Sports,above,"Brown, Cuevas and Fields",5452.59,12303.74,1.5,442,91,2022-12-23,True
+162,Ask,Sports,Mr,"Garner, Thompson and Bishop",32907.65,560.31,3.4,68,164,2022-08-03,False
+163,Attorney,Clothing,law,Bush-Thompson,41140.74,17529.49,4.4,10,111,2023-02-20,True
+164,Sea,Home,foot,Callahan-Anderson,19144.92,7667.74,1.2,142,123,2025-08-09,True
+165,Support,Sports,learn,"Smith, Yang and Suarez",38825.47,13562.6,3.9,191,193,2024-04-27,False
+166,Effort,Electronics,miss,"Solis, Gonzales and Williams",48230.94,28731.67,2.4,386,99,2023-09-01,False
+167,Social,Sports,worry,Hall PLC,10347.57,12031.16,2.9,377,291,2024-05-12,False
+168,Arm,Clothing,position,Flores Inc,26261.82,25210.07,4.7,68,159,2023-09-13,True
+169,Statement,Clothing,concern,Gomez-Richards,14499.47,5737.36,2.3,22,103,2022-08-21,True
+170,Bed,Home,event,Short-Hernandez,39684.15,20206.57,2.9,180,281,2023-11-09,True
+171,Police,Sports,forward,Carroll-Freeman,28964.15,29312.51,1.1,292,43,2024-02-21,False
+172,Fear,Electronics,end,Smith-Morgan,31802.2,3146.6,1.3,8,84,2023-03-10,False
+173,Ability,Electronics,crime,"Reynolds, Kramer and Spencer",39936.13,348.77,2.0,270,191,2024-10-30,False
+174,Economy,Beauty,family,"Lindsey, Perry and Hess",19919.33,13064.13,1.1,386,51,2025-01-18,False
+175,Media,Electronics,wear,Hawkins Ltd,45771.49,2869.5,3.5,92,210,2024-01-05,True
+176,Officer,Home,cup,Rosales and Sons,26744.84,22476.69,2.7,453,126,2022-09-09,True
+177,Inside,Home,push,"Callahan, Roberson and Jones",8066.15,27445.01,3.2,16,69,2024-06-27,True
+178,Financial,Electronics,firm,Smith-Green,34855.78,13077.23,1.7,153,265,2025-12-02,True
+179,True,Electronics,thus,"Johnson, Elliott and Hart",39704.42,7835.48,2.2,404,258,2022-01-28,True
+180,Morning,Beauty,partner,Hawkins Ltd,15974.73,13088.66,3.7,327,188,2023-06-10,True
+181,Federal,Electronics,when,Parker-Smith,42887.53,21731.09,4.9,148,230,2023-11-25,True
+182,Rock,Beauty,view,Hunt-Romero,45325.93,370.72,1.2,376,189,2024-12-16,True
+183,Step,Beauty,television,"Lowe, Brown and Berry",13989.84,17724.67,4.6,266,10,2022-04-08,False
+184,Less,Electronics,change,Jones Group,49179.37,18437.42,3.3,421,114,2022-07-22,False
+185,Treatment,Clothing,anything,"Garrett, Strickland and Allen",7207.43,19166.88,3.3,327,76,2024-11-02,True
+186,Government,Clothing,remain,Armstrong Ltd,10260.38,7336.46,3.0,105,164,2022-01-06,False
+187,Bit,Beauty,use,Thomas PLC,9374.4,21450.18,1.3,471,85,2025-11-28,True
+188,Project,Electronics,event,"Wilkins, Gallagher and Mccall",44720.69,2832.61,1.4,380,49,2023-10-24,True
+189,Pm,Clothing,identify,Kelly LLC,32783.77,6058.18,3.4,34,177,2023-10-28,False
+190,Inside,Electronics,all,Lin Inc,7774.79,26336.35,2.4,118,218,2023-06-04,True
+191,Recently,Electronics,away,"Brooks, Ball and Smith",22128.11,22187.82,4.7,13,189,2024-10-16,True
+192,Consumer,Electronics,court,Chang Ltd,30841.84,510.99,2.6,13,230,2024-03-03,True
+193,Commercial,Sports,never,"Dunn, Bautista and Frazier",4356.51,7526.45,1.6,265,255,2022-05-29,True
+194,From,Electronics,sound,"Flynn, Singleton and Hudson",44144.34,6510.75,3.9,139,236,2024-01-29,True
+195,Management,Sports,century,Howard LLC,40219.46,8197.11,2.2,293,26,2024-04-07,True
+196,Still,Beauty,medical,Kelly-Ramos,25359.3,7502.04,3.1,363,72,2024-04-20,True
+197,Try,Clothing,wife,Williamson-King,48362.91,1969.54,3.8,118,261,2025-05-24,False
+198,Our,Clothing,science,"Salazar, Gibson and Gaines",21004.5,13822.32,4.6,237,254,2023-07-23,False
+199,Media,Clothing,picture,Boyd-Rogers,49208.69,22008.73,4.2,33,271,2023-02-08,True
+200,Fine,Clothing,could,"Tapia, Alvarado and Baker",33462.42,18241.28,3.7,168,123,2023-03-17,False
+201,Get,Clothing,baby,Baker PLC,31806.63,20218.86,3.7,9,144,2022-09-01,True
+202,Baby,Clothing,employee,Patterson-Holmes,8464.55,2526.36,4.8,121,257,2025-10-20,True
+203,Budget,Clothing,per,Davis and Sons,44120.0,28549.57,2.2,400,144,2025-02-10,True
+204,Half,Beauty,wind,"Martinez, Liu and Torres",21488.99,25170.91,1.0,144,259,2022-05-13,True
+205,Girl,Electronics,structure,Bennett Group,8279.22,24172.2,2.1,450,47,2024-05-08,False
+206,Personal,Home,age,Clements PLC,827.85,24707.22,1.9,445,13,2024-01-05,False
+207,Surface,Sports,effect,Moore and Sons,28075.83,27988.04,3.6,222,208,2024-01-05,False
+208,Sound,Home,guess,"Brooks, Dawson and Williams",26464.5,16373.19,3.5,370,235,2024-07-05,False
+209,Owner,Home,include,Ingram-Kelly,36023.81,6088.43,3.4,256,149,2023-02-11,True
+210,Yard,Electronics,approach,Hernandez and Sons,44534.85,18541.83,1.1,267,155,2024-07-11,False
+211,Doctor,Electronics,special,Lopez Inc,4154.45,22312.16,3.9,358,166,2024-09-13,True
+212,Letter,Electronics,try,Coleman and Sons,36628.53,22163.73,2.3,3,90,2022-02-17,True
+213,Billion,Clothing,case,Dixon-Jones,9533.11,15691.33,3.7,425,186,2022-02-06,False
+214,Market,Beauty,instead,Pratt PLC,42937.22,2146.92,3.2,396,174,2022-09-04,True
+215,Bar,Clothing,year,Smith Inc,40989.36,11196.28,2.4,353,217,2025-05-05,False
+216,Choice,Beauty,outside,"Brown, Herrera and Nelson",27131.53,27630.92,1.5,105,264,2024-09-28,False
+217,Item,Beauty,plant,Howard and Sons,35570.09,17575.02,1.4,84,97,2024-05-18,False
+218,Sign,Home,Democrat,Rhodes Ltd,15854.64,16196.13,4.3,213,117,2025-02-18,False
+219,Partner,Home,might,"Morales, Wilson and Stokes",23664.16,8138.72,4.7,120,199,2024-07-26,False
+220,Community,Beauty,home,Washington-Bowman,41117.52,11116.62,3.6,131,21,2024-04-08,True
+221,Me,Beauty,sign,Alvarado Group,23071.41,26870.85,1.4,337,200,2023-12-07,False
+222,Skin,Clothing,government,Jones LLC,18018.35,20027.25,2.6,196,248,2021-12-31,False
+223,Condition,Clothing,care,Dean LLC,24811.78,23642.87,3.9,18,276,2024-10-18,True
+224,House,Home,person,Daniels-Clark,41446.81,13684.93,4.1,129,264,2022-03-03,False
+225,Attack,Electronics,appear,"Cole, Davis and Sullivan",16893.36,18944.39,1.5,11,58,2024-01-11,False
+226,Television,Beauty,doctor,"Anderson, Wong and Hunter",8853.33,7526.67,1.0,80,31,2023-12-31,True
+227,Recent,Clothing,protect,Bush Ltd,35658.3,21193.28,3.8,329,249,2022-07-25,True
+228,Sort,Home,thought,"Miller, Haney and Wilcox",41333.71,12885.28,2.4,353,93,2024-05-20,False
+229,Southern,Clothing,care,Moore-Thomas,5211.75,13332.11,2.0,261,265,2023-06-06,True
+230,Thought,Beauty,medical,"Holmes, Graham and Cox",12145.73,19514.74,1.1,391,271,2022-02-03,False
+231,Peace,Beauty,fear,Barron Inc,7270.21,28094.79,3.2,124,94,2024-08-21,True
+232,Television,Sports,action,Burton Ltd,17527.48,2013.79,4.4,306,154,2024-08-03,False
+233,Attack,Electronics,decide,"Savage, Walker and Houston",22627.48,24759.82,4.8,266,285,2024-07-11,False
+234,Support,Sports,eye,Ortiz and Sons,37491.55,8842.26,3.3,446,80,2023-12-29,False
+235,Enough,Home,send,"Burke, Hernandez and Harrington",32627.15,13373.19,3.1,440,292,2025-03-09,True
+236,Per,Clothing,next,Simpson-Mccall,31122.24,755.21,1.3,382,84,2025-07-19,False
+237,Per,Home,possible,Jones and Sons,17748.27,9101.28,3.2,139,37,2024-01-11,True
+238,Section,Beauty,stuff,Acevedo-Owen,42104.09,15128.67,2.5,328,232,2025-09-05,False
+239,Plant,Sports,mouth,Wilson Group,23670.1,1779.66,3.4,1,93,2025-02-17,False
+240,Up,Sports,rock,"Jones, Lewis and Collins",48959.43,14783.76,2.6,7,102,2025-11-17,False
+241,Worker,Sports,help,Jimenez Inc,31780.28,27820.61,2.0,249,166,2025-08-08,False
+242,Mention,Home,share,Villa Inc,6487.98,3251.26,1.4,138,159,2025-06-12,False
+243,Quality,Beauty,fear,Turner Ltd,33873.64,22956.78,2.3,123,14,2022-10-15,True
+244,Difference,Clothing,Democrat,Strong and Sons,16390.18,12349.16,1.4,308,225,2025-07-25,True
+245,Discuss,Clothing,contain,Wright Group,34379.09,19689.69,1.7,227,73,2022-03-13,True
+246,Enter,Home,cover,"Kidd, Clements and Brown",3668.13,7881.07,4.9,9,249,2022-03-22,False
+247,Course,Sports,memory,"Smith, Jacobson and Kirk",8909.1,4868.82,2.8,468,91,2023-04-25,False
+248,On,Electronics,you,"Mitchell, Pena and Kim",42815.72,4897.83,3.1,211,216,2023-07-18,True
+249,Hope,Home,series,"Dixon, Zimmerman and Sanders",11513.54,2207.71,4.5,111,90,2025-01-27,False
+250,Song,Home,include,Martinez LLC,41884.65,5650.84,5.0,7,29,2025-03-27,False
+251,Learn,Beauty,unit,Gilbert LLC,14107.95,19960.16,3.3,291,220,2024-04-12,False
+252,It,Clothing,young,Patel-Ross,32215.52,26462.55,4.2,476,215,2022-09-27,True
+253,Past,Home,mention,Barnes LLC,34768.7,24442.36,2.3,361,221,2025-07-25,True
+254,Pay,Home,ready,Clark and Sons,25730.21,20585.52,2.2,459,42,2022-09-28,True
+255,Significant,Sports,choose,Perez-Moreno,15404.47,3401.91,2.6,252,135,2025-10-05,True
+256,Strong,Sports,how,"Gardner, Everett and Wyatt",10789.69,8746.7,3.7,13,42,2025-05-01,True
+257,Particularly,Electronics,stock,"Blair, Moses and Cardenas",1852.83,9363.23,3.7,239,164,2023-04-26,False
+258,Time,Beauty,travel,"Kirk, Glover and Smith",15336.53,7573.71,2.3,437,283,2024-10-24,False
+259,Through,Electronics,billion,"Bowen, Perez and Simmons",32727.51,15498.67,1.5,241,58,2023-10-22,False
+260,Speak,Sports,behind,Shelton-Hoffman,46927.58,16113.06,3.5,468,25,2024-08-28,False
+261,Born,Clothing,then,Riley-Schroeder,43585.98,10770.89,1.5,341,73,2022-11-02,True
+262,Thought,Sports,agree,Campbell-Torres,38350.03,10678.3,3.3,148,129,2025-08-15,True
+263,Pm,Beauty,over,"Black, Compton and Matthews",39464.68,24873.81,3.8,235,87,2023-05-10,False
+264,Office,Sports,change,"Saunders, Johnson and Baldwin",33316.25,23699.86,3.8,305,153,2022-03-13,True
+265,Job,Beauty,physical,Nguyen LLC,13162.29,9303.1,4.0,477,182,2025-06-27,False
+266,Two,Beauty,return,Gonzales-Barrera,45378.31,27422.27,4.5,166,125,2022-01-31,False
+267,Friend,Beauty,performance,Horne LLC,33602.47,28589.17,3.0,19,67,2023-08-14,False
+268,Admit,Beauty,occur,Mitchell and Sons,28109.94,9869.6,3.9,215,6,2025-09-07,False
+269,Individual,Beauty,defense,"Ashley, Jenkins and Stephens",5727.28,10697.31,3.5,342,125,2025-07-06,True
+270,Federal,Clothing,most,Cardenas-Rogers,22463.37,15218.46,1.7,134,53,2023-12-29,False
+271,Consumer,Electronics,rest,"Porter, Johnson and Hahn",23125.84,28239.51,1.1,392,66,2025-03-01,True
+272,Method,Home,why,Smith-Hall,43255.27,26301.95,2.1,128,82,2024-09-27,False
+273,Above,Electronics,image,"Ward, Sanchez and Mitchell",27423.08,3166.78,2.8,409,87,2024-02-02,False
+274,Bed,Beauty,summer,Lynch Inc,19143.95,11842.65,3.5,421,2,2025-01-02,False
+275,Them,Clothing,think,"Williamson, Carter and Schroeder",48844.66,16645.8,4.4,293,204,2025-11-07,False
+276,Interview,Sports,however,Hernandez-Gonzalez,5713.89,15143.66,1.8,245,150,2023-12-11,True
+277,But,Clothing,brother,"Proctor, Moore and Turner",21242.91,5896.51,1.5,188,293,2025-08-25,False
+278,Situation,Beauty,degree,"Wade, Wilson and Reyes",2292.83,25778.62,4.9,43,103,2025-10-31,True
+279,Everyone,Clothing,current,Brooks-Stewart,37047.23,20340.53,1.4,85,24,2023-12-09,False
+280,Picture,Clothing,effect,"Carroll, Chambers and Berger",45920.21,25153.46,2.9,43,212,2022-07-03,False
+281,Stage,Beauty,crime,Dougherty-Jimenez,14145.86,25777.05,3.3,329,65,2024-04-27,False
+282,Strategy,Clothing,red,"Hall, Walker and Anderson",42945.42,22475.84,3.2,374,209,2022-09-23,True
+283,Lay,Home,toward,Ware-Sims,14752.47,13232.4,1.3,445,251,2025-01-20,False
+284,Trade,Home,ten,Hicks Ltd,45556.35,18355.35,1.2,377,117,2023-11-04,False
+285,Benefit,Clothing,per,Hill and Sons,37747.3,4894.93,1.4,389,116,2023-03-07,False
+286,Compare,Sports,increase,Hernandez Ltd,40284.36,20242.0,3.3,144,237,2025-12-13,False
+287,Base,Beauty,they,"Lindsey, Mann and Long",1096.73,5459.67,3.2,50,105,2024-07-27,False
+288,Large,Home,be,Swanson LLC,48147.96,20849.09,1.9,241,259,2023-03-06,True
+289,Tell,Sports,miss,Morris-Madden,36388.22,6964.99,3.6,293,46,2024-12-29,True
+290,Project,Clothing,mean,Stewart Inc,15376.6,3614.78,4.3,407,216,2023-12-03,False
+291,Spend,Sports,kitchen,"Pena, Stevenson and Nelson",41503.85,5042.01,1.2,50,24,2022-05-27,False
+292,Now,Electronics,parent,Harris-Townsend,14219.76,159.56,3.0,265,35,2023-02-26,True
+293,Since,Home,answer,Dixon Inc,43663.14,21590.31,3.8,119,24,2025-09-02,False
+294,Front,Clothing,little,"Bennett, Nelson and Brooks",5806.5,21998.79,2.0,199,28,2025-05-15,True
+295,Front,Beauty,his,White PLC,35243.56,15496.51,2.2,404,16,2023-09-14,False
+296,Site,Clothing,win,York-Dickerson,27126.78,4924.75,3.5,247,59,2024-03-13,False
+297,Wrong,Beauty,letter,"Howell, Bishop and Roberts",5007.42,2598.27,4.6,69,243,2025-06-12,True
+298,Lawyer,Clothing,though,"Estes, Gray and Taylor",12246.31,671.96,4.2,340,207,2024-08-13,False
+299,Mother,Sports,tough,"Stevens, Ware and Merritt",817.72,5055.87,3.3,56,271,2023-07-17,True
+300,Service,Sports,senior,"Thompson, Wood and Dillon",23544.64,26736.58,3.9,381,249,2025-04-15,True
+301,Rather,Sports,eye,Gonzalez and Sons,15203.01,7321.95,2.5,38,267,2025-10-17,True
+302,Wind,Electronics,eat,Williams LLC,29998.2,10692.71,3.6,471,193,2022-03-12,False
+303,Many,Beauty,bring,Taylor Group,15002.44,3249.83,2.9,288,218,2023-12-27,True
+304,Agent,Sports,few,"Mercado, Johnson and Chavez",15135.97,6748.6,1.8,442,115,2025-10-29,True
+305,Show,Electronics,garden,"Peterson, Higgins and Sampson",37211.02,15624.81,3.8,17,68,2022-10-17,False
+306,Simply,Beauty,over,Porter-Hanson,2597.51,18271.81,3.2,439,299,2023-03-01,False
+307,Some,Clothing,theory,Cook Inc,45164.17,7436.03,2.4,219,75,2023-07-16,False
+308,Within,Electronics,clearly,"Callahan, Brown and House",42642.74,1826.19,4.6,312,103,2022-09-18,False
+309,Lose,Home,catch,"Figueroa, Duncan and Burns",33456.67,11791.88,1.1,243,297,2022-10-27,False
+310,Huge,Electronics,support,"Walker, Parks and Hayden",29742.43,7102.68,2.3,351,178,2024-03-16,False
+311,Write,Electronics,back,"Horton, Moore and Burnett",44636.66,6664.66,1.2,459,215,2022-01-04,True
+312,Western,Beauty,high,"Lewis, Johnson and Jones",9429.44,28799.9,4.1,303,39,2022-04-03,False
+313,Hotel,Clothing,join,Anthony-Flowers,4132.66,18527.38,3.8,297,259,2024-05-23,True
+314,Back,Home,fight,"Coffey, Barnes and Mcdaniel",12127.61,16750.67,2.3,282,204,2025-08-27,False
+315,Fight,Sports,international,Perry Inc,39770.0,12531.68,3.7,73,7,2022-05-11,True
+316,Art,Sports,his,"Matthews, Stanley and Snyder",1926.58,12925.44,2.6,109,49,2025-05-25,True
+317,Stage,Electronics,develop,"Pittman, Walsh and Young",29223.78,16273.06,4.0,179,26,2023-11-02,False
+318,Service,Beauty,magazine,Davis LLC,49772.79,20923.25,2.8,425,161,2025-09-30,False
+319,Radio,Beauty,ok,Waters-Brooks,42813.67,21094.17,2.6,31,176,2023-04-17,True
+320,Event,Sports,take,"Pearson, Ward and Rodriguez",26168.0,5233.65,4.7,233,79,2025-06-05,False
+321,Address,Home,they,Horn-Jacobs,3369.32,15053.37,2.0,281,2,2023-01-16,False
+322,Art,Clothing,game,Golden Group,41602.4,12417.55,1.5,24,132,2024-08-01,True
+323,Subject,Home,particularly,Martin-Miller,30029.13,26128.76,3.3,330,276,2024-05-05,True
+324,Show,Clothing,degree,"Wade, Blankenship and Harvey",5923.66,18979.43,4.9,278,117,2023-12-23,True
+325,Class,Sports,economic,"Robinson, Juarez and Brown",4874.09,16021.87,2.5,225,164,2022-01-12,False
+326,Former,Clothing,fight,Rogers-Webb,45499.42,3550.3,1.2,56,288,2025-05-07,False
+327,Conference,Beauty,treat,Hays LLC,33526.17,18208.57,2.4,179,28,2023-09-27,False
+328,Another,Electronics,challenge,Reyes LLC,41498.48,3604.4,3.0,231,1,2022-07-17,False
+329,Party,Electronics,success,"Velez, Tucker and Curry",43973.15,10182.48,1.6,381,188,2023-03-29,True
+330,Whom,Sports,long,Schneider and Sons,28674.26,4370.97,3.6,342,56,2022-05-09,False
+331,Maintain,Beauty,just,Smith Group,25968.83,20793.0,5.0,476,35,2022-07-15,True
+332,Now,Home,reach,"Santana, Garcia and Kennedy",21635.29,6266.94,2.8,286,112,2024-08-24,False
+333,Open,Beauty,occur,"Huang, Perez and Allen",15983.94,11816.6,2.4,63,286,2025-03-19,False
+334,Record,Electronics,tough,Anderson Ltd,21842.88,26880.68,2.6,454,36,2023-01-15,True
+335,It,Electronics,against,Everett LLC,38739.21,6209.06,1.5,231,217,2023-06-29,False
+336,Better,Beauty,world,"Terry, Brown and Schroeder",30175.79,15283.37,4.5,288,80,2025-08-13,False
+337,Soldier,Beauty,concern,"Brown, Jones and Collins",44647.66,12636.22,2.7,212,83,2023-02-07,True
+338,Start,Electronics,myself,Stone and Sons,22280.32,641.91,2.5,257,65,2023-11-19,False
+339,Difficult,Home,meet,"Rollins, Wilcox and Ferrell",30433.06,23803.47,3.6,17,128,2024-08-18,True
+340,Travel,Sports,pattern,Rogers Inc,31639.12,2164.47,2.8,174,22,2024-09-23,True
+341,Him,Sports,true,Baker and Sons,29666.52,14280.23,3.6,416,216,2024-03-17,True
+342,View,Beauty,firm,Montoya and Sons,35191.16,16864.28,1.2,228,107,2024-12-25,True
+343,Value,Sports,floor,Stone PLC,12024.19,18889.95,4.3,225,109,2025-10-12,False
+344,Mother,Electronics,result,"Garrison, Brown and Thompson",25715.72,20690.09,4.8,83,181,2024-09-28,False
+345,Name,Electronics,huge,Robinson Inc,5390.4,7672.84,3.6,290,164,2025-03-28,False
+346,Down,Beauty,respond,Kline Group,19348.66,398.37,4.8,434,68,2024-08-06,True
+347,Move,Beauty,yeah,Pratt-Mullins,24485.82,21730.97,1.6,369,292,2023-10-06,False
+348,Risk,Beauty,understand,Woods-Wise,32680.77,16116.13,2.9,245,180,2023-03-03,False
+349,Draw,Home,wind,Parsons-Brown,47536.45,25099.92,3.4,401,181,2025-07-04,False
+350,Raise,Sports,individual,Acosta-Silva,30112.42,24659.51,3.3,109,169,2023-06-28,False
+351,Boy,Beauty,project,"Walker, Willis and Bishop",37230.98,25315.45,2.6,253,22,2025-03-28,True
+352,Beyond,Clothing,economy,Dorsey-Shaw,25412.05,14604.33,2.4,87,66,2022-08-28,True
+353,Standard,Clothing,pattern,Perry-Williams,31778.38,10075.49,1.5,71,21,2025-07-10,False
+354,He,Electronics,piece,Davis-Randolph,3732.42,23767.59,2.6,380,100,2024-07-07,True
+355,Employee,Sports,blue,Butler-Benson,12868.7,13593.69,1.7,29,103,2025-12-02,False
+356,Partner,Beauty,require,Schmitt-Brooks,18220.28,5584.92,3.9,171,47,2022-03-06,False
+357,Something,Clothing,in,"Lee, Lee and Fischer",23730.17,25663.72,1.8,308,39,2025-06-30,False
+358,Interview,Sports,great,Moore-Robinson,2473.31,26488.54,1.2,393,285,2023-07-12,True
+359,Family,Electronics,many,Garcia-Wolfe,7173.2,14042.66,3.2,342,90,2024-12-24,False
+360,Policy,Home,make,Robinson-Lewis,13985.35,2363.42,3.4,435,85,2022-05-14,True
+361,Popular,Sports,radio,Lamb and Sons,48582.33,11696.0,4.5,176,273,2024-11-29,True
+362,Career,Sports,effort,Guerra-Perez,16701.08,24125.78,3.3,138,188,2022-07-21,False
+363,Sell,Home,skill,"Morton, Lambert and Jones",24205.64,27063.04,2.4,193,159,2023-03-04,True
+364,Store,Sports,cultural,"Newman, Bailey and Curry",9965.67,6183.84,4.2,185,243,2022-09-04,True
+365,Method,Electronics,serve,Jones Inc,30616.85,2102.51,3.2,217,73,2024-03-03,False
+366,Great,Electronics,behavior,Anderson PLC,14178.02,26332.78,1.3,163,49,2023-03-30,True
+367,Image,Home,rest,"Moore, Mitchell and Rodriguez",10508.23,11743.21,3.3,160,101,2023-12-07,True
+368,Prove,Beauty,character,Christensen-Bowman,25925.32,16298.65,4.6,430,2,2023-07-22,False
+369,Real,Clothing,human,Martinez-Hughes,474.19,29045.17,2.6,12,244,2022-04-22,False
+370,Bag,Beauty,past,Ellis-Soto,581.67,2090.29,2.2,295,176,2024-09-26,True
+371,Message,Sports,mouth,Atkinson Ltd,11109.63,19484.71,1.6,88,238,2024-01-22,False
+372,Feel,Clothing,address,"Duran, Wilson and Davis",2028.72,2315.75,1.6,323,59,2022-11-28,False
+373,Employee,Home,explain,"Wilson, Liu and Reid",5579.68,11326.52,2.7,41,99,2023-07-04,True
+374,Majority,Home,the,Thompson-Nash,17075.26,24134.05,3.4,402,2,2023-04-13,True
+375,Nice,Clothing,economy,Nelson-Ellis,40168.77,13060.82,1.3,209,243,2022-01-22,False
+376,Professor,Electronics,audience,Brown Ltd,28688.02,29915.75,4.8,228,297,2023-04-12,True
+377,Training,Clothing,ever,Murphy Group,25730.85,16815.87,4.0,349,211,2022-10-31,False
+378,End,Sports,above,"Briggs, Nelson and Garcia",14815.74,9702.75,3.3,274,123,2024-07-04,False
+379,Thing,Electronics,standard,"Juarez, Adams and Shepard",46601.34,6681.33,4.3,441,229,2024-09-12,True
+380,Good,Home,kind,"Johnson, Clayton and Benson",19971.35,10580.56,1.3,278,82,2023-08-29,True
+381,Sport,Clothing,likely,Martin and Sons,4537.22,11238.74,2.9,250,144,2025-01-24,False
+382,Rock,Beauty,animal,Cruz-Butler,30929.91,2154.54,3.5,309,140,2025-03-03,False
+383,That,Beauty,child,Boone-Kelley,5869.15,11150.27,4.3,207,29,2022-05-20,False
+384,Buy,Sports,this,Summers-Wong,17392.11,13980.73,4.1,320,270,2025-06-05,False
+385,Work,Beauty,turn,Ortiz Group,25469.11,21709.86,2.1,139,247,2025-09-07,True
+386,Including,Clothing,charge,Mcintyre-Moore,43736.28,19736.21,4.8,279,12,2025-02-16,False
+387,Hour,Clothing,exactly,Palmer-Duran,24778.62,21292.09,1.5,33,106,2025-02-19,True
+388,Yet,Beauty,town,Mullins-Gutierrez,35172.49,350.07,4.5,308,32,2022-08-10,True
+389,Number,Clothing,director,Mclaughlin PLC,49642.28,6608.26,4.9,391,74,2022-06-10,False
+390,Girl,Sports,TV,"Johnson, Olson and Garner",6748.16,19884.36,1.7,17,171,2023-02-06,True
+391,Happy,Electronics,pull,Cook Group,13881.63,14571.28,3.9,56,69,2022-02-25,True
+392,Item,Sports,major,Barker and Sons,19849.89,258.87,1.2,111,137,2024-03-20,False
+393,Whether,Sports,least,Perez Ltd,21207.04,24154.39,2.6,4,100,2024-05-07,True
+394,Film,Clothing,author,Obrien Group,20668.85,23207.01,3.1,409,146,2023-01-01,True
+395,Traditional,Electronics,trade,Patterson Ltd,45399.03,16497.73,3.3,413,9,2024-01-03,False
+396,Base,Clothing,test,"Sampson, Nguyen and Hernandez",35758.83,2087.25,4.7,181,62,2022-02-05,False
+397,Space,Home,drop,Johnson LLC,30473.68,23018.8,3.7,12,185,2025-02-04,False
+398,Near,Clothing,middle,Collins Inc,15606.76,17553.04,2.9,338,29,2023-07-02,False
+399,Study,Clothing,often,Valdez Inc,41224.76,23480.6,4.2,284,114,2025-04-06,False
+400,Receive,Clothing,term,Johnson-Mendoza,47762.01,22577.24,4.8,258,143,2023-11-27,False
+401,Friend,Electronics,where,Carrillo and Sons,41095.67,24109.76,1.1,89,120,2025-11-27,False
+402,Same,Clothing,smile,Davis-Davis,277.94,15588.44,4.9,103,170,2024-03-20,True
+403,Site,Electronics,particular,"Welch, Duran and Schmidt",31892.79,4295.7,1.3,378,157,2025-02-17,True
+404,Majority,Beauty,need,Joyce-Smith,2746.54,20167.61,4.3,185,260,2024-11-19,False
+405,Pm,Home,too,Casey-Duarte,13028.84,18652.17,2.1,249,82,2025-04-20,True
+406,Possible,Electronics,reflect,"Mckee, Perry and Rivera",3164.33,22293.37,1.5,254,242,2025-04-03,True
+407,Next,Beauty,else,"Campbell, Rose and Campbell",30269.01,5179.44,2.8,75,172,2022-07-08,False
+408,Assume,Electronics,school,Hernandez-Wilcox,34392.18,5929.76,3.6,385,231,2025-12-21,True
+409,Scene,Electronics,near,Salazar-Nguyen,5901.48,26723.24,2.5,458,208,2025-04-25,False
+410,Authority,Home,speak,"Miller, Simpson and Robinson",19315.18,22524.34,1.2,107,75,2023-06-10,True
+411,Worry,Sports,defense,Blake-Bradley,22920.58,27256.03,3.4,155,270,2023-02-19,False
+412,About,Sports,southern,Armstrong-Fernandez,18578.84,22785.59,4.6,81,114,2022-11-17,True
+413,Man,Electronics,hand,"Davis, Hernandez and Aguirre",6227.05,17954.94,2.5,76,62,2025-05-13,True
+414,Fall,Clothing,suddenly,Reynolds PLC,21063.6,19658.57,1.9,484,102,2023-04-07,True
+415,Recent,Beauty,she,Buchanan-Banks,37608.67,26684.92,2.8,469,210,2025-01-24,False
+416,President,Clothing,glass,Baker-Williams,3736.18,17406.32,1.2,459,255,2024-12-28,True
+417,Very,Clothing,to,"Carter, Jackson and White",4192.96,19008.5,4.3,257,20,2023-04-15,True
+418,Best,Electronics,site,Coleman and Sons,17867.61,4778.65,4.3,126,58,2022-03-08,False
+419,Figure,Electronics,carry,"Jones, Owens and Rogers",47097.94,14270.24,3.4,484,112,2024-12-06,False
+420,Food,Electronics,movement,Singleton-Dickson,33494.92,21520.27,2.4,390,196,2024-02-17,True
+421,Media,Electronics,pay,Morales LLC,33997.76,8201.19,4.2,281,92,2023-05-26,True
+422,Move,Sports,very,"Thomas, Parker and Smith",18223.62,6147.4,3.2,473,52,2024-06-29,True
+423,Ground,Electronics,card,Stark and Sons,29764.31,9483.42,4.3,87,293,2025-03-10,True
+424,Site,Sports,realize,"Lee, Thornton and Clark",704.53,7320.87,3.5,203,8,2023-10-11,False
+425,Air,Sports,allow,Griffin-Turner,31877.58,6525.89,4.1,15,98,2023-02-10,True
+426,Although,Electronics,risk,Wood-Thomas,45681.69,12803.04,3.4,150,236,2025-03-16,True
+427,Home,Home,rest,Little-Jensen,30706.16,27244.37,2.7,423,69,2024-03-27,False
+428,Science,Beauty,and,"Ruiz, Quinn and Chambers",43710.19,15261.08,4.8,253,45,2022-01-10,True
+429,Statement,Clothing,country,Williams LLC,36253.86,5718.82,3.2,187,137,2022-05-15,True
+430,Culture,Sports,head,Johnson-Gay,6203.81,2401.45,3.4,328,234,2022-11-30,True
+431,Possible,Beauty,hard,Owens PLC,45142.17,20915.07,1.9,31,32,2023-06-13,False
+432,Lose,Home,traditional,"Kim, Richardson and Rogers",3508.9,11545.68,3.5,270,289,2024-03-14,False
+433,Ten,Clothing,town,Adams PLC,26791.58,24672.75,3.3,484,126,2024-07-05,True
+434,Specific,Clothing,black,Bennett-Shaffer,7278.43,19819.37,1.7,396,67,2025-02-24,True
+435,Prepare,Sports,site,Stewart-Miller,782.99,23907.62,1.2,4,30,2022-10-07,False
+436,Step,Electronics,education,"Walker, Morrison and Cruz",21217.31,8231.19,3.4,458,114,2024-08-05,True
+437,Nice,Home,often,"Barker, Medina and Hayes",14893.03,20801.53,4.1,329,204,2025-04-22,True
+438,Peace,Sports,practice,Smith LLC,24402.82,7995.45,3.1,307,29,2024-10-19,False
+439,Day,Home,draw,"Pace, Griffin and Tyler",28944.55,28178.15,1.9,332,131,2022-06-19,False
+440,Decade,Electronics,take,Garrison-Stevenson,2378.21,19127.59,3.7,168,185,2022-01-07,False
+441,Organization,Electronics,plan,"James, Hill and Stanley",6325.56,9802.9,1.3,180,253,2023-03-31,True
+442,Capital,Sports,chance,"Roberts, Pena and Serrano",28020.39,8158.4,2.8,365,286,2023-04-18,True
+443,Beat,Electronics,apply,"Glenn, Gillespie and Wiley",17289.73,5808.7,1.7,177,62,2022-08-12,True
+444,Water,Beauty,show,Sexton Ltd,36512.84,20869.76,1.7,142,3,2022-11-19,True
+445,Run,Clothing,picture,"Davis, Howell and Rodriguez",32684.12,6639.6,1.8,361,68,2025-10-02,False
+446,Seat,Sports,interesting,Stevens-Knight,42311.1,17899.57,2.5,247,25,2025-05-10,True
+447,Indicate,Home,each,Harmon-Mcbride,34686.14,8012.59,1.2,126,179,2022-04-20,True
+448,Threat,Beauty,start,Oliver PLC,21610.57,19892.87,2.6,262,141,2024-11-07,False
+449,Drive,Sports,place,"West, Rodriguez and Austin",33713.74,24466.7,3.0,39,231,2025-06-24,False
+450,Bag,Electronics,out,"Kim, Hudson and Baldwin",13913.98,23362.95,2.9,411,163,2024-01-02,True
+451,Beautiful,Electronics,both,"Page, White and Fields",15454.41,22849.45,2.5,415,130,2022-06-19,False
+452,Report,Electronics,suffer,"Singh, Rogers and Morrow",39491.46,5712.9,4.4,354,246,2025-06-08,False
+453,Maintain,Electronics,tree,Hanna Inc,22431.69,2742.71,1.6,254,297,2023-05-09,True
+454,Present,Home,over,Jones and Sons,39959.34,20998.57,3.0,142,172,2022-01-30,True
+455,Station,Beauty,around,Gilmore-Washington,41156.63,11113.58,1.2,239,64,2023-10-06,True
+456,Including,Clothing,under,Smith-Davis,42906.6,13027.15,1.3,227,31,2023-12-05,True
+457,Down,Home,get,Gaines-Jones,45848.43,1031.36,3.3,340,47,2024-10-07,False
+458,Eight,Home,build,"Schmitt, Jennings and Thompson",21663.06,7861.34,3.3,197,130,2023-04-18,False
+459,Guy,Clothing,yet,Fisher-Brown,16079.57,1106.92,4.5,64,110,2022-06-04,True
+460,Scene,Clothing,building,Harvey-Weber,29193.5,26387.65,3.2,387,69,2025-12-12,True
+461,Should,Electronics,as,Fischer Group,18684.39,7377.56,4.8,10,58,2022-03-12,False
+462,Goal,Home,politics,"Griffith, Foster and Johnson",30133.49,16764.38,1.2,107,106,2022-08-11,True
+463,Degree,Sports,somebody,"Doyle, Riley and Sellers",35338.18,1265.48,1.4,25,256,2025-08-26,True
+464,Course,Clothing,him,Norton-Beard,34482.57,20038.74,1.2,444,171,2024-03-25,True
+465,Left,Clothing,pretty,Sanders-Harvey,18852.73,9758.52,1.7,420,162,2022-10-05,True
+466,Specific,Beauty,rule,Hardy-Miller,8509.64,26947.78,3.2,150,286,2025-11-24,False
+467,Focus,Sports,chair,"Jones, Snyder and Tran",21640.36,26654.73,3.6,220,71,2022-08-11,True
+468,Year,Sports,yourself,Thomas-Dominguez,7301.19,9826.19,1.2,340,255,2025-03-23,False
+469,Chair,Clothing,interest,Wilson and Sons,44526.83,27038.73,4.8,495,55,2024-10-19,True
+470,Against,Electronics,majority,Mcintosh-Everett,17424.7,29885.11,4.4,236,3,2023-04-01,True
+471,Occur,Beauty,bill,Thomas-Thomas,7892.1,24779.93,2.2,236,26,2022-07-17,False
+472,Produce,Sports,level,"Long, Rose and Webb",1467.3,25361.65,1.3,496,126,2022-08-16,True
+473,Vote,Clothing,draw,Garcia Group,32361.95,7545.36,1.7,218,53,2023-04-13,False
+474,Onto,Sports,even,Fuller Group,31917.74,17343.4,1.5,486,198,2023-08-05,True
+475,Evidence,Beauty,start,Grant PLC,17162.09,2110.95,1.5,423,299,2022-11-20,True
+476,Simply,Beauty,thus,Deleon Ltd,3771.25,2938.05,3.1,460,188,2023-06-25,True
+477,Half,Home,should,"Clark, Espinoza and Payne",20599.52,29966.89,2.0,150,186,2022-11-06,True
+478,Involve,Clothing,medical,Shah Group,15698.63,9866.51,2.4,122,298,2025-08-10,True
+479,Look,Beauty,point,"Williams, Howell and Wallace",33920.61,22470.7,5.0,143,204,2023-04-28,False
+480,Citizen,Home,receive,"Brown, Johnson and Perry",30367.81,24219.29,3.7,477,11,2023-09-24,False
+481,Cell,Home,side,"Malone, Martin and Hart",18356.77,25754.9,4.8,188,146,2022-03-28,True
+482,Identify,Sports,position,Smith PLC,11051.05,29929.09,1.6,254,85,2025-11-05,True
+483,End,Sports,sense,Ritter Inc,49404.19,7320.74,2.5,67,100,2022-02-21,False
+484,Air,Home,father,Benson-Rodriguez,22809.28,1306.49,3.2,103,104,2023-05-11,False
+485,Store,Sports,best,Livingston LLC,34476.06,12394.63,1.3,335,46,2023-11-07,True
+486,Mr,Beauty,study,"Williams, Sullivan and Farmer",7199.54,3989.41,1.0,158,44,2023-08-03,True
+487,Point,Electronics,Mr,Rodriguez and Sons,24382.37,770.53,3.7,308,278,2023-12-31,False
+488,Involve,Beauty,value,"Mathews, Smith and Miles",1571.33,10876.76,3.6,361,181,2022-12-14,True
+489,However,Home,young,"Hensley, Tapia and Haynes",25371.66,23533.77,2.6,408,187,2022-11-13,False
+490,Class,Home,affect,Randall Inc,48208.07,17028.8,3.0,299,114,2022-02-20,True
+491,Within,Beauty,little,"Hardin, Black and Atkinson",19333.49,9452.06,2.7,395,255,2024-02-05,False
+492,National,Sports,win,Adams PLC,2142.0,19664.83,1.1,89,30,2025-06-10,False
+493,Already,Sports,fund,"Edwards, Ellis and Coleman",1741.6,7037.34,2.3,356,264,2023-01-04,True
+494,Series,Home,per,Sexton LLC,19521.74,530.01,1.7,255,98,2023-10-04,False
+495,Near,Clothing,reduce,Roberts LLC,8169.24,22954.17,1.4,495,115,2023-07-07,True
+496,Girl,Sports,brother,Miller-Mckee,1362.93,18749.92,4.8,352,276,2024-09-19,True
+497,Hold,Beauty,dinner,Phillips-Vance,37859.44,22892.85,3.4,219,281,2022-09-05,True
+498,Market,Sports,morning,Matthews-Ellis,23034.45,1264.25,3.9,8,275,2025-05-23,True
+499,Kitchen,Beauty,day,Freeman Ltd,14604.39,25129.88,2.3,11,261,2024-10-25,False
+500,Thus,Home,difference,Rodgers-Bailey,45024.14,18623.83,2.6,324,207,2024-09-30,True
+501,Agency,Sports,leader,Johnson-Barnes,5983.72,16945.52,1.9,437,211,2022-05-04,True
+502,Politics,Beauty,including,Mason-Hensley,47804.76,18775.96,1.4,243,215,2022-06-26,True
+503,Decide,Home,coach,Alexander and Sons,15835.54,25946.55,1.7,181,40,2022-08-07,True
+504,Tax,Clothing,financial,Adams-Hartman,44442.5,17649.4,4.2,283,26,2025-02-18,False
+505,Laugh,Beauty,success,"Garcia, Edwards and Jackson",30226.56,17470.42,3.7,311,27,2022-08-08,True
+506,Probably,Clothing,nearly,Bell LLC,41370.03,29721.31,3.2,98,190,2025-11-30,False
+507,Newspaper,Clothing,thing,Curtis and Sons,49203.86,22726.23,2.9,196,83,2025-03-05,False
+508,Since,Electronics,industry,"Chapman, Arias and Prince",14562.59,13324.58,4.7,481,170,2025-10-08,False
+509,Man,Sports,bed,Michael LLC,48064.55,21251.17,1.3,365,167,2022-08-14,True
+510,Day,Beauty,girl,King-Williams,19596.2,11737.99,2.1,225,188,2025-03-30,True
+511,Under,Clothing,owner,"Roy, Bennett and Miller",19398.49,6943.38,2.4,332,169,2022-09-10,True
+512,Stand,Electronics,whether,Mayer-Johnson,17151.28,17945.87,4.1,102,289,2022-03-15,True
+513,Strong,Home,reality,"Mckenzie, Miller and Rosario",27162.1,27852.64,5.0,105,229,2025-07-14,False
+514,Significant,Beauty,recent,Morris-Vance,7876.42,27881.27,2.0,364,97,2025-10-14,False
+515,Big,Clothing,investment,Goodman PLC,27774.83,10322.97,4.5,367,16,2023-03-27,True
+516,Unit,Sports,site,"Weaver, Parker and Scott",27176.9,15877.56,4.3,57,279,2025-04-30,True
+517,Research,Electronics,attention,"Holland, Greer and Savage",38142.71,6427.91,1.9,77,135,2025-03-10,True
+518,Middle,Clothing,clearly,Sherman-Miller,41715.77,29869.37,2.6,74,26,2023-12-31,True
+519,Hear,Sports,word,Roberts Inc,22133.98,29435.43,2.6,41,12,2023-11-02,True
+520,Bit,Clothing,rate,"Harding, Hogan and Avery",15256.2,19520.32,4.9,421,72,2025-05-20,True
+521,News,Beauty,he,Fletcher Group,13114.88,24151.98,1.7,323,133,2025-06-18,True
+522,Always,Beauty,risk,"Pugh, Daniel and James",9892.27,21481.49,4.2,180,106,2022-03-02,False
+523,Health,Beauty,usually,Bennett PLC,3070.85,17835.43,2.3,32,220,2025-10-12,False
+524,Simply,Electronics,dog,"Hanson, Patterson and Davis",17253.91,1695.11,3.9,70,177,2023-03-22,False
+525,Garden,Beauty,mind,Brown LLC,13658.34,13697.45,2.7,55,282,2022-07-10,False
+526,Yes,Sports,defense,Carroll LLC,48327.59,20276.11,3.3,104,133,2024-07-27,True
+527,Nor,Clothing,like,Hampton Inc,27973.9,20358.2,4.3,199,22,2023-04-28,True
+528,Itself,Home,rest,Anderson PLC,17494.4,11256.37,4.2,100,269,2024-09-16,True
+529,Together,Sports,attack,Miranda-Smith,29107.29,28256.59,4.5,255,161,2024-02-29,True
+530,Culture,Sports,remember,Berry Ltd,7132.0,5103.98,1.2,306,107,2024-08-12,True
+531,Situation,Beauty,view,"Goodwin, Watson and Patrick",22313.38,15060.75,3.8,73,279,2024-04-26,False
+532,Letter,Electronics,politics,Gibson LLC,31386.47,20757.43,1.6,170,235,2025-03-12,True
+533,Computer,Clothing,measure,Rich-Thompson,24547.11,20944.36,2.7,376,18,2024-01-05,False
+534,Performance,Electronics,per,"Rollins, Perez and Young",20208.58,19494.3,3.2,142,242,2024-10-24,True
+535,Above,Clothing,against,Sullivan PLC,49693.65,8331.12,2.6,165,117,2023-07-21,False
+536,All,Clothing,pressure,"Reeves, Howard and Gibson",44039.68,4770.58,3.1,398,286,2025-08-06,True
+537,Nice,Electronics,amount,Moore-Schroeder,31245.62,19114.62,5.0,260,282,2025-03-04,False
+538,Official,Sports,government,King-Martinez,28554.99,18019.13,1.5,220,144,2023-10-08,True
+539,These,Clothing,per,"Allen, Lopez and Rodriguez",31108.89,5462.74,3.7,82,205,2024-02-18,True
+540,Method,Electronics,much,"Mccullough, Kim and Edwards",10225.34,21183.66,2.6,181,39,2022-12-26,True
+541,He,Clothing,test,Haley Group,19877.86,13709.64,1.5,306,154,2023-08-01,True
+542,Difficult,Home,news,Jackson-Rodriguez,2165.08,20066.04,1.6,9,176,2025-01-01,False
+543,As,Sports,his,Hodge-Phillips,23882.19,25137.28,4.8,395,241,2022-08-11,True
+544,Though,Beauty,game,Rodriguez LLC,27242.62,5174.88,4.5,3,134,2022-06-12,False
+545,Accept,Clothing,throughout,Coleman-Hurley,11541.94,672.43,4.6,350,46,2025-10-28,True
+546,Single,Home,ok,Leon and Sons,48208.64,23395.17,5.0,401,50,2025-11-10,False
+547,Now,Beauty,development,"Becker, Jones and Harris",45490.84,18329.95,1.8,335,166,2021-12-29,True
+548,Thank,Beauty,personal,Jackson-Oliver,36162.73,21019.22,2.4,487,106,2022-05-03,True
+549,Word,Clothing,section,Henderson-Choi,26762.65,25160.83,3.7,291,216,2024-10-04,False
+550,Adult,Electronics,collection,Thomas-Lowe,43524.46,24104.05,2.9,280,146,2024-09-13,True
+551,Cell,Clothing,fall,Franco-Petty,6706.49,28831.51,2.7,214,72,2023-04-20,True
+552,Food,Home,society,Patterson-Pittman,39567.39,16124.46,2.4,459,273,2023-10-13,False
+553,Above,Beauty,such,"Ellison, Chan and Sanchez",6416.08,14706.02,3.4,97,247,2024-08-29,True
+554,Scene,Clothing,region,Brown-Adams,39751.69,12116.43,3.3,419,186,2025-10-16,False
+555,Human,Electronics,evidence,"Anderson, Daugherty and Brooks",13933.22,4695.36,1.6,100,70,2025-02-16,True
+556,Front,Clothing,away,Holt-Baker,43879.11,17220.96,2.9,450,150,2025-03-26,False
+557,Event,Sports,check,Sims-Glover,47213.3,8382.67,3.2,8,246,2022-06-25,False
+558,Strong,Electronics,parent,"Williams, Horn and Johnson",7610.04,27647.09,3.3,60,262,2024-08-12,False
+559,Plant,Home,understand,Gillespie-Frederick,23241.25,17537.41,1.8,308,26,2022-07-24,False
+560,Pull,Beauty,class,Ellison Group,49053.17,17825.92,4.0,145,140,2023-12-14,True
+561,Employee,Clothing,country,Harris-Miranda,24273.69,10712.25,1.1,426,99,2025-11-04,True
+562,Yeah,Electronics,check,Hall Ltd,43204.67,1654.48,2.4,418,278,2022-01-27,False
+563,Source,Sports,value,Smith-Thomas,29518.83,1049.14,4.1,62,51,2024-03-20,True
+564,Yes,Electronics,blue,Smith-Palmer,18891.43,12757.72,3.3,120,151,2022-11-14,True
+565,Career,Sports,response,Anderson Group,14432.02,2628.5,2.0,225,104,2024-07-16,True
+566,Laugh,Home,marriage,Adams-Lopez,10320.51,18244.72,3.8,104,89,2023-08-16,False
+567,Certain,Beauty,medical,"Price, Shannon and Taylor",38137.55,26441.09,3.3,461,141,2022-08-20,True
+568,Very,Home,natural,"Boyd, King and Hurst",19449.72,26499.15,4.2,259,213,2024-04-22,True
+569,Fast,Clothing,per,Greer-Foster,25661.52,19805.46,3.9,348,233,2024-05-06,False
+570,Specific,Electronics,this,Garcia-Burke,24717.81,6415.83,3.4,424,183,2023-04-07,True
+571,Feel,Sports,simply,"Rogers, Kelly and Cole",28948.5,25903.61,3.0,254,251,2025-11-10,False
+572,Source,Sports,various,"Jackson, Summers and Baker",43305.74,26594.19,1.5,428,9,2025-10-25,False
+573,Stock,Electronics,too,Sparks-Lee,49040.82,5979.94,2.0,433,79,2023-07-21,False
+574,Firm,Electronics,field,Bowen Ltd,20497.69,22149.04,2.7,206,52,2022-07-07,True
+575,Available,Clothing,first,Brennan Inc,41410.44,8666.93,3.4,27,269,2025-01-14,True
+576,Phone,Home,lose,Perez-Schultz,38273.48,24098.95,3.1,169,226,2024-10-18,False
+577,Water,Sports,daughter,"Smith, Gonzalez and Davenport",28761.74,29917.41,2.2,335,51,2022-06-19,False
+578,Again,Clothing,their,Torres-Dean,47811.15,997.78,1.0,75,186,2023-10-28,False
+579,Seat,Home,read,White and Sons,10183.63,26931.24,3.0,115,34,2023-03-05,False
+580,Affect,Clothing,civil,"Kane, Smith and Johnson",5641.36,18716.65,2.1,68,291,2022-05-02,False
+581,Put,Sports,hundred,Jenkins-Huffman,42727.31,29204.14,3.9,353,230,2024-12-04,False
+582,Pass,Electronics,yes,"Adams, Gray and West",22069.66,14003.78,1.1,233,131,2025-06-07,True
+583,Option,Electronics,sense,Hall PLC,42379.05,25436.9,3.3,0,120,2022-04-02,False
+584,Carry,Home,take,"Barnett, Hayden and Robinson",44675.89,1965.58,4.8,166,247,2025-01-29,False
+585,Around,Beauty,sell,Brown Ltd,3310.39,10124.84,1.7,351,192,2025-03-15,False
+586,Marriage,Home,year,"Pope, Nguyen and Bryant",44196.55,2103.79,2.9,217,210,2022-12-19,True
+587,View,Beauty,upon,Johnson Ltd,22526.29,29262.76,1.4,272,103,2025-10-12,True
+588,Computer,Clothing,public,Fischer PLC,25619.54,24527.52,3.5,367,133,2024-03-20,True
+589,Sit,Clothing,until,Lewis-Barry,31404.31,25591.17,3.2,250,139,2024-11-07,True
+590,Successful,Sports,include,Park Group,46333.85,28145.16,2.6,346,121,2025-04-28,False
+591,Attention,Beauty,note,Ferguson PLC,1151.98,2644.59,3.1,343,94,2023-08-29,True
+592,Improve,Sports,able,Collins-Lee,23946.8,11629.37,4.6,418,129,2024-04-25,False
+593,Why,Electronics,section,Butler PLC,34448.56,2223.94,1.8,173,91,2023-08-27,False
+594,Western,Beauty,allow,Wyatt PLC,36190.81,6402.71,1.1,169,92,2023-07-19,False
+595,Guess,Home,itself,Tanner-Gibson,34688.12,6958.04,4.4,245,63,2024-12-01,False
+596,Personal,Electronics,land,Roman Ltd,6894.87,14126.31,3.3,422,29,2022-12-28,False
+597,Tree,Electronics,each,"Gates, Jenkins and Ballard",15109.9,8130.01,4.6,89,210,2023-05-28,False
+598,Moment,Home,why,Kim and Sons,18064.03,3119.25,3.4,48,12,2025-12-20,True
+599,Point,Electronics,garden,Parrish LLC,40260.97,5107.98,4.2,445,297,2022-02-22,True
+600,Family,Beauty,impact,"Henry, Christian and Howe",14082.24,4503.54,2.7,293,130,2025-04-04,True
+601,Room,Sports,real,Davis-Sims,10693.11,29195.0,4.0,406,293,2023-04-15,True
+602,Young,Electronics,certainly,Marsh Group,47880.91,22802.85,4.7,149,173,2025-10-21,True
+603,Whom,Beauty,site,"Strickland, Gordon and Parker",641.39,29036.07,3.3,131,208,2022-01-26,False
+604,Probably,Clothing,learn,Miller-Parker,49891.48,13248.24,1.7,432,24,2022-04-02,True
+605,Effect,Beauty,pay,Garcia-Munoz,33905.7,8423.22,2.1,58,99,2025-05-26,True
+606,Let,Sports,read,"Lutz, Shelton and Molina",41457.77,23968.97,1.8,456,139,2025-07-07,True
+607,Institution,Beauty,staff,Farrell-Thomas,14872.05,9854.99,2.0,323,174,2022-04-24,False
+608,Skill,Home,writer,Molina and Sons,912.9,9051.56,2.2,198,29,2023-09-13,False
+609,During,Sports,crime,"Morgan, Rodriguez and Bridges",36945.9,7051.93,3.2,214,143,2024-02-24,False
+610,Beat,Clothing,deal,"Jennings, Crane and Roman",41740.4,3977.4,3.4,385,42,2025-03-15,True
+611,Image,Home,or,"Andrews, Frederick and Campbell",37075.71,7768.25,2.7,48,299,2024-11-28,True
+612,Both,Beauty,drop,"Brewer, Hoover and Lin",7313.94,10724.06,3.5,471,208,2024-02-05,True
+613,Ball,Sports,whole,Clark Ltd,37720.71,20252.43,1.3,231,192,2025-03-03,True
+614,Base,Clothing,they,"Pitts, Nichols and Hall",38492.35,1970.69,1.4,246,160,2022-04-21,True
+615,West,Home,available,Knight LLC,32995.32,6394.16,1.7,381,64,2025-08-19,False
+616,Arrive,Clothing,seek,Lowe-Murray,38352.57,24289.81,3.1,478,243,2023-04-06,True
+617,Care,Beauty,town,Snyder-Wong,42326.89,4492.97,1.9,238,258,2023-02-08,False
+618,Factor,Clothing,apply,"Martinez, Payne and Taylor",30757.48,10345.09,2.1,414,152,2025-01-06,True
+619,Administration,Electronics,attack,Jones Group,4612.51,25953.3,2.6,366,215,2025-10-12,False
+620,Now,Home,guess,Morris-Reynolds,24483.86,4732.27,4.2,167,166,2022-11-01,False
+621,Economy,Clothing,theory,Pacheco Group,4066.94,2573.83,1.1,47,31,2022-10-12,False
+622,Very,Beauty,along,Hunter Group,20495.64,14587.69,3.6,50,232,2022-06-15,False
+623,Room,Beauty,keep,"Miles, Mcgee and Mcclure",20473.9,9142.34,3.7,298,282,2025-06-28,True
+624,Building,Clothing,wait,Walsh-Bell,3487.29,16945.91,4.2,97,29,2023-02-04,True
+625,Reach,Beauty,control,Williams-Weiss,17571.26,24133.77,4.7,438,195,2025-08-25,True
+626,Real,Sports,us,"Garcia, Murray and Braun",5727.71,4200.74,1.1,215,256,2024-03-22,False
+627,Relationship,Sports,rich,Bell-Walton,40450.11,17462.9,1.6,176,281,2022-09-20,True
+628,Practice,Sports,hair,"Green, Thompson and Fleming",47394.86,15214.71,4.5,379,294,2023-01-26,True
+629,Voice,Electronics,practice,Maynard Ltd,3801.36,4407.96,2.8,473,87,2022-08-21,True
+630,Such,Clothing,international,"Chang, Daniels and Henderson",47764.74,18757.55,3.3,79,149,2023-03-12,True
+631,Seven,Electronics,create,Ramos-Baker,26224.31,8281.85,3.7,184,249,2023-06-30,False
+632,Crime,Beauty,energy,"Espinoza, Carson and Martinez",15118.37,14686.25,3.7,366,283,2024-11-20,False
+633,Recognize,Electronics,during,Knapp PLC,4027.73,2559.94,4.7,460,198,2025-09-30,True
+634,Mrs,Beauty,per,Bowen Group,25131.09,13841.56,5.0,398,44,2024-06-26,True
+635,Generation,Beauty,read,"Roberts, Blankenship and Martinez",39766.87,9263.26,3.9,26,28,2025-04-06,True
+636,Body,Home,whom,"Barron, Stephens and Padilla",35412.91,24689.2,2.1,451,17,2022-03-09,False
+637,Employee,Sports,as,Mendoza LLC,2701.26,1803.66,4.5,463,127,2022-12-30,False
+638,Into,Beauty,religious,Peterson-Robertson,3830.51,12616.36,1.2,447,168,2024-03-04,False
+639,Reach,Home,thought,Buckley-Wright,20263.09,13807.1,1.9,477,244,2024-12-21,True
+640,List,Sports,back,"Moore, Velasquez and Walker",14905.47,21777.68,4.6,491,76,2023-08-14,False
+641,Section,Beauty,staff,"Singleton, Rich and Mack",11772.74,17271.2,2.0,413,231,2022-05-09,False
+642,Miss,Beauty,season,"Miller, Anderson and Davis",14194.02,20049.65,1.9,419,204,2024-01-13,False
+643,Worker,Electronics,too,Fisher PLC,40213.44,23333.77,1.6,194,248,2024-08-17,False
+644,Concern,Electronics,doctor,"Patterson, Anderson and Graves",46475.56,25879.87,4.4,213,214,2025-01-25,False
+645,Yourself,Sports,letter,"Orr, Rice and Pacheco",20374.11,9484.88,3.0,368,215,2025-09-14,True
+646,Outside,Beauty,cause,Grant-Lane,45324.33,16186.88,3.7,341,158,2023-01-02,True
+647,Meet,Clothing,score,Sullivan-Thomas,16210.49,25219.23,2.0,113,69,2022-11-13,True
+648,Until,Electronics,military,Reyes-Powell,23926.56,29684.59,4.0,241,85,2022-11-01,True
+649,Partner,Sports,bar,Pham PLC,11456.24,26696.63,4.0,123,267,2022-07-22,False
+650,To,Beauty,hard,"Hicks, Jackson and Small",32095.71,11206.87,2.3,304,69,2025-04-24,True
+651,Support,Beauty,take,Cox-Weeks,48953.26,5935.48,2.6,75,99,2023-10-04,True
+652,Share,Clothing,east,Romero Group,30253.96,14732.84,1.8,310,216,2023-07-16,True
+653,Surface,Sports,daughter,Colon-Johnson,18019.14,22275.08,4.9,468,161,2025-06-27,False
+654,Lay,Beauty,citizen,Bautista Inc,32461.31,14827.82,3.6,311,94,2023-10-12,True
+655,Rest,Electronics,miss,"Conner, Wang and Walker",6321.45,14547.11,4.7,195,174,2023-09-17,False
+656,Inside,Clothing,yard,"Brown, Brennan and Curtis",44455.22,25163.09,2.2,350,165,2024-06-05,False
+657,Cup,Sports,also,"Harmon, Hernandez and Ward",25253.58,10905.97,4.1,43,115,2022-03-26,False
+658,Every,Clothing,list,"Rodriguez, Jackson and Newton",22577.62,25807.86,4.1,414,220,2022-09-23,True
+659,Fine,Electronics,according,Price-Williamson,29376.07,12263.46,3.8,185,31,2025-09-26,False
+660,Perform,Sports,lead,"Lloyd, Eaton and Mckinney",31314.24,9914.17,4.9,342,11,2023-01-03,True
+661,Police,Clothing,process,Lee PLC,3774.44,13674.3,2.6,245,130,2024-08-31,True
+662,Item,Home,walk,"Coffey, Burton and Conley",34194.34,22897.16,1.5,436,105,2022-10-27,True
+663,Attack,Electronics,crime,"Ryan, Castillo and White",12248.2,3867.46,3.7,83,27,2025-09-29,False
+664,Mission,Electronics,cover,Johnson-Benjamin,35754.84,5972.93,3.9,206,227,2025-07-03,False
+665,Forward,Electronics,offer,"Kennedy, Hines and Sims",41162.23,28548.2,3.3,150,2,2022-05-03,True
+666,Food,Home,bank,Williams-Sullivan,40237.13,5347.2,1.8,155,101,2022-09-04,False
+667,If,Home,peace,"Holmes, Pearson and Sanchez",27714.55,17075.05,3.0,15,21,2025-07-06,False
+668,Own,Beauty,fire,Bradley and Sons,26104.46,17421.5,2.2,164,58,2022-06-23,False
+669,For,Clothing,ability,"Merritt, Durham and Spears",7315.22,14739.77,2.7,404,180,2023-08-12,True
+670,Specific,Beauty,choice,Friedman-Giles,38812.24,19377.88,3.6,462,20,2022-06-18,False
+671,Attack,Clothing,still,Arnold and Sons,13716.19,6971.82,4.0,144,255,2024-03-10,False
+672,Operation,Home,education,"Hughes, Walker and Rogers",24935.43,16624.6,1.9,497,38,2023-12-08,True
+673,Traditional,Home,window,Murillo-Salas,14356.85,11227.98,2.6,36,148,2023-02-27,False
+674,Expert,Beauty,maintain,Silva-Robertson,6864.65,19883.85,2.1,332,25,2024-07-18,True
+675,Friend,Sports,simply,Campbell Ltd,31551.97,4322.58,1.8,402,121,2024-07-01,False
+676,Accept,Beauty,exactly,"Nash, Spencer and Osborne",2905.74,17169.23,4.1,413,26,2022-04-02,False
+677,Range,Clothing,cost,"Nelson, Adkins and Mayer",37482.53,5639.58,4.6,44,169,2024-11-10,False
+678,Pass,Beauty,threat,Vaughn-Fleming,16015.82,8431.43,2.5,401,225,2022-01-09,False
+679,Leader,Electronics,soon,May-Frazier,206.71,6639.42,4.0,205,1,2023-11-15,False
+680,Fly,Clothing,energy,Henry Ltd,25654.23,5566.85,4.6,61,261,2023-11-19,False
+681,Front,Clothing,almost,Odonnell-Summers,2533.23,24788.76,4.4,419,13,2024-06-07,True
+682,Trip,Sports,better,"Walters, Russell and Taylor",13953.24,8642.66,1.7,355,48,2024-10-20,False
+683,Risk,Home,free,Berger PLC,35407.43,27821.0,4.8,467,291,2024-05-31,False
+684,Statement,Clothing,ever,"Holt, Smith and Edwards",3321.94,29100.8,2.5,307,94,2023-10-25,False
+685,Really,Home,could,"Peters, Tyler and Orr",41999.06,17180.69,2.4,18,261,2023-07-17,True
+686,Author,Beauty,leader,"Bell, Osborne and Chase",390.23,4375.73,1.2,364,278,2022-07-20,True
+687,History,Electronics,store,Cooper-Reyes,12491.83,11298.99,2.9,299,205,2024-03-17,True
+688,Technology,Sports,upon,Ramirez Inc,37097.02,23952.19,1.4,6,185,2023-11-25,False
+689,Represent,Home,blue,"Davidson, Wright and Carr",15950.25,11084.98,2.0,248,175,2025-06-10,False
+690,Yard,Clothing,provide,"Peterson, Coleman and Norman",5274.24,2701.81,2.3,427,69,2022-12-17,True
+691,Standard,Home,office,Barnes-Smith,18139.65,16747.87,4.2,116,104,2024-11-04,True
+692,Do,Clothing,action,"Moore, Lawrence and Watts",13665.59,25369.11,4.5,67,246,2025-10-15,True
+693,We,Home,toward,Hogan-Whitehead,42167.05,23898.2,2.2,33,161,2022-03-29,False
+694,As,Clothing,food,"Gray, Wolf and Baker",15804.73,5336.18,4.4,193,200,2025-01-22,True
+695,Listen,Beauty,actually,Adams-Banks,39488.84,20215.66,4.4,324,216,2022-08-02,False
+696,Source,Clothing,western,Robertson LLC,44615.23,6693.08,4.1,54,212,2023-06-21,False
+697,Me,Clothing,all,Francis Inc,21804.11,6624.41,1.6,265,16,2024-08-28,False
+698,Certainly,Electronics,himself,Miller Group,45515.17,26234.75,3.8,479,205,2025-02-12,True
+699,Need,Clothing,network,Webb Ltd,18990.44,7565.1,4.8,41,39,2025-08-24,False
+700,Product,Electronics,evidence,Hart Ltd,48211.11,7971.1,3.7,296,89,2023-11-08,True
+701,Assume,Sports,himself,"Morales, Bryant and Brown",4646.62,119.54,2.3,460,256,2022-04-08,True
+702,Production,Electronics,song,Travis-Griffin,34413.56,26133.0,3.0,230,254,2024-10-22,True
+703,Church,Beauty,few,Smith PLC,24791.94,23798.58,3.6,452,216,2025-04-11,True
+704,Learn,Electronics,ahead,Buchanan and Sons,19504.91,18857.14,3.0,377,172,2022-10-06,False
+705,Such,Sports,as,Martin and Sons,31709.05,22532.95,1.5,393,137,2023-06-11,False
+706,Whatever,Beauty,sort,"Kerr, Johnson and Payne",35252.08,4646.25,2.2,9,178,2022-09-19,False
+707,Season,Home,receive,Hernandez Ltd,417.29,13803.88,4.2,357,77,2022-03-09,False
+708,Onto,Home,range,"Perry, Valdez and Holt",8514.26,10601.46,4.4,474,188,2024-01-03,True
+709,Like,Electronics,face,Flynn-Livingston,35709.69,2903.92,1.5,443,15,2023-10-16,True
+710,Child,Electronics,high,Lopez Group,33385.99,14635.3,4.8,127,292,2024-06-08,True
+711,Leave,Sports,someone,Rivera-Richardson,48309.17,27630.12,2.3,178,214,2022-03-28,True
+712,Spring,Sports,build,Washington and Sons,38099.68,1297.77,3.6,404,208,2023-04-29,False
+713,Father,Clothing,pretty,Walters Ltd,47548.48,8814.68,4.0,391,169,2024-11-06,True
+714,Our,Sports,run,Peters Inc,35186.52,6305.47,4.2,192,280,2022-10-11,False
+715,Actually,Clothing,human,"Brooks, Sanchez and Holt",15043.0,7220.58,4.8,91,146,2024-10-07,True
+716,Recognize,Beauty,behavior,Green-Burch,5447.17,27262.19,2.3,368,263,2023-10-08,True
+717,Second,Electronics,pull,Lee Inc,39134.83,14095.26,4.4,230,4,2023-09-20,True
+718,Behind,Beauty,family,Koch PLC,32278.63,14042.35,1.5,77,90,2024-10-19,True
+719,Physical,Sports,use,Miller PLC,2599.66,22841.21,3.8,84,60,2025-04-17,False
+720,Bill,Beauty,design,"Armstrong, Green and Fleming",18130.51,4719.32,4.0,29,16,2022-12-03,False
+721,Seven,Beauty,environment,"Mills, King and Phillips",47848.63,14669.23,3.7,212,227,2023-09-08,False
+722,Business,Beauty,there,Robinson Inc,25119.98,12956.56,2.0,48,29,2022-04-28,False
+723,Agree,Sports,born,Hernandez-Benton,21749.91,17947.63,4.5,264,151,2024-01-01,True
+724,Blood,Beauty,exist,Stanley and Sons,22993.44,29986.78,1.7,144,245,2022-05-13,True
+725,Involve,Clothing,night,Franklin PLC,10602.36,23106.52,1.2,68,270,2025-03-12,False
+726,Which,Sports,late,"Jackson, Fitzgerald and Gallagher",18561.62,11996.18,3.9,57,79,2022-12-19,False
+727,Town,Beauty,medical,Henry-Mejia,18616.7,24843.84,2.9,184,289,2025-02-08,True
+728,Family,Sports,outside,"Smith, Mccarty and Kelley",2807.28,5204.18,4.4,61,153,2023-11-19,True
+729,Apply,Home,despite,"Whitehead, Dickerson and Baker",38424.87,1010.86,2.5,478,277,2024-07-28,False
+730,Way,Clothing,deep,"Mcdonald, Gilbert and Brooks",20941.92,6213.01,1.7,307,279,2023-11-06,False
+731,Its,Beauty,better,Johnston PLC,41144.56,10278.31,4.3,444,57,2025-07-13,False
+732,Environmental,Home,occur,"Torres, Powell and Lamb",42547.33,15366.36,3.2,295,186,2025-02-02,True
+733,Science,Home,laugh,Brown-Bailey,10757.3,18492.36,1.8,165,93,2022-12-23,False
+734,Community,Sports,pressure,Campos PLC,32936.2,27327.11,3.9,170,276,2024-08-23,False
+735,Against,Home,win,Jacobson Inc,23719.63,15344.63,3.0,62,158,2023-01-19,False
+736,Truth,Clothing,middle,Shepherd PLC,44031.81,15088.14,3.4,146,275,2025-12-10,False
+737,Stay,Clothing,bank,"Hill, Ballard and Horton",10943.89,1602.27,2.8,483,181,2022-02-13,False
+738,To,Electronics,give,Anderson Inc,33955.1,1143.86,4.3,305,77,2023-09-13,True
+739,Situation,Clothing,public,Wilson PLC,30466.06,16579.68,4.3,160,151,2022-08-23,False
+740,Sell,Home,key,"Green, Miller and Rush",14906.01,13201.54,3.8,140,238,2023-07-13,True
+741,Kind,Clothing,explain,"Diaz, Thomas and Reed",7002.73,25191.49,1.4,333,289,2025-05-11,False
+742,Team,Sports,rise,Arnold-Davis,32651.66,4904.32,4.4,96,231,2022-03-28,False
+743,Open,Electronics,not,"Lopez, Arellano and Stevenson",36982.15,846.65,3.7,445,18,2024-02-02,False
+744,Animal,Home,her,Johnson-Barnes,15918.24,13526.26,3.8,220,73,2022-12-20,True
+745,Probably,Electronics,family,"Summers, Li and Richards",32312.66,7200.61,2.5,42,189,2023-04-10,True
+746,Find,Home,learn,Gallagher-Miller,19877.52,1583.47,4.5,432,17,2024-12-20,True
+747,Lot,Sports,education,Bautista-Torres,35717.7,21765.49,3.9,291,19,2021-12-28,False
+748,Industry,Electronics,bad,"Hill, Hammond and Hayes",10120.92,3436.63,1.5,377,219,2024-04-21,False
+749,Outside,Beauty,half,"Edwards, Hammond and Brown",44532.71,18288.75,2.6,107,120,2025-07-26,True
+750,Lead,Home,consumer,Lucas-Fisher,14513.0,8503.39,4.5,265,101,2022-04-26,True
+751,Year,Beauty,than,Sanchez-Hardy,18515.74,5287.53,1.2,94,34,2023-01-14,False
+752,However,Electronics,water,"Cox, Perez and Cook",3092.98,11454.57,4.8,261,84,2025-05-16,True
+753,Trip,Beauty,eat,Humphrey-Anderson,5753.31,24063.23,3.7,312,196,2024-10-03,False
+754,Scientist,Beauty,gun,"Nguyen, Rosario and Davis",25889.92,11823.6,3.5,384,202,2025-01-15,True
+755,Question,Electronics,ever,"Fisher, Howard and Hall",13526.12,22548.01,2.1,70,11,2022-06-04,True
+756,Begin,Sports,ever,"Kelley, Harding and Ford",41806.92,3852.04,2.0,441,218,2025-03-09,True
+757,Professor,Beauty,government,White-Diaz,931.73,23205.87,4.8,218,253,2025-01-10,False
+758,Site,Beauty,argue,Kennedy-Murray,19078.88,7184.31,2.2,20,222,2023-04-30,False
+759,Film,Sports,bad,Martin Group,16999.81,20354.05,4.1,91,80,2025-04-03,True
+760,Tonight,Beauty,sell,"Powers, Ramos and Becker",1162.52,17016.87,2.6,126,7,2022-05-12,False
+761,Follow,Beauty,table,Bryant-Todd,6393.55,27881.43,1.6,79,272,2023-03-14,False
+762,Property,Beauty,until,"Ortiz, Fields and West",20799.41,11680.94,1.0,311,227,2024-10-05,False
+763,Company,Clothing,character,Perez-Torres,24744.66,2078.34,3.2,237,16,2024-12-09,False
+764,Point,Sports,state,Mendoza Ltd,20333.63,672.75,4.9,470,12,2025-03-07,True
+765,Education,Beauty,available,"Page, Bradshaw and Zimmerman",26640.7,24823.07,2.5,371,291,2022-12-27,False
+766,News,Sports,music,Davis Inc,29837.56,15789.6,2.4,403,241,2024-05-24,False
+767,In,Home,reflect,Jones Inc,694.21,23279.8,2.4,485,21,2023-08-12,True
+768,Suggest,Home,your,Sherman Group,23311.94,7109.33,3.1,181,178,2024-03-23,False
+769,Issue,Beauty,rise,Chavez-Kim,48182.26,10418.0,2.8,24,228,2022-03-20,False
+770,Full,Sports,media,Hood-Smith,26047.81,1000.11,4.5,155,273,2022-02-14,False
+771,Test,Sports,garden,"Castillo, Chan and Trujillo",33941.6,28848.62,3.0,4,288,2024-09-24,True
+772,Maintain,Sports,foot,Allison-Walters,15730.82,20069.25,3.0,119,297,2022-09-30,True
+773,Notice,Clothing,official,Shelton-Chan,38744.77,28002.83,1.6,276,134,2022-01-01,False
+774,Agreement,Home,rule,Armstrong-Mckee,38691.49,8038.34,4.9,17,283,2022-04-07,False
+775,Short,Sports,world,Willis Inc,26160.54,18382.76,2.0,430,153,2025-04-17,True
+776,North,Sports,race,Hebert Group,48805.49,20387.15,1.3,197,66,2024-05-12,True
+777,My,Clothing,again,Cole-Campbell,6452.4,9594.74,3.7,56,137,2022-02-25,True
+778,Town,Clothing,ability,"Mcclain, Taylor and Berg",1043.99,25458.47,3.4,92,92,2024-03-28,False
+779,Score,Sports,strategy,Mcintyre Group,38553.88,28420.13,2.7,18,259,2024-07-31,False
+780,This,Electronics,garden,Hall-Ferguson,40396.35,26557.17,2.7,383,103,2025-10-12,True
+781,Rule,Sports,million,Mccullough-Hernandez,6186.32,22198.1,4.1,352,55,2025-05-13,False
+782,Republican,Sports,big,"Knight, Mathews and Smith",13426.03,8396.19,1.8,192,257,2025-07-09,False
+783,Fire,Clothing,name,Anderson-Martinez,1074.11,8520.32,4.3,236,101,2024-06-04,False
+784,Born,Clothing,of,Kent PLC,14806.77,28904.47,3.6,386,198,2022-05-29,False
+785,East,Sports,country,"Singh, Li and Calderon",38702.47,407.51,2.7,425,226,2025-07-24,False
+786,Rate,Sports,international,Flores Inc,25994.43,21509.89,2.8,276,237,2025-07-14,False
+787,Actually,Sports,parent,Preston LLC,17535.16,21216.76,2.0,226,26,2024-07-21,False
+788,Two,Clothing,teach,"Bennett, Davis and Johnson",18712.62,18718.42,4.0,232,121,2024-09-25,True
+789,Drop,Sports,sit,Morales-Booth,267.41,29704.25,3.1,39,182,2023-01-15,True
+790,Reduce,Sports,thus,"Martinez, Strong and Mills",15130.07,9425.2,2.3,322,199,2022-09-26,True
+791,Become,Beauty,especially,Hernandez LLC,32393.65,10265.16,3.4,152,255,2022-01-05,True
+792,Once,Electronics,probably,"Alvarez, Peck and King",48714.88,2460.29,5.0,126,122,2023-09-03,True
+793,Interesting,Home,ok,"Weber, Nichols and Kelly",42383.63,13339.66,2.7,236,31,2025-10-12,True
+794,Series,Electronics,toward,"Keller, Figueroa and Wheeler",1375.03,7905.35,4.7,485,285,2025-03-25,True
+795,Theory,Beauty,learn,Bryant Inc,44948.32,10367.26,2.4,492,106,2024-05-28,True
+796,Name,Home,commercial,"Blair, Miller and King",39203.28,25053.7,1.2,54,224,2022-07-21,True
+797,Or,Sports,party,Woods-Brown,39062.73,28070.99,1.8,467,273,2022-09-03,False
+798,He,Beauty,life,Day PLC,23008.19,5653.42,2.7,435,232,2023-06-15,False
+799,Entire,Sports,partner,"Lindsey, Miller and Harrell",20020.66,11238.02,1.9,171,256,2024-07-09,True
+800,Manage,Clothing,thing,Myers PLC,15285.2,27866.05,1.0,108,24,2023-01-07,False
+801,Attention,Beauty,shake,Randolph LLC,3471.6,1948.07,4.7,353,109,2022-02-22,False
+802,Study,Clothing,eye,Ruiz-Flores,11566.12,2861.58,4.4,468,191,2023-09-23,True
+803,Lead,Beauty,onto,Wolfe Ltd,12480.86,4967.45,4.0,183,25,2023-01-22,True
+804,Magazine,Beauty,left,"Butler, Campbell and Freeman",24307.04,17896.86,1.7,438,187,2022-10-28,True
+805,Already,Clothing,hundred,Evans Group,37422.73,4599.12,1.5,367,288,2023-01-09,False
+806,Yourself,Home,half,"Foley, Gonzalez and Henderson",23795.73,29045.48,1.3,470,116,2024-02-11,False
+807,Clear,Electronics,simple,"Byrd, Osborne and Hawkins",3080.65,13456.76,3.9,197,37,2023-09-13,True
+808,Dog,Sports,organization,"Miller, Reed and Hendricks",47897.93,15095.39,4.7,370,282,2022-10-04,False
+809,Generation,Beauty,ready,Rivera Group,47147.67,7475.09,2.7,372,137,2022-10-28,False
+810,Table,Sports,time,King-Gonzalez,39302.44,14181.71,1.5,460,227,2024-02-14,False
+811,Make,Clothing,treatment,"Hamilton, Austin and Brown",49568.13,19891.22,3.0,496,182,2024-02-25,True
+812,Effort,Sports,rise,"Erickson, Diaz and Martin",27315.22,22560.2,2.4,86,86,2023-01-29,False
+813,Character,Clothing,indicate,Norris-Goodman,48145.86,22640.66,2.5,200,53,2023-05-17,False
+814,Drop,Sports,knowledge,Cook and Sons,3965.13,17378.94,3.5,336,235,2023-06-25,False
+815,Matter,Electronics,data,"Best, Hart and Martin",18410.9,27140.36,3.9,321,267,2024-03-03,False
+816,During,Electronics,second,"Green, Berry and Carter",11423.99,24540.49,1.4,274,287,2025-10-11,False
+817,Option,Electronics,office,Davis-Wallace,9952.49,22735.74,1.1,210,100,2024-07-04,False
+818,Sing,Electronics,very,"Morris, Meyer and Jennings",7211.99,1762.61,5.0,390,87,2025-06-24,False
+819,Sell,Electronics,boy,Allen and Sons,31196.2,305.65,1.9,117,15,2025-01-11,True
+820,But,Electronics,concern,Gibson-Wilson,39109.83,6452.17,1.2,190,101,2022-06-12,True
+821,Out,Clothing,number,Maldonado Ltd,28999.26,19939.36,1.8,41,165,2023-12-20,False
+822,Small,Beauty,guess,Gallagher-Williams,7518.74,12394.8,1.2,41,29,2023-07-03,True
+823,Ball,Sports,seven,Odonnell Ltd,40593.96,12131.95,2.6,314,114,2025-09-14,False
+824,One,Electronics,avoid,"Howell, Harding and Crane",31870.54,26549.15,4.2,275,107,2024-08-11,False
+825,Study,Clothing,want,"Wyatt, Jones and Young",19530.65,26877.33,2.4,328,130,2024-11-16,False
+826,Same,Clothing,then,Ellis Group,33771.69,27284.34,2.8,16,84,2023-10-22,True
+827,Medical,Clothing,send,"Odom, Williams and Hernandez",13143.27,9484.95,3.7,282,271,2022-11-23,False
+828,Several,Beauty,pass,Rivas Ltd,17390.57,20762.57,3.0,430,244,2023-08-27,False
+829,Risk,Sports,likely,"Hurley, Jackson and Thomas",45890.79,8221.83,4.4,257,214,2024-04-19,True
+830,Memory,Beauty,item,Padilla-Booth,14667.12,5799.23,4.5,62,166,2025-01-16,True
+831,Trial,Home,structure,Smith LLC,23605.42,5620.51,1.0,61,279,2024-03-31,False
+832,Blood,Clothing,industry,Smith Ltd,44529.03,10329.02,4.1,99,59,2022-05-17,True
+833,Might,Home,expect,"Black, Berry and Newman",35444.52,12955.73,2.8,18,90,2022-03-23,True
+834,Type,Electronics,account,Lee-Lee,3297.72,24945.38,5.0,16,194,2025-03-16,False
+835,Particular,Electronics,require,"West, Simpson and Lawrence",7535.69,3684.74,2.9,324,123,2023-01-20,False
+836,Direction,Beauty,onto,"Miller, Guerrero and Malone",590.51,22074.28,4.9,422,136,2025-09-04,False
+837,Physical,Sports,bill,"Fuller, Price and Sandoval",31619.91,15990.5,4.0,465,139,2025-03-15,True
+838,Quality,Home,other,Wilson PLC,22494.14,8709.57,2.0,372,229,2022-11-26,True
+839,Party,Sports,treat,Fry-Savage,6886.89,14835.31,3.2,245,274,2025-09-18,True
+840,Happen,Beauty,tax,"Clayton, Hall and Wagner",47905.12,9068.27,5.0,250,50,2023-09-08,False
+841,Still,Electronics,free,Brown LLC,26577.05,17922.85,4.4,454,118,2022-05-22,True
+842,Thing,Sports,avoid,Robinson-Stanley,12246.29,13071.93,1.4,80,202,2025-10-10,True
+843,Admit,Sports,town,"Long, Juarez and Dickerson",25130.06,5015.73,3.8,38,191,2023-04-03,False
+844,Carry,Electronics,perform,Harrison Inc,34045.09,3585.83,2.4,35,181,2022-06-07,False
+845,Any,Home,time,Green-Booker,3996.71,16446.2,1.0,423,78,2023-02-09,False
+846,Eat,Electronics,century,Williams-Doyle,13880.25,27082.15,2.6,428,75,2022-08-10,True
+847,Memory,Sports,read,Crosby and Sons,40386.88,10384.33,1.9,387,295,2022-04-12,False
+848,Person,Home,organization,French and Sons,23091.31,22016.7,4.3,485,281,2025-01-27,True
+849,Control,Home,degree,Padilla-Allen,27419.54,19793.97,2.3,408,21,2024-10-10,True
+850,Down,Electronics,drug,Ingram-Dunn,21754.24,27953.49,4.3,196,171,2025-09-05,False
+851,Around,Sports,people,"Thomas, Bray and Yates",2386.22,24647.33,1.0,157,15,2023-02-18,False
+852,Never,Beauty,everyone,"Gomez, Young and Gaines",8454.34,17041.5,2.2,203,211,2022-05-28,False
+853,Data,Sports,difference,"Ramirez, Garcia and Franklin",22387.97,19745.21,2.0,195,48,2023-05-30,False
+854,American,Clothing,man,Horn Ltd,10617.44,26961.76,1.9,215,86,2025-07-12,False
+855,Person,Beauty,there,Buchanan-Collins,2688.96,12045.61,1.3,284,149,2025-01-09,True
+856,Apply,Home,hot,"Wolf, Wright and Reynolds",42213.75,9871.16,1.7,456,188,2023-12-25,True
+857,Some,Beauty,may,Tran Ltd,49063.39,423.25,3.2,195,151,2022-08-08,True
+858,Most,Home,on,Garcia LLC,39698.52,24813.88,2.2,306,141,2022-01-27,False
+859,Back,Home,pressure,Norris Inc,42718.49,24049.32,2.7,151,69,2023-09-06,True
+860,Note,Beauty,above,Obrien LLC,12250.46,3223.19,2.5,13,260,2022-01-08,False
+861,Mr,Home,really,Holland-Patton,48039.22,17348.04,4.5,324,9,2023-12-31,False
+862,Avoid,Home,may,Kim Ltd,10006.9,13973.05,4.6,145,121,2022-02-07,True
+863,Case,Clothing,our,Garcia Ltd,47581.2,3649.4,3.0,425,101,2025-02-17,True
+864,Audience,Sports,red,Johnson Inc,49742.0,29418.99,2.3,56,149,2024-12-23,False
+865,Understand,Sports,easy,"Brown, Ortiz and Walker",35643.8,6519.41,1.4,210,146,2023-09-09,True
+866,Anything,Clothing,purpose,Valdez and Sons,49060.96,2110.3,4.8,267,243,2025-11-28,False
+867,Ball,Beauty,my,Garrett-Hicks,28563.08,17885.94,1.2,209,241,2024-12-09,True
+868,Oil,Electronics,hope,Case Ltd,13125.18,22192.11,2.2,16,43,2025-07-25,True
+869,Through,Electronics,these,Velasquez Group,21962.4,1070.06,2.2,285,95,2022-12-30,True
+870,Tv,Electronics,much,"Skinner, Klein and Knight",29759.33,19795.66,2.3,343,226,2024-09-24,True
+871,Way,Clothing,similar,Hunt-Collins,3839.46,16015.53,1.7,202,6,2025-02-14,True
+872,Wait,Clothing,value,Williams PLC,31192.69,3187.62,4.1,98,214,2024-06-02,False
+873,World,Home,fly,Wilson Ltd,49062.66,5258.46,1.5,278,206,2024-03-11,True
+874,Lot,Electronics,under,"Roman, Rodriguez and Hall",9667.36,17082.43,3.5,208,67,2024-08-26,True
+875,Executive,Beauty,power,Best Ltd,39671.24,8961.09,1.5,128,100,2024-11-29,True
+876,Production,Beauty,run,Rivera-Cisneros,45413.36,28155.64,1.3,334,12,2025-01-17,False
+877,Station,Electronics,picture,Callahan-Miles,47196.34,24580.33,4.6,287,237,2024-03-16,False
+878,Amount,Electronics,yard,Diaz-Daniels,48014.75,29508.66,1.8,251,258,2025-05-08,False
+879,Own,Electronics,rather,Martinez-Jefferson,26168.69,7864.16,4.3,264,135,2023-04-01,False
+880,Floor,Clothing,around,Thompson-Gallagher,48869.93,29094.74,3.2,270,222,2024-06-08,False
+881,Professional,Clothing,ask,Hart Group,37914.05,12993.89,1.3,411,156,2025-02-27,True
+882,Financial,Clothing,word,Anderson LLC,8251.24,10490.81,4.8,407,142,2025-12-09,True
+883,Hand,Sports,power,Jones Ltd,23949.63,1605.45,2.0,187,158,2024-05-01,True
+884,Middle,Beauty,season,"Stephenson, Lee and Williams",35972.89,1677.68,4.4,418,262,2022-10-04,False
+885,Even,Beauty,piece,White LLC,12517.55,20791.14,1.7,213,283,2021-12-26,False
+886,Four,Home,training,Rodriguez-Bishop,32102.64,13792.08,4.4,282,229,2025-01-25,True
+887,Send,Clothing,send,Gentry-Bradley,33396.7,6873.0,1.1,210,280,2024-07-28,False
+888,Anything,Sports,figure,"Wagner, Simmons and Fisher",8302.45,18457.71,3.0,364,290,2022-01-28,False
+889,Under,Sports,present,Lopez Group,28341.25,7660.46,4.1,75,168,2022-03-11,False
+890,Leg,Beauty,begin,Alexander-Johnson,38627.02,17371.19,4.7,147,47,2025-04-18,True
+891,Here,Clothing,he,Robinson-Clark,25045.0,10840.34,4.6,320,203,2024-10-01,True
+892,Debate,Home,their,Collins and Sons,802.74,24724.21,4.3,212,214,2023-12-06,False
+893,Song,Clothing,could,Lucas PLC,650.12,24638.82,4.6,432,246,2022-03-16,False
+894,Data,Electronics,very,"Andrews, Cook and Guerrero",17980.06,14372.78,1.8,108,24,2024-06-16,False
+895,Firm,Clothing,shoulder,"Pham, Thompson and Hamilton",46324.46,10589.49,2.1,128,274,2022-11-10,False
+896,Someone,Electronics,during,Jennings Ltd,11588.1,10940.54,2.2,9,44,2022-04-10,True
+897,Include,Electronics,should,Ford-Owens,31791.31,24190.86,2.5,46,156,2022-03-11,False
+898,Court,Home,sport,James-Johnston,11259.38,9912.57,2.6,378,199,2022-11-27,True
+899,Real,Beauty,early,Gregory and Sons,16219.17,6350.88,3.2,314,162,2023-12-05,True
+900,Bring,Clothing,college,White-Reed,42432.5,2632.18,1.6,95,234,2024-12-19,True
+901,Say,Electronics,early,"Garcia, Davis and Crawford",36497.3,14054.12,3.8,445,163,2023-03-19,False
+902,Partner,Clothing,any,Clark Inc,4950.88,14515.75,1.7,102,116,2023-03-02,True
+903,Speech,Beauty,despite,"Ewing, Beck and Perez",21549.36,25243.17,2.2,379,93,2025-11-12,True
+904,Not,Beauty,understand,Schaefer-Hudson,1652.65,6715.04,3.0,341,42,2025-07-21,False
+905,Author,Sports,environment,Waters Inc,24148.33,11491.64,4.2,145,284,2025-10-11,False
+906,Thing,Beauty,agent,Perkins-Horton,33189.21,24271.33,4.0,367,210,2023-10-21,False
+907,Art,Home,control,Sullivan PLC,6101.43,24726.35,3.6,429,206,2022-09-09,True
+908,Government,Electronics,large,Holmes-Foster,14586.47,11599.87,1.6,415,220,2022-10-26,False
+909,Responsibility,Sports,civil,Davis and Sons,20012.26,13827.81,3.2,26,280,2023-10-10,True
+910,After,Home,Mrs,Torres-Saunders,45992.65,9168.25,1.3,219,136,2023-12-21,True
+911,Meeting,Clothing,moment,"Walker, Hardy and Allison",49664.1,27983.39,2.5,17,106,2024-12-13,False
+912,Central,Electronics,factor,Zavala Ltd,2436.58,3647.45,2.7,166,118,2023-04-06,True
+913,Visit,Beauty,including,"Mejia, Lamb and Fowler",38098.19,28019.11,1.2,432,237,2023-07-12,True
+914,Series,Electronics,degree,Mercado PLC,18711.86,20547.61,2.1,476,100,2023-08-15,True
+915,Bring,Clothing,seek,Johnson-Mccoy,19744.42,15994.01,4.8,81,261,2023-03-11,True
+916,Same,Sports,as,Brock-Mendoza,37762.4,1076.51,4.8,427,286,2024-07-06,False
+917,Involve,Sports,pattern,Wood PLC,45937.64,14320.33,2.4,71,103,2024-11-06,True
+918,Accept,Sports,hold,Watson LLC,47556.24,12291.67,1.2,309,63,2025-03-09,False
+919,Early,Beauty,collection,"Williams, Sandoval and Chapman",28940.7,4920.44,1.7,478,175,2023-03-03,True
+920,Design,Home,form,Coleman Ltd,17984.63,19726.65,2.6,253,282,2025-09-18,True
+921,Affect,Home,similar,"Taylor, Webster and Richardson",39419.94,29137.41,4.8,161,293,2025-02-05,False
+922,Through,Electronics,conference,"Morgan, Reed and Cantu",12699.87,16909.45,1.6,326,226,2025-01-28,True
+923,Smile,Beauty,economy,Shah PLC,28290.89,21471.12,4.1,419,7,2023-02-03,True
+924,Right,Sports,activity,"Lin, Hernandez and Castillo",18057.21,2146.67,1.4,401,127,2024-11-26,True
+925,Reach,Sports,not,Alvarado-Jordan,32900.23,12588.24,4.9,37,92,2025-11-22,True
+926,Voice,Clothing,it,Smith PLC,12171.87,3579.12,2.5,442,190,2022-03-15,True
+927,School,Clothing,southern,Key-Aguilar,9741.33,18422.6,4.1,392,53,2023-10-25,True
+928,Upon,Sports,century,"Bates, Trujillo and Strong",45928.31,28160.62,2.4,200,242,2025-05-22,False
+929,Even,Sports,official,"Pratt, Burns and Hoffman",5269.82,19887.15,3.5,493,132,2022-07-17,False
+930,Half,Beauty,example,"Huff, Lucas and Guzman",25396.7,2396.41,1.8,199,112,2023-04-08,False
+931,Pattern,Home,guess,"White, Davis and James",11198.47,10704.52,1.6,254,7,2025-08-23,True
+932,Author,Clothing,provide,Mclaughlin-Schmidt,2138.71,16564.84,4.8,178,230,2022-06-22,True
+933,Store,Home,though,"Ward, Ashley and Harris",1993.74,12155.91,4.7,34,156,2023-06-02,True
+934,Enjoy,Beauty,show,"Perez, Bell and Hanna",8926.04,25025.96,4.5,81,197,2025-11-12,False
+935,Bank,Sports,under,"Clark, Welch and Pearson",43365.16,24458.66,3.5,388,223,2023-03-14,True
+936,Example,Home,night,Kelly-Black,14267.44,18393.75,4.2,397,250,2023-12-10,False
+937,Risk,Sports,election,Douglas Group,47532.87,11266.39,1.3,219,83,2025-08-14,True
+938,Three,Sports,position,Thompson-Collins,29164.79,7734.56,2.3,157,240,2022-01-09,True
+939,Soldier,Electronics,speak,"Morris, Wallace and Fischer",21943.39,3265.64,2.3,3,263,2022-04-08,True
+940,Through,Home,knowledge,Clark-Brown,29088.42,10711.44,3.5,166,189,2024-06-09,False
+941,History,Home,exactly,Munoz-Carter,25931.58,12453.86,2.4,467,290,2024-12-18,True
+942,Response,Sports,in,Wolf-Burgess,37987.06,20307.11,1.6,447,58,2024-04-22,False
+943,Which,Beauty,claim,"Boyd, Hartman and Franklin",14268.3,19778.98,3.4,408,9,2024-07-05,True
+944,Sport,Electronics,coach,Wheeler-Gates,17781.91,2196.23,4.3,411,115,2023-06-20,True
+945,Level,Sports,they,Orozco-Marshall,44725.9,11918.25,2.5,203,210,2025-10-30,False
+946,Sea,Clothing,law,Parker-Michael,47333.53,5535.19,1.5,193,41,2025-03-29,True
+947,Consider,Clothing,several,"Aguilar, Evans and Tran",44649.4,4788.7,1.8,234,173,2024-11-27,True
+948,Try,Electronics,above,Hull-Potts,21088.51,24836.33,1.9,205,234,2024-05-03,True
+949,Future,Beauty,enough,"Jennings, Cooper and Martinez",39062.2,1353.26,2.2,149,281,2022-11-03,True
+950,Easy,Sports,control,Mata Ltd,23921.52,12633.57,3.6,158,78,2023-05-24,False
+951,Letter,Home,act,"Reynolds, Hoffman and Reyes",24977.48,5129.29,3.4,278,108,2025-01-23,False
+952,Be,Electronics,serve,Carrillo Inc,10393.07,26391.97,3.8,303,281,2022-04-24,True
+953,Article,Beauty,administration,Shields Group,29638.29,16755.51,2.5,403,39,2024-06-07,True
+954,Matter,Home,water,"Weaver, Chandler and Keith",9469.57,7018.28,4.3,380,119,2024-12-28,False
+955,Detail,Clothing,goal,"Nguyen, Salas and Allen",16711.92,15122.58,1.8,165,27,2025-01-03,True
+956,Live,Clothing,town,"Rivers, Scott and Collier",42780.5,21971.44,2.9,310,104,2022-05-30,False
+957,Truth,Home,happen,Martinez-Chan,10512.38,28747.73,4.2,67,74,2024-02-03,True
+958,Relationship,Electronics,everyone,"Horton, Mitchell and Romero",3743.68,6691.34,1.7,462,191,2025-11-11,False
+959,Alone,Clothing,seat,Sparks Ltd,3636.58,26596.83,1.4,87,147,2022-06-13,False
+960,At,Sports,large,"Horn, Smith and Collins",47051.07,28035.69,4.5,216,255,2024-09-14,False
+961,Group,Home,agency,"Snyder, Mccarty and Williamson",25444.64,27500.97,2.4,0,284,2023-03-19,False
+962,Possible,Home,house,Hall-Moore,20588.72,19098.89,3.7,134,213,2024-03-06,True
+963,At,Clothing,many,Barr-Smith,40581.75,18931.64,1.1,184,123,2023-06-17,True
+964,Spend,Electronics,need,"Greene, Dunn and Stanley",41824.13,12156.0,3.8,350,206,2025-02-18,False
+965,Brother,Sports,radio,"Reese, Mayer and Stokes",16743.11,22596.7,2.3,139,240,2025-05-05,False
+966,Shake,Electronics,first,"Douglas, Mccarty and Barber",34742.18,15985.69,1.2,105,286,2022-11-23,False
+967,Politics,Beauty,space,Howard Ltd,38601.92,20355.4,3.4,132,22,2022-01-14,False
+968,Candidate,Beauty,nearly,Wilson LLC,32801.6,12910.89,2.0,107,259,2023-08-01,True
+969,Civil,Clothing,home,Gutierrez-Ramos,7749.43,21971.74,2.5,177,105,2022-07-12,False
+970,Rather,Clothing,involve,"Howard, Heath and Haas",43818.98,24751.7,1.3,297,258,2025-05-15,False
+971,Laugh,Clothing,property,Huff Ltd,27046.91,4478.44,1.6,357,204,2025-03-09,False
+972,Tax,Beauty,check,Williams-Perry,14267.13,25004.6,2.2,379,262,2023-01-22,False
+973,National,Electronics,each,Wilkerson Ltd,21376.36,16254.87,1.4,395,107,2025-12-16,False
+974,Anything,Electronics,president,Reynolds-Torres,2071.04,25355.51,4.6,358,251,2022-04-03,False
+975,Arm,Clothing,hair,Peck PLC,6567.77,12995.92,1.0,145,221,2025-11-26,False
+976,Wonder,Sports,art,Roberts Inc,38324.23,11433.31,2.9,449,222,2024-01-19,True
+977,Computer,Electronics,international,"Hernandez, Simpson and Barron",200.58,27460.32,1.5,73,258,2023-06-27,False
+978,Language,Beauty,hold,Thomas-Frost,20944.98,7609.96,2.2,462,201,2024-11-29,False
+979,Level,Home,plan,"Anderson, Smith and Lopez",26221.01,25341.95,4.7,477,258,2022-07-20,False
+980,See,Home,song,"King, Wright and Rodriguez",2920.79,14572.22,1.6,107,225,2022-12-18,True
+981,Feeling,Home,leader,Spears Group,48659.29,15471.45,4.9,121,202,2022-10-03,True
+982,All,Sports,drop,Walters-Flowers,11461.04,9323.2,1.8,16,226,2023-10-21,True
+983,Understand,Clothing,plan,Adams and Sons,15349.1,17233.96,4.0,195,236,2022-01-28,False
+984,Green,Beauty,foreign,"Adams, Phelps and Bond",15336.34,9823.81,3.2,326,183,2022-10-07,False
+985,Situation,Sports,property,Adams LLC,11674.75,1274.16,4.5,317,200,2022-04-07,False
+986,Court,Beauty,few,"Gonzales, Winters and Ford",273.4,8232.76,3.2,296,246,2022-07-04,True
+987,Couple,Beauty,order,Lyons Group,36521.37,290.73,3.1,478,111,2022-08-26,False
+988,Not,Clothing,foreign,"Garcia, Thompson and Torres",48348.91,29352.81,1.8,498,6,2025-07-09,True
+989,Wall,Home,receive,"Smith, Harris and Hicks",11369.82,28975.84,1.7,251,236,2023-07-14,True
+990,Similar,Clothing,center,Mitchell Inc,33219.75,11915.14,4.7,486,127,2024-11-11,True
+991,Answer,Sports,trouble,Roberts-Hunter,37146.44,21878.29,2.3,118,104,2022-04-14,True
+992,As,Sports,type,"Lee, Mathis and Townsend",42451.58,10439.6,2.5,161,237,2023-09-07,True
+993,Read,Sports,floor,Bass PLC,21246.93,20165.69,4.0,197,155,2023-02-02,False
+994,Kind,Clothing,pass,Sparks-Ramos,15285.96,24182.36,2.4,497,257,2024-02-14,False
+995,Couple,Beauty,join,White PLC,16399.7,28408.01,4.8,485,235,2022-07-07,True
+996,This,Beauty,crime,Johnson PLC,35688.54,12066.35,4.0,44,289,2022-07-27,False
+997,Mrs,Electronics,visit,"Schultz, Moses and Harris",40875.62,23520.61,3.4,313,40,2022-09-19,False
+998,Relationship,Sports,hope,"Avila, Anderson and Barajas",9244.38,8051.26,4.5,178,288,2022-05-12,True
+999,Gun,Beauty,war,Le Ltd,18672.86,29710.94,1.2,381,197,2022-03-02,True
+1000,Morning,Electronics,want,Lee Ltd,45116.62,870.51,2.0,417,273,2022-05-10,False
